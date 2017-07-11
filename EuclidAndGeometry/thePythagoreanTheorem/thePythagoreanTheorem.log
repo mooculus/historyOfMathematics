@@ -1,14 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 JUL 2017 14:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 JUL 2017 14:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**historyOfMathematics.tex
-(./historyOfMathematics.tex
+**thePythagoreanTheorem.tex
+(./thePythagoreanTheorem.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/xourse.cls
-Document Class: xourse 2015/07/15 Version 1.26 by Bart Snapp, Oscar Levin, Hans
- Parshall
 (/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cls
 Document Class: ximera 2016/08/17 Version 1.30 by Bart Snapp
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -1095,7 +1092,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \c@titlenumber=\count197
 \c@sectiontitlenumber=\count198
 \outcomefile=\write6
-\openout6 = `historyOfMathematics.oc'.
+\openout6 = `thePythagoreanTheorem.oc'.
 
 \c@theorem=\count199
 \c@algorithm=\count200
@@ -1123,10 +1120,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \c@template=\count222
 \c@warning=\count223
 \idfile=\write7
-\openout7 = `historyOfMathematics.ids'.
+\openout7 = `thePythagoreanTheorem.ids'.
 
 
-Excluding comment 'matrixAnswer'
 (/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
 Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
 )
@@ -1141,9 +1137,9 @@ Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
 \c@problem=\count232
 \c@problemType=\count233
 \myfile=\write8
-\openout8 = `historyOfMathematics.jax'.
+\openout8 = `thePythagoreanTheorem.jax'.
 
-))
+)
 (./preamble.tex (/usr/local/texlive/2015/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
@@ -1311,24 +1307,25 @@ ions.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-sectors.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-angles.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-protractor.te
-x)) (./historyOfMathematics.aux)
-\openout1 = `historyOfMathematics.aux'.
+x))
+No file thePythagoreanTheorem.aux.
+\openout1 = `thePythagoreanTheorem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
- ABD: EveryShipout initializing macros
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ABD: EveryShipout initializing macros
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count302
@@ -1361,11 +1358,11 @@ e
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into 
 your preamble.
- on input line 5.
+ on input line 6.
 
 \c@lstlisting=\count308
 \AtBeginShipoutBox=\box66
-Package hyperref Info: Link coloring ON on input line 5.
+Package hyperref Info: Link coloring ON on input line 6.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1374,22 +1371,20 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count309
 )
-LaTeX Info: Redefining \ref on input line 5.
-LaTeX Info: Redefining \pageref on input line 5.
-LaTeX Info: Redefining \nameref on input line 5.
-
-(./historyOfMathematics.out) (./historyOfMathematics.out)
+LaTeX Info: Redefining \ref on input line 6.
+LaTeX Info: Redefining \pageref on input line 6.
+LaTeX Info: Redefining \nameref on input line 6.
 \@outlinefile=\write9
-\openout9 = `historyOfMathematics.out'.
+\openout9 = `thePythagoreanTheorem.out'.
 
-LaTeX Info: Redefining \celsius on input line 5.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 5.
+LaTeX Info: Redefining \celsius on input line 6.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 6.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 5.
-Package gensymb Info: Using \Omega for \ohm on input line 5.
+LaTeX Info: Redefining \ohm on input line 6.
+Package gensymb Info: Using \Omega for \ohm on input line 6.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1427,990 +1422,24 @@ Package gensymb Warning: Not defining \micro.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-LaTeX Warning: No \author given.
-
-[1
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./historyOfMathematics.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 1.
-
+LaTeX Font Info:    Try loading font information for U+msa on input line 11.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+LaTeX Font Info:    Try loading font information for U+msb on input line 11.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write10
-\openout10 = `historyOfMathematics.toc'.
-
- [2
-
-]
-(./EgyptianMathematics/EgyptianNumbersArithmetic/EgyptianNumbersArithmetic.tex
+)
 
 LaTeX Warning: No \author given.
 
-) [3
 
+LaTeX Warning: File `EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf' no
+t found on input line 30.
 
-]
-(./EgyptianMathematics/theMethodOfFalsePosition/theMethodOfFalsePosition.tex
 
-LaTeX Warning: No \author given.
+! Package pdftex.def Error: File `EuclidAndGeometry/thePythagoreanTheorem/PythE
+uclid.pdf' not found.
 
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.22 \end{exercise}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.41 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 \end{exercise}
-                    [4
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.5}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.69 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.73 \end{exploration}
-                      ) [5]
-(./BabylonianMathematics/BabylonianNumbers/BabylonianNumbers.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.24 \end{exercise}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.44 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.49 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.67 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 \end{problem}
-                  ) [6
-
-]
-(./PythagorasAndEarlyGreek/rationalNumbersAndSimilarity/rationalNumbersAndSimil
-arity.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.16 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.22 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.34 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.42 \end{exploration}
-                      ) [7
-
-]
-(./PythagorasAndEarlyGreek/pythagoreanMeans/pythagoreanMeans.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.26 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.70 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.77 \end{question}
-                    [8
-
-]) [9]
-(./HippocratesAndLunes/computingQuadratures/computingQuadratures.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.47 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.53 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.58 \end{question}
-                   ) [10
-
-]
-(./DuplicatingAndTrisecting/AllGreekToMe/AllGreekToMe.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.20 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.31 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.39 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.43 \end{question}
-                    [11
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.75 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.82 \end{question}
-                   ) [12]
-(./EuclidAndGeometry/euclidsElements/euclidsElements.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.24 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.32 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.73 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.84 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.97 \end{question}
-                    [13
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.110 \end{question}
-                    ) [14]
-(./EuclidAndGeometry/thePythagoreanTheorem/thePythagoreanTheorem.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.18 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.30 \end{question}
-                   
-<EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf, id=328, 278.54982pt x 
-302.91467pt>
-File: EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf Graphic file (type
- pdf)
- <use EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf>
-Package pdftex.def Info: EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf
- used on input line 30.
-(pdftex.def)             Requested size: 278.54913pt x 302.91393pt.
-pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.45 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.49 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \end{question}
-                    [15
-
- <./EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf>]pdfTeX warning (ext
-4): destination with the same identifier (name{problem.7}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.65 \end{question}
-                   ) [16] (./EuclidAndPrimes/UnsolvedProblems.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.39 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.49 \end{question}
-                    [17
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.57 \end{question}
-                   ) [18]
-(./EuclidAndPrimes/theUniqueFactorizationTheorem/theUniqueFactorizationTheorem.
-tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.23 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.50 \end{question}
-                    [19
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.89 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.94 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.99 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.104 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.117 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.122 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.9}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.127 \end{question}
-                    ) [20] (./EuclidAndPrimes/InfinitelyManyPrimes.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.45 \end{question}
-                   ) [21
-
-] (./ArchimedesAndPi/estimatingPi/estimatingPi.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.28 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.38 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.44 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.56 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.69 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.88 \end{problem}
-                   [22
-
-]) [23]
-(./HeronAndTriangles/heronsFormula/heronsFormula.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.24 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.28 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.47 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.52 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.70 \end{question}
-                    [24
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.8}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.78 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.9}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.90 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.10}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.98 \end{question}
-                    [25]) [26]
-(./CardanoAndTheCubic/solvingEquations/solvingEquationsv2.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.28 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.32 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.38 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.52 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.65 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.70 \end{question}
-                    [27
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.9}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.97 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.10}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.101 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.11}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.106 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.12}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.110 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.13}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.114 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.14}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.123 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.15}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.129 \end{question}
-                    ) [28]
-(./NewtonAndSeries/theBinomialTheoremAndPi/theBinomialTheoremAndPi.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 10.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\pi' on input line 10.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 10.
-
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.19 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.27 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.40 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.63 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.87 \end{question}
-                    [29
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.111 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.116 \end{question}
-                    ) [30]
-(./BernoulliAndSeries/leibnizAndSeries/leibnizAndSeries.tex
-
-LaTeX Warning: No \author given.
-
-\radius=\skip139
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.63 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 \end{question}
-                    [31
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.4}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.127 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.133 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.141 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.151 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.156 \end{question}
-                     [32]pdfTeX warning (ext4): destination with the same ident
-ifier (name{problem.9}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.172 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.10}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.177 \end{question}
-                    ) [33]
-(./EulerAndSeries/bernoulliEulerAndSeries/bernoulliEulerAndSeriesv2.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.31 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.49 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.56 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.64 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.72 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 \end{exploration}
-                       [34
-
-]) [35]
-(./EulerAndNumbers/EulerAndFermat/EulerAndFermat.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.15 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.29 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.45 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.49 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.53 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.9}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.57 \end{question}
-                   ) [36
-
-] (./CantorAndTheInfinite/cantorCan/cantorCan.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.43 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.63 \end{question}
-                    [37
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.68 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.75 \end{exploration}
-                      ) [38] (./ModernMathematics/whosWho/WhosWho.tex
-
-LaTeX Warning: No \author given.
-
-[39
-
-]) [40] (./ModernMathematics/limitsOfAxioms/limitsOfAxioms.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.17 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.29 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.46 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.75 \end{question}
-                    [41
-
-]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.97 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.9}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.127 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.10}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.136 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.11}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.12}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.144 \end{question}
-                     [42]) [43]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
- (./historyOfMathematics.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
-Package rerunfilecheck Info: File `historyOfMathematics.out' has not changed.
-(rerunfilecheck)             Checksum: 559E2D5AAB1418D1A0478EE714033CAE;1495.
- ) 
-Here is how much of TeX's memory you used:
- 40627 strings out of 493089
- 905176 string characters out of 6134842
- 1112978 words of memory out of 5000000
- 42957 multiletter control sequences out of 15000+600000
- 17131 words of font info for 64 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 86i,11n,102p,10411b,2159s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
-2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on historyOfMathematics.pdf (43 pages, 360775 bytes).
-PDF statistics:
- 805 PDF objects out of 1000 (max. 8388607)
- 726 compressed objects within 8 object streams
- 340 named destinations out of 1000 (max. 500000)
- 232 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+See the pdftex.def package documentation for explana
