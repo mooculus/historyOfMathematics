@@ -1,0 +1,74 @@
+\documentclass{ximera}
+
+\input{../preamble.tex}
+
+%\prerequisites{algebra}
+%\outcomes{methodOfFalsePosition}
+
+\title{The method of false position}
+\begin{document}
+\begin{abstract}
+In this activity we will seek to understand the method of false position.\
+\end{abstract}
+\maketitle
+
+
+\begin{exercise}
+Solve the following algebra problem:
+\begin{align*}
+x^2 + y^2 &= 52\\
+2x&=3y
+\end{align*}
+\end{exercise}
+
+
+\begin{question}
+While I am not sure which method you used to solve this problem, ancient Egyptians used the method of \textit{false position} to solve problems like this. Moreover, such a method was taught in American schools until the mid 1800's. Here is the solution using false position---without any explanation!
+\begin{enumerate}
+\item Set $x=3$ and $y=2$.
+\item $3^2 + 2^2 = 13$.
+\item $52/13 = 4$.
+\item $\sqrt{4} = 2$.
+\item $x = 2\cdot 3$ and $y = 2\cdot 2$.
+\end{enumerate}
+Explain the algorithm used and give another example to show you know how it
+is done.
+\end{question}
+
+
+\begin{exploration}
+Can you explain \textbf{why} the method of false position works?
+\end{exploration}
+
+\begin{exercise}
+Solve the following problem: One hundred dollars is to be split
+among four siblings: Ali, Brad, Cara, and Denise where Brad gets
+four more dollars than Ali, Cara gets eight more dollars than Brad,
+and Denise gets twice as much as Cara. How much does each sibling get?
+\end{exercise}
+
+
+
+\break
+
+\begin{question}
+Here is the solution by \textit{double false position}:
+\begin{enumerate}
+\item Suppose Ali gets $6$ dollars.
+\item The total now is not $100$, but $70$. We are too low by $30$. 
+\item Now suppose Ali gets $8$ dollars.
+\item The total now is not $100$, but $80$. We are too low by $20$.
+\item Compute
+\[
+\frac{8\cdot 30 - 6\cdot 20}{30-20} = 12.
+\]
+This is the correct answer. 
+\end{enumerate}
+Explain the algorithm used and give another example to show you know how it
+is done.
+\end{question}
+
+\begin{exploration}
+Can you explain \textbf{why} the method of double false position works?
+\end{exploration}
+\end{document}

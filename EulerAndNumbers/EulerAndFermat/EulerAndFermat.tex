@@ -1,0 +1,60 @@
+\documentclass[handout,nooutcomes]{ximera}
+
+\input{../preamble}
+
+\title{Euler and Fermat}
+
+\begin{document}
+\begin{abstract}
+    
+\end{abstract}
+\maketitle
+
+\begin{question}
+Remind me: what are the necessary ingredients for a proof by induction?
+\end{question}
+
+Our goal is to prove the following theorem: 
+\begin{theorem}
+Suppose that $a$ is an even number and $p$ a prime which does not divide $a$.  Suppose that $p$ does divide $a^{2^n} + 1$.  Then $p$ is of the form $p = 2^{n+1}k + 1$ for some positive integer $k$.  
+\end{theorem}
+
+In order to prove this theorem, we'll need the so-called ``Little Fermat Theorem''.  You can find Euler's proof of this theorem in your text.
+\begin{theorem}[Little Fermat Theorem]
+Let $a$ be a whole number and $p$ a prime which does not divide $a$.  Then $p$ divides $a^{p-1} - 1$.
+\end{theorem}
+
+\begin{question}
+Remind me: what is the definition of ``divides''?
+\end{question}
+
+\begin{question}
+Prove that Theorem 1 is true in the case that $n=0$.
+\end{question}
+
+\begin{question}
+Suppose that $A$ is any whole number, and that you divide $A$ by some number $C$.  What are the possible remainders?  What are the possibilities for how you could write $A$ as related to a multiple of $C$?
+\end{question}
+
+\begin{question}
+Repeat question 4, but related to Theorem 1 and the case $n=1$.  What are the possibilities for the prime $p$ when you divide by $2^2 = 4$?  Eliminate all but two of these cases.
+\end{question}
+
+\begin{question}
+Use proof by contradiction to eliminate the case you don't want.
+\end{question}
+
+\begin{question}
+Repeat questions 5 and 6, but for the case $n=2$.  If you're confident you understand what's going on, move to the next question!
+\end{question}
+
+\begin{question}
+Prove Theorem 1.
+\end{question}
+
+\begin{question}
+Euler used Theorem 1 to prove that $2^{2^5}+1$ is not prime.  How did he do this?  Check his work.  Could you use his method to prove that $2^{2^6} +1$ is not prime?
+\end{question}
+
+
+\end{document}

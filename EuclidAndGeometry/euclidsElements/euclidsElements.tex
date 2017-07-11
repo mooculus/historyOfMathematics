@@ -1,0 +1,117 @@
+\documentclass{ximera}
+
+\input{../preamble.tex}
+
+\title{Euclid's Elements}
+
+\begin{document}
+\begin{abstract}
+We prove some propositions from Euclid's \textit{Elements}. A full list of the definitions, common notions, postulates, and propositions in Book I is posted on Carmen, downloaded from \url{http://aleph0.clarku.edu/~djoyce/java/elements/bookI/bookI.html}
+\end{abstract}
+
+\maketitle
+
+
+
+
+
+\begin{proposition}[I.5]
+In isosceles triangles the angles at the base equal one another, and, if the equal straight lines are produced further, then the angles under the base equal one another.
+\end{proposition}
+
+\begin{question}
+Prove Proposition I.5.
+\end{question}
+
+\begin{proposition}[I.6]
+If in a triangle two angles equal one another, then the sides opposite the equal angles also equal one another.
+\end{proposition}
+
+\begin{question}
+Prove Proposition I.6.
+\end{question}
+
+
+\begin{proposition}[I.15]
+If two straight-lines cut one another then they make the vertically
+opposite angles equal to one another.
+\end{proposition}
+
+\begin{question}
+Prove Proposition I.15.
+\end{question}
+
+\begin{proposition}[I.16]
+For any triangle, when one of the sides is produced, the external
+angle is greater than each of the internal and opposite angles.
+\begin{image}
+\begin{tikzpicture}[geometryDiagrams]
+\coordinate (A) at (0,2);
+\coordinate (B) at (2,5);
+\coordinate (C) at (6.5,2);
+\coordinate (F) at (9,2);
+\draw (A)--(B)--(C)--cycle;
+\draw (C)--(F);
+\tkzLabelPoints[above](B)
+\tkzLabelPoints[below](A,C)
+\tkzMarkAngle[size=0.5cm,thin](F,C,B)
+\tkzLabelAngle[pos = 0.25](F,C,B){$\epsilon$}
+
+\tkzMarkAngle[size=0.6cm,thin](A,B,C)
+\tkzLabelAngle[pos = 0.35](A,B,C){$\beta$}
+
+\tkzMarkAngle[size=0.6cm,thin](C,A,B)
+\tkzLabelAngle[pos = 0.35](C,A,B){$\alpha$}
+
+%\draw[step=.5cm] (0,0) grid (10,5);
+\end{tikzpicture}
+\end{image}
+\end{proposition}
+
+\begin{question}
+Prove Proposition I.16.
+\end{question}
+
+\begin{proposition}[I.27]
+If a straight-line falling across two straight-lines makes the
+alternate angles equal to one another then the (two) straight-lines
+will be parallel to one another.
+\end{proposition}
+
+
+\begin{question}
+Prove Proposition I.27.
+\end{question}
+
+
+\begin{proposition}[I.29]
+A straight-line falling across parallel straight-lines makes the
+alternate angles equal to one another, the external (angle) equal to
+the internal and opposite (angle), and the (sum of the) internal
+(angles) on the same side equal to two right-angles.
+\end{proposition}
+
+
+\begin{question}
+Prove Proposition I.29.
+\end{question}
+
+
+\begin{proposition}[I.32]
+In any triangle, (if) one of the sides (is) produced (then) the
+external angle is equal to the (sum of the) two internal and opposite
+(angles), and the (sum of the) three internal angles of the triangle
+is equal to two right-angles.
+\end{proposition}
+
+
+\begin{question}
+Prove Proposition I.32.
+\end{question}
+
+
+
+
+
+
+\end{document}

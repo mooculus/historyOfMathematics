@@ -1,0 +1,77 @@
+\documentclass{ximera}
+
+\input{../preamble.tex}
+
+
+\title{Cantor Can!}
+\begin{document}
+\begin{abstract}
+In this activity we look at Cantor's diagonal argument.
+\end{abstract}
+\maketitle
+
+It took until the 1700's to get algebra and number systems in place in
+a workable way.  But there was still trouble understanding what
+infinity was.  Was the set of counting numbers really infinite, or was
+it only as big as the highest number that anyone had ever counted, or
+as big as the number of atoms in the universe, or\dots?  But even if
+the set of counting numbers was infinite, then the set of real numbers
+was also infinite.  But then again, were they the same infinity?  Some
+math grad student in Germany around 1850 shocked the math world by
+saying `no.'
+
+
+\begin{question}
+Here is a table of rational numbers:
+\[
+{\renewcommand{\arraystretch}{3}
+\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}\hline
+\cdots & -5 & -4 & -3 & -2 & -1 & 0 & 1 & 2 & 3 & 4 & 5 & \cdots\\\hline
+\cdots &\frac{-5}{2} & & \frac{-3}{2} &  & \frac{-1}{2} &   & \frac{1}{2} &  & \frac{3}{2} &  & \frac{5}{2} & \cdots\\\hline
+\cdots & \frac{-5}{3} & \frac{-4}{3} & & \frac{-2}{3} & \frac{-1}{3} & & \frac{1}{3} & \frac{2}{3} & & \frac{4}{3} & \frac{5}{3} & \cdots\\\hline
+\cdots & \frac{-5}{4} & & \frac{-3}{4} & & \frac{-1}{4} & & \frac{1}{4} & & \frac{3}{4} & & \frac{5}{4} & \cdots\\\hline
+\cdots &  & \frac{-4}{5} & \frac{-3}{5} & \frac{-2}{5} & \frac{-1}{5} & & \frac{1}{5} & \frac{2}{5} & \frac{3}{5} & \frac{4}{5} &  & \cdots\\\hline
+       & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \\\hline
+\end{array}}
+\]
+\begin{enumerate}
+\item What does the 12th row of the table look like? 
+\item Name three different rational numbers. Will they (eventually) appear on the table?
+\item Will every rational number eventually appear in the table above?
+\item Can you figure out how to ``enumerate'' the rationals?
+\end{enumerate}
+\end{question}
+
+
+\begin{question}
+The question: Are the set of counting numbers and the set of real
+numbers between $0$ and $1$ the same size?
+
+Cantor's answer: Suppose they were, then you could make a one-to-one,
+onto match-up:
+\begin{align*}
+1 &:0\,.\,2\,2\,3\,4\,3\,7\,9\,8\,7\,8\,4\,\dots\\
+2 &:0\,.\,8\,5\,9\,8\,4\,7\,5\,9\,3\,4\,8\,\dots\\
+3 &:0\,.\,1\,1\,2\,9\,0\,2\,9\,3\,9\,8\,0\,\dots\\
+4 &:0\,.\,0\,3\,4\,3\,2\,3\,4\,0\,5\,6\,3\,\dots\\
+5 &:0\,.\,9\,3\,9\,2\,8\,4\,9\,8\,2\,3\,9\,\dots\\
+6 &:0\,.\,7\,9\,7\,8\,8\,9\,3\,7\,8\,3\,3\,\dots\\
+  &\;\vdots
+\end{align*}
+So, you think you did it, eh?  I will find a real number between zero
+and one that is not on your list.  How will I do it?
+\end{question}
+
+\begin{question}
+Explain why the same argument does \textit{not} show that the
+rationals cannot be enumerated.
+\end{question}
+
+
+
+
+\begin{exploration}
+Is the cardinality of $\R$ equal to the cardinality of $\P(\Q)$?
+\end{exploration}
+
+\end{document}

@@ -1,0 +1,27 @@
+\contentsline {section}{1\nobreakspace {}Begin to Count}{3}{section*.1}
+\contentsline {section}{2\nobreakspace {}The method of false position}{4}{section*.2}
+\contentsline {section}{3\nobreakspace {}Babylonian numbers}{6}{section*.3}
+\contentsline {section}{4\nobreakspace {}Rational numbers and similarity}{7}{section*.4}
+\contentsline {section}{5\nobreakspace {}Pythagorean means}{8}{section*.5}
+\contentsline {section}{6\nobreakspace {}Computing quadratures}{10}{section*.6}
+\contentsline {section}{7\nobreakspace {}It's All Greek To Me!}{11}{section*.7}
+\contentsline {section}{8\nobreakspace {}Euclid's Elements}{13}{section*.8}
+\contentsline {section}{9\nobreakspace {}The Pythagorean Theorem}{15}{section*.9}
+\contentsline {section}{10\nobreakspace {}Unsolved Problems}{17}{section*.10}
+\contentsline {section}{Readings}{17}{section*.11}
+\contentsline {section}{Questions}{17}{section*.12}
+\contentsline {section}{11\nobreakspace {}The unique factorization theorem}{19}{section*.13}
+\contentsline {section}{12\nobreakspace {}On the Infinitude of Primes}{21}{section*.14}
+\contentsline {section}{Readings}{21}{section*.15}
+\contentsline {section}{Questions}{21}{section*.16}
+\contentsline {section}{13\nobreakspace {}Estimating Pi}{22}{section*.17}
+\contentsline {section}{14\nobreakspace {}Heron's formula}{24}{section*.18}
+\contentsline {section}{15\nobreakspace {}Solving equations}{27}{section*.19}
+\contentsline {section}{16\nobreakspace {}The binomial theorem and $\pi $}{29}{section*.20}
+\contentsline {section}{17\nobreakspace {}Leibniz and series}{31}{section*.21}
+\contentsline {section}{18\nobreakspace {}Bernoulli, Euler, and series}{34}{section*.22}
+\contentsline {section}{19\nobreakspace {}Euler and Fermat}{36}{section*.23}
+\contentsline {section}{20\nobreakspace {}Cantor Can!}{37}{section*.24}
+\contentsline {section}{21\nobreakspace {}Who's Who}{39}{section*.25}
+\contentsline {section}{22\nobreakspace {}Limits of axioms}{41}{section*.26}
+\contentsfinish 

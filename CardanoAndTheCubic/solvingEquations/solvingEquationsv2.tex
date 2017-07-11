@@ -1,0 +1,132 @@
+\documentclass[nooutcomes]{ximera}
+
+\input{../preamble.tex}
+
+\title{Solving equations}
+\begin{document}
+\begin{abstract}
+In this activity we will solve second and third degree equations.
+\end{abstract}
+\maketitle
+
+
+Finding roots of quadratic polynomials is somewhat complex. We want to
+find $x$ such that
+\[
+ax^2 + bx + c = 0.
+\]
+I know you already know how to do this. However, pretend for a moment
+that you don't. This would be a really hard problem. We have evidence
+that it took humans around 1000 years to solve this problem in
+generality, with the first general solutions appearing in Babylon and China
+around 2500 years ago. Let's begin with an easier problem: make $a=1$ and try to
+solve $x^2 + bx = c$.
+ 
+
+\begin{problem} Geometrically, you could visualize $x^2 + bx = c$ as an $x \times x$ square
+along with a $b\times x$ rectangle. Make a blob for $c$ on the other side.  Draw a picture of this!
+\end{problem}
+
+
+\begin{question} What is the total area of the shapes in your picture?
+\end{question}
+
+
+
+
+\begin{problem} Now draw a new picture: take your $b\times x$ rectangle and divide it into two $(b/2)\times x$ rectangles.
+\end{problem}
+
+
+\begin{question} What is the total area of the shapes in your picture?
+\end{question}
+
+\begin{problem} Draw a next picture in your sequence: take both of your $(b/2)\times x$ rectangles and snuggie them
+next to your $x\times x$ square on adjacent sides. You should now have
+what looks like an $(x + \frac{b}{2}) \times (x +
+\frac{b}{2})$ square with a corner cut out of it.
+\end{problem}
+
+
+\begin{question} What is the total area of the shapes in your picture?
+\end{question}
+
+
+Finally, your big $(x + \frac{b}{2}) \times (x + \frac{b}{2})$ has a
+piece missing, a $(b/2) \times (b/2)$ square, right? So if you add
+that piece in on both sides, the area of both sides of your picture
+had better be $c + (b/2)^2$. From your picture you will find that:
+\[
+\left(x + \frac{b}{2}\right)^2 = c + \left(\frac{b}{2}\right)^2
+\]
+
+\begin{question} 
+Can you find $x$ at this point?
+\end{question}
+
+
+\begin{question}
+Explain how to solve $ax^2 + bx + c = 0$.
+\end{question}
+
+
+
+\subsection*{Cubic Equations}
+
+While the quadratic formula was discovered around 2500 years ago,
+cubic equations proved to be a tougher nut to crack. A general
+solution to a cubic equation was not found until the 1500's - and under some pretty strange circumstances!  See your text for the low-down on all of the drama.
+
+We'll show you the Ferro-Tartaglia method\index{Ferro-Tartaglia
+  method} for finding at least one root of a cubic of the form
+\[
+x^3+ px + q.
+\]
+
+All I can tell you are these three steps:
+\begin{enumerate}
+\item Replace $x$ with $u+v$. 
+\item Set $uv$ so that all of the terms are eliminated except for $u^3$,
+$v^3$, and constant terms.  
+\item Clear denominators and use the quadratic formula.
+\end{enumerate}
+
+
+
+\begin{question} How many solutions are we supposed to have in total?
+\end{question}
+
+\begin{question}
+Use the Ferro-Tartaglia method to solve $x^3 + 9x -26 =0$.
+\end{question}
+
+\begin{question}
+How many solutions should our equation above have? Where/what are they?
+Hint: Make use of an old forgotten foe\dots
+\end{question}
+
+\begin{question}
+Is the method described here the same as the one in our text as the proof of the ``great theorem''?  Explain why or why not.
+\end{question}
+
+\begin{question}
+Use the Ferro-Tartaglia method to solve $x^3 = 15x + 4$.  What do you notice?
+\end{question}
+
+
+
+\begin{question} How do we do this procedure for other equations of the form
+\[
+x^3 + px + q = 0?
+\]
+Give an algebraic formula as your solution.
+\end{question}
+
+
+
+\begin{question}
+Would Ferro, Tartaglia, Cardano, or Ferrari have answered the previous question differently than you might?
+\end{question}
+
+
+\end{document}

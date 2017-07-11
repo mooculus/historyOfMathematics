@@ -1,0 +1,81 @@
+\documentclass[nooutcomes]{ximera}
+
+\input{../preamble}
+
+\title{Bernoulli, Euler, and series}
+
+\begin{document}
+\begin{abstract}
+Here we see some topics that both Bernoulli and Euler were interested in.
+\end{abstract}
+\maketitle
+
+
+
+Finding the sum of the following series is called ``The Basel Problem'' as it interested several mathematicians with connections to the city of Basel, Switzerland.  (Who were they?)
+\[
+1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \frac{1}{25} + \frac{1}{36} + \frac{1}{49}\cdots
+\]
+Notice: we are asking for the sum of the reciprocals of the square numbers. 
+
+
+\begin{question}
+Consider:
+\[
+f(x) = 1 - \frac{x^2}{3!} + \frac{x^4}{5!}-\frac{x^6}{7!} + \frac{x^8}{9!} - \frac{x^{10}}{11!} + \dots
+\]
+Can you explain why 
+\[
+f(x) = \frac{\sin(x)}{x}\qquad x \ne 0?
+\]
+\end{question}
+
+
+\begin{question}
+Let $g(x)$ be a polynomial with roots $a_1,\dots, a_n$. Suppose also
+that $g(0)=0$. What are the factors of $g(x)$?
+\end{question}
+
+\begin{question}
+Let $g(x)$ be a polynomial with roots $a_1,\dots, a_n$. Suppose also
+that $g(0)=1$. What are the factors of $g(x)$?
+\end{question}
+
+\begin{question}
+What exactly are the roots of $f(x)$? What is $f(0)$?  Explain why:
+\[
+f(x) = \bigg(1-\frac{x}{\pi} \bigg)\bigg(1-\frac{x}{-\pi} \bigg)\bigg(1-\frac{x}{2\pi} \bigg)\bigg(1-\frac{x}{-2\pi} \bigg)\bigg(1-\frac{x}{3\pi} \bigg)\bigg(1-\frac{x}{-3\pi} \bigg) \cdots
+\]
+\end{question}
+
+\begin{question}
+Explain why:
+\[
+f(x) = \prod_{n=1}^\infty \left(1 - \frac{x^2}{n^2\pi^2} \right)
+\]
+\end{question}
+
+\begin{question}
+Explain why:
+\[
+f(x) = 1 - x^2 \sum_{n=1}^\infty \frac{1}{n^2\pi^2} 
++ x^4 \bigg(\cdots\bigg)  - x^6 \bigg(\cdots\bigg)  + \cdots
+\]
+\end{question}
+
+
+\begin{question}
+Explain why:
+\[
+\sum_{n=1}^\infty \frac{1}{n^2}= \frac{\pi^2}{6}.
+\]
+\end{question}
+
+\begin{exploration}[Bonus!]
+Compute
+\[
+\sum_{n=1}^\infty \frac{1}{n^3}.
+\]
+\end{exploration}
+
+\end{document}

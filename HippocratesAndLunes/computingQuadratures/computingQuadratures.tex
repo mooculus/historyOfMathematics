@@ -1,0 +1,59 @@
+\documentclass[handout]{ximera}
+
+\input{../preamble.tex}
+
+
+\title{Computing quadratures}
+
+\begin{document}
+\begin{abstract}
+In this activity we will compute some basic quadratures.
+\end{abstract}
+\maketitle
+
+
+When computing a quadrature of a shape in the method of the ancient
+Greeks, one needs to produce a line segment whose length gives the
+side of a square of equal area to the original shape.
+
+
+\begin{question}
+Consider the figure below. Explain how one could construct it and
+what segment $x$ represents.
+\begin{image}
+\begin{tikzpicture}[geometryDiagrams]
+\draw[thin] (2,0) arc (0:180:2cm);
+\draw[thin] (-2,0)--(1,0);
+\draw[thin] (1,0)--(2,0);
+\draw[decoration={brace,mirror,raise=.2cm},decorate,thin] (-1.9,0)--(.9,0);
+\draw[decoration={brace,mirror,raise=.2cm},decorate,thin] (1.1,0)--(1.9,0);
+\draw (1,0)--({2*cos(60)},{2*sin(60)});
+\node at (.8,{sin(60)}) {$x$};
+\node at (-.5,-.5) {$n$};
+\node at (1.5,-.5) {$1$};
+\end{tikzpicture}
+\end{image}
+\end{question}
+
+
+\begin{question}
+Construct a rectangle whose side lengths are 8 units and 5 units.  Then construct its quadrature.  Explain your construction step-by-step, and tell why it works!
+%How do you compute the quadrature of an $a\times b$ rectangle?
+\end{question}
+
+\begin{question}
+Construct a triangle whose base has length 8 units and whose height has length 5 units.  Then construct its quadrature.  Explain your construction step-by-step, and tell why it works!
+%How do you compute the quadrature of a triangle?
+\end{question}
+
+
+\begin{question}
+Suppose you have a square whose side length is 8 units and another square whose side length is 15 units.  How would you construct the quadrature of the two areas together?  Explain how you know.
+%How do you compute the quadrature of several squares?
+\end{question}
+
+
+\begin{question}
+How do you compute the quadrature of a polygon?
+\end{question}
+\end{document}
