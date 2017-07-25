@@ -17,47 +17,59 @@
 \contentsline {section}{13\nobreakspace {}On the Infinitude of Primes}{23}{section*.17}
 \contentsline {section}{Readings}{23}{section*.18}
 \contentsline {section}{Questions}{23}{section*.19}
-\contentsline {section}{14\nobreakspace {}Estimating Pi}{24}{section*.20}
-\contentsline {section}{15\nobreakspace {}Heron's formula}{26}{section*.21}
-\contentsline {section}{16\nobreakspace {}The Beginning of the Modern Era}{29}{section*.22}
-\contentsline {section}{Readings}{29}{section*.23}
-\contentsline {section}{Questions}{29}{section*.24}
-\contentsline {section}{17\nobreakspace {}Solving equations}{30}{section*.25}
-\contentsline {section}{18\nobreakspace {}Mathematical Notation}{32}{section*.26}
-\contentsline {section}{Readings}{32}{section*.27}
-\contentsline {section}{Questions}{32}{section*.28}
-\contentsline {section}{19\nobreakspace {}Logarithms and Multiplication}{33}{section*.29}
-\contentsline {section}{Readings}{33}{section*.30}
-\contentsline {section}{Questions}{33}{section*.31}
-\contentsline {section}{20\nobreakspace {}The binomial theorem and $\pi $}{35}{section*.32}
-\contentsline {section}{21\nobreakspace {}Fermat's Last Theorem}{37}{section*.33}
-\contentsline {section}{Readings}{37}{section*.34}
-\contentsline {section}{Questions}{37}{section*.35}
-\contentsline {section}{22\nobreakspace {}Newton and Leibniz}{39}{section*.36}
-\contentsline {section}{Readings}{39}{section*.37}
-\contentsline {section}{Questions}{39}{section*.38}
-\contentsline {section}{23\nobreakspace {}Leibniz and series}{40}{section*.39}
-\contentsline {section}{24\nobreakspace {}Proofs that the Harmonic Series Diverges}{43}{section*.40}
-\contentsline {section}{Readings}{43}{section*.41}
-\contentsline {section}{Questions}{43}{section*.42}
-\contentsline {section}{25\nobreakspace {}The Riemann Hypothesis}{44}{section*.43}
-\contentsline {section}{Readings}{44}{section*.44}
-\contentsline {section}{Questions}{44}{section*.45}
-\contentsline {section}{26\nobreakspace {}Bernoulli, Euler, and series}{45}{section*.46}
-\contentsline {section}{27\nobreakspace {}Very Large Primes}{47}{section*.47}
-\contentsline {section}{Readings}{47}{section*.48}
-\contentsline {section}{Questions}{47}{section*.49}
-\contentsline {section}{28\nobreakspace {}Euler and Fermat}{48}{section*.50}
-\contentsline {section}{29\nobreakspace {}Gauss, The Prince of Mathematicians}{49}{section*.51}
-\contentsline {section}{Readings}{49}{section*.52}
-\contentsline {section}{Questions}{49}{section*.53}
-\contentsline {section}{30\nobreakspace {}Contemplating the Infinite}{50}{section*.54}
-\contentsline {section}{Readings}{50}{section*.55}
-\contentsline {section}{Questions}{50}{section*.56}
-\contentsline {section}{31\nobreakspace {}Cantor Can!}{51}{section*.57}
-\contentsline {section}{32\nobreakspace {}The Twentieth Century and Beyond}{53}{section*.58}
-\contentsline {section}{Readings}{53}{section*.59}
-\contentsline {section}{Questions}{53}{section*.60}
-\contentsline {section}{33\nobreakspace {}Who's Who}{54}{section*.61}
-\contentsline {section}{34\nobreakspace {}Limits of axioms}{56}{section*.62}
+\contentsline {section}{14\nobreakspace {}Pi}{24}{section*.20}
+\contentsline {section}{Readings}{24}{section*.21}
+\contentsline {section}{Questions}{24}{section*.22}
+\contentsline {section}{15\nobreakspace {}Estimating Pi}{25}{section*.23}
+\contentsline {section}{16\nobreakspace {}Archimedes and Estimation}{27}{section*.24}
+\contentsline {section}{Readings}{27}{section*.25}
+\contentsline {section}{Questions}{27}{section*.26}
+\contentsline {section}{17\nobreakspace {}Mathematicians after Archimedes}{28}{section*.27}
+\contentsline {section}{Readings}{28}{section*.28}
+\contentsline {section}{Questions}{28}{section*.29}
+\contentsline {section}{18\nobreakspace {}Heron's formula}{30}{section*.30}
+\contentsline {section}{19\nobreakspace {}Arabic Mathematics}{33}{section*.31}
+\contentsline {section}{Readings}{33}{section*.32}
+\contentsline {section}{Questions}{33}{section*.33}
+\contentsline {section}{20\nobreakspace {}The Beginning of the Modern Era}{34}{section*.34}
+\contentsline {section}{Readings}{34}{section*.35}
+\contentsline {section}{Questions}{34}{section*.36}
+\contentsline {section}{21\nobreakspace {}Solving equations}{35}{section*.37}
+\contentsline {section}{22\nobreakspace {}Mathematical Notation}{37}{section*.38}
+\contentsline {section}{Readings}{37}{section*.39}
+\contentsline {section}{Questions}{37}{section*.40}
+\contentsline {section}{23\nobreakspace {}Logarithms and Multiplication}{38}{section*.41}
+\contentsline {section}{Readings}{38}{section*.42}
+\contentsline {section}{Questions}{38}{section*.43}
+\contentsline {section}{24\nobreakspace {}The binomial theorem and $\pi $}{40}{section*.44}
+\contentsline {section}{25\nobreakspace {}Fermat's Last Theorem}{42}{section*.45}
+\contentsline {section}{Readings}{42}{section*.46}
+\contentsline {section}{Questions}{42}{section*.47}
+\contentsline {section}{26\nobreakspace {}Newton and Leibniz}{44}{section*.48}
+\contentsline {section}{Readings}{44}{section*.49}
+\contentsline {section}{Questions}{44}{section*.50}
+\contentsline {section}{27\nobreakspace {}Leibniz and series}{45}{section*.51}
+\contentsline {section}{28\nobreakspace {}Proofs that the Harmonic Series Diverges}{48}{section*.52}
+\contentsline {section}{Readings}{48}{section*.53}
+\contentsline {section}{Questions}{48}{section*.54}
+\contentsline {section}{29\nobreakspace {}The Riemann Hypothesis}{49}{section*.55}
+\contentsline {section}{Readings}{49}{section*.56}
+\contentsline {section}{Questions}{49}{section*.57}
+\contentsline {section}{30\nobreakspace {}Bernoulli, Euler, and series}{50}{section*.58}
+\contentsline {section}{31\nobreakspace {}Very Large Primes}{52}{section*.59}
+\contentsline {section}{Readings}{52}{section*.60}
+\contentsline {section}{Questions}{52}{section*.61}
+\contentsline {section}{32\nobreakspace {}Euler and Fermat}{53}{section*.62}
+\contentsline {section}{33\nobreakspace {}Gauss, The Prince of Mathematicians}{54}{section*.63}
+\contentsline {section}{Readings}{54}{section*.64}
+\contentsline {section}{Questions}{54}{section*.65}
+\contentsline {section}{34\nobreakspace {}Contemplating the Infinite}{55}{section*.66}
+\contentsline {section}{Readings}{55}{section*.67}
+\contentsline {section}{Questions}{55}{section*.68}
+\contentsline {section}{35\nobreakspace {}Cantor Can!}{56}{section*.69}
+\contentsline {section}{36\nobreakspace {}The Twentieth Century and Beyond}{58}{section*.70}
+\contentsline {section}{Readings}{58}{section*.71}
+\contentsline {section}{Questions}{58}{section*.72}
+\contentsline {section}{37\nobreakspace {}Who's Who}{59}{section*.73}
+\contentsline {section}{38\nobreakspace {}Limits of axioms}{61}{section*.74}
 \contentsfinish 
