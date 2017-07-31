@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  30 JUL 2017 22:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  31 JUL 2017 17:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1640,7 +1640,28 @@ l.70 \end{question}
 l.77 \end{question}
                     [13
 
-]) [14]
+]) [14] (./HippocratesAndLunes/CirclesAndLunes.tex
+
+LaTeX Warning: No \author given.
+
+pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30 \end{question}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{problem.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.40 \end{question}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{problem.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 \end{question}
+                   ) [15
+
+]
 (./HippocratesAndLunes/computingQuadratures/computingQuadratures.tex
 
 LaTeX Warning: No \author given.
@@ -1670,9 +1691,31 @@ l.53 \end{question}
 <to be read again> 
                    \relax 
 l.58 \end{question}
-                   ) [15
+                   ) [16
 
-] (./HippocratesAndLunes/AllGreekToMe/AllGreekToMe.tex
+] (./HippocratesAndLunes/ThreeProblemsOfAntiquity.tex
+
+LaTeX Warning: No \author given.
+
+pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.36 \end{question}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{problem.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 \end{question}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{problem.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 \end{question}
+                    [17
+
+]) [18]
+(./HippocratesAndLunes/AllGreekToMe/AllGreekToMe.tex
 
 LaTeX Warning: No \author given.
 
@@ -1706,7 +1749,7 @@ l.39 \end{question}
 <to be read again> 
                    \relax 
 l.43 \end{question}
-                    [16
+                    [19
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
 has been already used, duplicate ignored
@@ -1718,7 +1761,28 @@ l.75 \end{question}
 <to be read again> 
                    \relax 
 l.82 \end{question}
-                   ) [17] (./EuclidAndGeometry/ProofsPythagoreanTheorem.tex
+                   ) [20] (./HippocratesAndLunes/Trisecting.tex
+
+LaTeX Warning: No \author given.
+
+pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 \end{question}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{problem.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 \end{question}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{problem.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52 \end{question}
+                   ) [21
+
+] (./EuclidAndGeometry/ProofsPythagoreanTheorem.tex
 
 LaTeX Warning: No \author given.
 
@@ -1737,7 +1801,7 @@ l.41 \end{question}
 <to be read again> 
                    \relax 
 l.49 \end{question}
-                   ) [18
+                   ) [22
 
 ]
 (./EuclidAndGeometry/euclidsElements/euclidsElements.tex
@@ -1774,14 +1838,14 @@ l.84 \end{question}
 <to be read again> 
                    \relax 
 l.97 \end{question}
-                    [19
+                    [23
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.110 \end{question}
-                    ) [20]
+                    ) [24]
 (./EuclidAndGeometry/thePythagoreanTheorem/thePythagoreanTheorem.tex
 
 LaTeX Warning: No \author given.
@@ -1797,7 +1861,7 @@ l.18 \end{question}
                    \relax 
 l.30 \end{question}
                    
-<EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf, id=692, 278.54982pt x 
+<EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf, id=813, 278.54982pt x 
 302.91467pt>
 File: EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf Graphic file (type
  pdf)
@@ -1825,7 +1889,7 @@ l.49 \end{question}
 <to be read again> 
                    \relax 
 l.54 \end{question}
-                    [21
+                    [25
 
  <./EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf>]pdfTeX warning (ext
 4): destination with the same identifier (name{problem.7}) has been already use
@@ -1838,7 +1902,7 @@ l.59 \end{question}
 <to be read again> 
                    \relax 
 l.65 \end{question}
-                   ) [22] (./EuclidAndPrimes/UnsolvedProblems.tex
+                   ) [26] (./EuclidAndPrimes/UnsolvedProblems.tex
 
 LaTeX Warning: No \author given.
 
@@ -1852,14 +1916,14 @@ l.39 \end{question}
 <to be read again> 
                    \relax 
 l.49 \end{question}
-                    [23
+                    [27
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.57 \end{question}
-                   ) [24]
+                   ) [28]
 (./EuclidAndPrimes/theUniqueFactorizationTheorem/theUniqueFactorizationTheorem.
 tex
 
@@ -1875,7 +1939,7 @@ l.23 \end{question}
 <to be read again> 
                    \relax 
 l.50 \end{question}
-                    [25
+                    [29
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
@@ -1912,7 +1976,7 @@ l.122 \end{question}
 <to be read again> 
                    \relax 
 l.127 \end{question}
-                    ) [26] (./EuclidAndPrimes/InfinitelyManyPrimes.tex
+                    ) [30] (./EuclidAndPrimes/InfinitelyManyPrimes.tex
 
 LaTeX Warning: No \author given.
 
@@ -1931,7 +1995,7 @@ l.37 \end{question}
 <to be read again> 
                    \relax 
 l.45 \end{question}
-                   ) [27
+                   ) [31
 
 ] (./ArchimedesAndPi/Pi.tex
 
@@ -1952,7 +2016,7 @@ l.39 \end{question}
 <to be read again> 
                    \relax 
 l.47 \end{question}
-                   ) [28
+                   ) [32
 
 ] (./ArchimedesAndPi/estimatingPi/estimatingPi.tex
 
@@ -1993,9 +2057,9 @@ name{problem.7}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.88 \end{problem}
-                   [29
+                   [33
 
-]) [30] (./ArchimedesAndPi/ArchimedesAndEstimation.tex
+]) [34] (./ArchimedesAndPi/ArchimedesAndEstimation.tex
 
 LaTeX Warning: No \author given.
 
@@ -2014,7 +2078,7 @@ l.33 \end{question}
 <to be read again> 
                    \relax 
 l.41 \end{question}
-                   ) [31
+                   ) [35
 
 ]
 (./HeronAndTriangles/MathematiciansAfterArchimedes.tex
@@ -2036,9 +2100,9 @@ l.44 \end{question}
 <to be read again> 
                    \relax 
 l.52 \end{question}
-                    [32
+                    [36
 
-]) [33]
+]) [37]
 (./HeronAndTriangles/heronsFormula/heronsFormula.tex
 
 LaTeX Warning: No \author given.
@@ -2078,7 +2142,7 @@ l.59 \end{question}
 <to be read again> 
                    \relax 
 l.70 \end{question}
-                    [34
+                    [38
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.8}) 
 has been already used, duplicate ignored
@@ -2095,7 +2159,7 @@ l.90 \end{question}
 <to be read again> 
                    \relax 
 l.98 \end{question}
-                    [35]) [36] (./HeronAndTriangles/ArabicMathematics.tex
+                    [39]) [40] (./HeronAndTriangles/ArabicMathematics.tex
 
 LaTeX Warning: No \author given.
 
@@ -2121,7 +2185,7 @@ l.33 \end{question}
 <to be read again> 
                    \relax 
 l.41 \end{question}
-                   ) [37
+                   ) [41
 
 ] (./CardanoAndTheCubic/BeginningModernEra.tex
 
@@ -2142,7 +2206,7 @@ l.35 \end{question}
 <to be read again> 
                    \relax 
 l.43 \end{question}
-                   ) [38
+                   ) [42
 
 ]
 (./CardanoAndTheCubic/solvingEquations/solvingEquationsv2.tex
@@ -2189,7 +2253,7 @@ l.65 \end{question}
 <to be read again> 
                    \relax 
 l.70 \end{question}
-                    [39
+                    [43
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.9}) 
 has been already used, duplicate ignored
@@ -2226,7 +2290,7 @@ l.123 \end{question}
 <to be read again> 
                    \relax 
 l.129 \end{question}
-                    ) [40] (./CardanoAndTheCubic/MathematicalNotation.tex
+                    ) [44] (./CardanoAndTheCubic/MathematicalNotation.tex
 
 LaTeX Warning: No \author given.
 
@@ -2245,7 +2309,7 @@ l.35 \end{question}
 <to be read again> 
                    \relax 
 l.43 \end{question}
-                   ) [41
+                   ) [45
 
 ] (./NewtonAndSeries/LogarithmsAndMultiplication.tex
 
@@ -2261,14 +2325,14 @@ l.36 \end{question}
 <to be read again> 
                    \relax 
 l.46 \end{question}
-                    [42
+                    [46
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.54 \end{question}
-                   ) [43]
+                   ) [47]
 (./NewtonAndSeries/theBinomialTheoremAndPi/theBinomialTheoremAndPi.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2315,7 +2379,7 @@ l.63 \end{question}
 <to be read again> 
                    \relax 
 l.87 \end{question}
-                    [44
+                    [48
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
 has been already used, duplicate ignored
@@ -2327,7 +2391,7 @@ l.111 \end{question}
 <to be read again> 
                    \relax 
 l.116 \end{question}
-                    ) [45] (./NewtonAndSeries/FermatsLastTheorem.tex
+                    ) [49] (./NewtonAndSeries/FermatsLastTheorem.tex
 
 LaTeX Warning: No \author given.
 
@@ -2343,14 +2407,14 @@ l.33 \end{question}
 <to be read again> 
                    \relax 
 l.43 \end{question}
-                    [46
+                    [50
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.51 \end{question}
-                   ) [47] (./BernoulliAndSeries/NewtonAndLeibniz.tex
+                   ) [51] (./BernoulliAndSeries/NewtonAndLeibniz.tex
 
 LaTeX Warning: No \author given.
 
@@ -2369,7 +2433,7 @@ l.38 \end{question}
 <to be read again> 
                    \relax 
 l.46 \end{question}
-                   ) [48
+                   ) [52
 
 ]
 (./BernoulliAndSeries/leibnizAndSeries/leibnizAndSeries.tex
@@ -2402,7 +2466,7 @@ l.63 \end{question}
 <to be read again> 
                    \relax 
 l.79 \end{question}
-                    [49
+                    [53
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.4}) 
 has been already used, duplicate ignored
@@ -2429,7 +2493,7 @@ l.151 \end{question}
 <to be read again> 
                    \relax 
 l.156 \end{question}
-                     [50]pdfTeX warning (ext4): destination with the same ident
+                     [54]pdfTeX warning (ext4): destination with the same ident
 ifier (name{problem.9}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -2439,7 +2503,7 @@ l.172 \end{question}
 <to be read again> 
                    \relax 
 l.177 \end{question}
-                    ) [51] (./BernoulliAndSeries/HarmonicSeriesDiverges.tex
+                    ) [55] (./BernoulliAndSeries/HarmonicSeriesDiverges.tex
 
 LaTeX Warning: No \author given.
 
@@ -2458,7 +2522,7 @@ l.43 \end{question}
 <to be read again> 
                    \relax 
 l.51 \end{question}
-                   ) [52
+                   ) [56
 
 ] (./EulerAndSeries/RiemannHypothesis.tex
 
@@ -2479,7 +2543,7 @@ l.37 \end{question}
 <to be read again> 
                    \relax 
 l.45 \end{question}
-                   ) [53
+                   ) [57
 
 ]
 (./EulerAndSeries/bernoulliEulerAndSeries/bernoulliEulerAndSeriesv2.tex
@@ -2526,9 +2590,9 @@ l.72 \end{question}
 <to be read again> 
                    \relax 
 l.79 \end{exploration}
-                       [54
+                       [58
 
-]) [55] (./EulerAndNumbers/VeryLargePrimes.tex
+]) [59] (./EulerAndNumbers/VeryLargePrimes.tex
 
 LaTeX Warning: No \author given.
 
@@ -2547,7 +2611,7 @@ l.35 \end{question}
 <to be read again> 
                    \relax 
 l.43 \end{question}
-                   ) [56
+                   ) [60
 
 ] (./EulerAndNumbers/EulerAndFermat/EulerAndFermat.tex
 
@@ -2598,7 +2662,7 @@ l.53 \end{question}
 <to be read again> 
                    \relax 
 l.57 \end{question}
-                   ) [57
+                   ) [61
 
 ] (./EulerAndNumbers/GaussPrinceMathematicians.tex
 
@@ -2619,7 +2683,7 @@ l.41 \end{question}
 <to be read again> 
                    \relax 
 l.49 \end{question}
-                   ) [58
+                   ) [62
 
 ] (./CantorAndTheInfinite/ContemplatingTheInfinite.tex
 
@@ -2640,7 +2704,7 @@ l.40 \end{question}
 <to be read again> 
                    \relax 
 l.48 \end{question}
-                   ) [59
+                   ) [63
 
 ] (./CantorAndTheInfinite/cantorCan/cantorCan.tex
 
@@ -2656,7 +2720,7 @@ l.43 \end{question}
 <to be read again> 
                    \relax 
 l.63 \end{question}
-                    [60
+                    [64
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
@@ -2668,7 +2732,7 @@ l.68 \end{question}
 <to be read again> 
                    \relax 
 l.75 \end{exploration}
-                      ) [61] (./ModernMathematics/TwentiethCenturyAndBeyond.tex
+                      ) [65] (./ModernMathematics/TwentiethCenturyAndBeyond.tex
 
 LaTeX Warning: No \author given.
 
@@ -2687,15 +2751,15 @@ l.40 \end{question}
 <to be read again> 
                    \relax 
 l.48 \end{question}
-                   ) [62
+                   ) [66
 
 ] (./ModernMathematics/whosWho/WhosWho.tex
 
 LaTeX Warning: No \author given.
 
-[63
+[67
 
-]) [64] (./ModernMathematics/limitsOfAxioms/limitsOfAxioms.tex
+]) [68] (./ModernMathematics/limitsOfAxioms/limitsOfAxioms.tex
 
 LaTeX Warning: No \author given.
 
@@ -2729,7 +2793,7 @@ l.46 \end{question}
 <to be read again> 
                    \relax 
 l.75 \end{question}
-                    [65
+                    [69
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
 has been already used, duplicate ignored
@@ -2761,24 +2825,20 @@ l.140 \end{question}
 <to be read again> 
                    \relax 
 l.144 \end{question}
-                     [66]) [67]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+                     [70]) [71]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  (./historyOfMathematics.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `historyOfMathematics.out' has not changed.
-(rerunfilecheck)             Checksum: D412AD6D0FF0F7ADD78503AFCB6A2AC7;4350.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 69DA215789976A582B635105A1D34EAB;4810.
  ) 
 Here is how much of TeX's memory you used:
- 41029 strings out of 493089
- 911175 string characters out of 6134842
- 1115480 words of memory out of 5000000
- 43029 multiletter control sequences out of 15000+600000
+ 41096 strings out of 493089
+ 912131 string characters out of 6134842
+ 1116718 words of memory out of 5000000
+ 43038 multiletter control sequences out of 15000+600000
  17299 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,11n,102p,10411b,2159s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2806,10 +2866,10 @@ e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
 5/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on historyOfMathematics.pdf (67 pages, 455549 bytes).
+Output written on historyOfMathematics.pdf (71 pages, 467323 bytes).
 PDF statistics:
- 1536 PDF objects out of 1728 (max. 8388607)
- 1424 compressed objects within 15 object streams
- 602 named destinations out of 1000 (max. 500000)
- 664 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1667 PDF objects out of 1728 (max. 8388607)
+ 1550 compressed objects within 16 object streams
+ 650 named destinations out of 1000 (max. 500000)
+ 736 words of extra memory for PDF output out of 10000 (max. 10000000)
 
