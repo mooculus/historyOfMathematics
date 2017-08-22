@@ -5,6 +5,7 @@
 \newcommand {\graded }[1]{}
 \newcommand {\l@section }[0]{\@dottedtocline {1}{1.5em}{4.2em}}
 \newcommand {\l@subsection }[0]{\@dottedtocline {2}{3.8em}{4.2em}}
+\newcommand {\logo }[1]{\ifx \@onlypreamble \@notprerr \ClassError {xourse}{logo can only be used in the preamble}{Move your logo command to the preamble}\else \IfFileExists {##1}{\gdef \xourse@logo {##1}}{\ClassError {xourse}{logo file does not exist}{To use logo, make sure that the referenced image file exists}}\fi }
 \newcommand {\celsius }[0]{}
 \newcommand {\degree }[0]{}
 \newcommand {\ohm }[0]{}
@@ -114,6 +115,7 @@
 \newcommand {\epstopdfsetup }[0]{\setkeys {ETE}}
 \newcommand {\epstopdfcall }[1]{\ifETE@InsideSetfile \expandafter \@firstoftwo \else \expandafter \@secondoftwo \fi {`##1}{\Gin@base \Gin@ext }}
 \newcommand {\epstopdfDeclareGraphicsRule }[4]{\ifx \\##4\\\@PackageError {epstopdf-base}{Conversion command is missing}\@ehc \else \begingroup \@ifundefined {Gin@rule@##1}{}{\@PackageInfo {epstopdf-base}{Redefining graphics rule for `##1'}}\endgroup \@namedef {Gin@rule@##1}####1{{##2}{##3}{\epstopdfcall {##4}}}\fi }
+\newcommand {\ST@wsf }[1]{\immediate \write \ST@sf {##1}}
 \newcommand {\mdf@patchamsthm }[0]{\let \mdf@deferred@thm@head \deferred@thm@head \pretocmd {\deferred@thm@head }{\@inlabelfalse }{\mdf@PackageInfo {mdframed detected package amsthm 
  changed the theorem header of amsthm\MessageBreak }}{\mdf@PackageError {mdframed detected package amsthm 
  changed the theorem header of amsthm failed\MessageBreak }}}

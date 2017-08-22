@@ -1,19 +1,19 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 AUG 2017 15:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.12)  22 AUG 2017 13:09
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **historyOfMathematics.tex
 (./historyOfMathematics.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/xourse.cls
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/home/snapp/texmf/tex/latex/ximeraLatex/xourse.cls
 Document Class: xourse 2015/07/15 Version 1.26 by Bart Snapp, Oscar Levin, Hans
  Parshall
-(/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cls
-Document Class: ximera 2016/08/17 Version 1.30 by Bart Snapp
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+(/home/snapp/texmf/tex/latex/ximeraLatex/ximera.cls
+Document Class: ximera 2016/08/17 Version 1.31 by Bart Snapp
+(/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -28,68 +28,68 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
+(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks14
 \pgfutil@tempdima=\dimen103
 \pgfutil@tempdimb=\dimen104
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box26
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everyshi.sty
+
+(/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
-Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
 ))
 \Gin@req@height=\dimen105
 \Gin@req@width=\dimen106
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks16
 \pgfkeys@temptoks=\toks17
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks18
 ))
 \pgf@x=\dimen107
@@ -110,41 +110,38 @@ ode.tex
 \t@pgf@tokb=\toks20
 \t@pgf@tokc=\toks21
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
-ef
-File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count92
 \pgfsyssoftpath@bigbuffer@items=\count93
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen115
 \extrarowheight=\dimen116
 \NC@list=\toks22
@@ -155,22 +152,23 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \minrowclearance=\skip45
 )
 \rownum=\count94
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen117
 \pgfmath@count=\count95
 \pgfmath@box=\box27
@@ -178,29 +176,19 @@ Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
 \pgfmath@stack@operand=\toks25
 \pgfmath@stack@operation=\toks26
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count96
-))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
+)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen118
 \pgf@picmaxx=\dimen119
@@ -217,122 +205,100 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen130
 \pgf@zy=\dimen131
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen132
 \pgf@path@lasty=\dimen133
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
-File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen134
 \pgf@shorten@start@additional=\dimen135
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
-File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box28
 \pgf@hbox=\box29
 \pgf@layerbox@main=\box30
 \pgf@picture@serial@count=\count97
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
-File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen136
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
-File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen137
 \pgf@pt@y=\dimen138
 \pgf@pt@temp=\dimen139
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
-File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen140
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen141
 \pgf@sys@shading@range@num=\count98
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
-File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box31
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
-File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box32
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
-File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen142
 \pgf@nodesepend=\dimen143
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen144
 \pgffor@skip=\dimen145
 \pgffor@stack=\toks27
 \pgffor@toks=\toks28
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
-Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count99
 \pgfplotmarksize=\dimen146
 )
@@ -350,9 +316,7 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
 \tikznumberofchildren=\count101
 \tikznumberofcurrentchild=\count102
 \tikz@fig@count=\count103
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count104
 \pgfmatrixcurrentcolumn=\count105
@@ -360,368 +324,363 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count107
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
-)))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip46
-\enit@outerparindent=\dimen153
-\enit@toks=\toks29
-\enit@inbox=\box37
-\enitdp@description=\count108
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box38
-\beforetitleunit=\skip47
-\aftertitleunit=\skip48
-\ttl@plus=\dimen154
-\ttl@minus=\dimen155
-\ttl@toksa=\toks30
-\titlewidth=\dimen156
-\titlewidthlast=\dimen157
-\titlewidthfirst=\dimen158
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+))) (/usr/share/texmf/tex/latex/sagetex/sagetex.sty
+Package: sagetex 2015/08/26 v3.0-92d9f7a embedding Sage into LaTeX documents
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/ttlps.def
-File: ttlps.def 2011/12/15
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titletoc.sty
-Package: titletoc 2011/12/15 v1.6 TOC entries
-\ttl@leftsep=\dimen159
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks29
+\verbatim@line=\toks30
+\verbatim@in@stream=\read2
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/titling/titling.sty
-Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip49
-\thanksmargin=\skip50
-\droptitle=\skip51
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgfplots/pgfplots.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplots 2015/05/02 v1.12.1 Data Visualization (1.12.1)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks31
-\t@pgfplots@tokb=\toks32
-\t@pgfplots@tokc=\toks33
-\pgfplots@tmpa=\dimen160
-\c@pgfplots@coordindex=\count109
-\c@pgfplots@scanlineindex=\count110
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
-.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
-ode.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
-soldpgfsupp_loader.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
-e.tex)
-Package pgfplots: loading complementary arithmetics for your pgf version...
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
-soldpgfsupp_pgflibraryfpu.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
-soldpgfsupp_pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count111
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
-soldpgfsupp_trig_format.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
-.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-liststructure.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-liststructureext.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-array.code.tex
-\c@pgfplotsarray@tmp=\count112
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-matrix.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
-shared.code.tex
-\c@pgfplotstable@counta=\count113
-\t@pgfplotstable@a=\toks34
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
-deque.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
-de.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
-ta.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
-.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
-s.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count114
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
-.surfshading.pgfsys-pdftex.def)))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
-code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
-e.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
-ode.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
-ode.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
-r.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
-tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
-g.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
-e.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
-tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
-x)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarydecorations.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
-s.code.tex
-\pgfdecoratedcompleteddistance=\dimen161
-\pgfdecoratedremainingdistance=\dimen162
-\pgfdecoratedinputsegmentcompleteddistance=\dimen163
-\pgfdecoratedinputsegmentremainingdistance=\dimen164
-\pgf@decorate@distancetomove=\dimen165
-\pgf@decorate@repeatstate=\count115
-\pgfdecorationsegmentamplitude=\dimen166
-\pgfdecorationsegmentlength=\dimen167
-)
-\tikz@lib@dec@box=\box39
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarydecorations.pathmorphing.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
-brarydecorations.pathmorphing.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarydecorations.pathreplacing.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
-brarydecorations.pathreplacing.code.tex))
-\pgfplots@numplots=\count116
-\pgfplots@xmin@reg=\dimen168
-\pgfplots@xmax@reg=\dimen169
-\pgfplots@ymin@reg=\dimen170
-\pgfplots@ymax@reg=\dimen171
-\pgfplots@zmin@reg=\dimen172
-\pgfplots@zmax@reg=\dimen173
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
-ks.code.tex
-File: pgflibraryplotmarks.code.tex 2013/07/20 v3.0.0 (rcs-revision 1.13)
-)))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplo
-ts.groupplots.code.tex
-\pgfplots@group@current@plot=\count117
-\pgfplots@group@current@row=\count118
-\pgfplots@group@current@column=\count119
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.9)
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+(/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count120
-\FV@InFile=\read2
-\FV@TabBox=\box40
-\c@FancyVerbLine=\count121
-\FV@StepNumber=\count122
+\FV@CodeLineNo=\count108
+\FV@InFile=\read3
+\FV@TabBox=\box37
+\c@FancyVerbLine=\count109
+\FV@StepNumber=\count110
 \FV@OutFile=\write4
+) (/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count111
+\lst@gtempboxa=\box38
+\lst@token=\toks31
+\lst@length=\count112
+\lst@currlwidth=\dimen153
+\lst@column=\count113
+\lst@pos=\count114
+\lst@lostspace=\dimen154
+\lst@width=\dimen155
+\lst@newlines=\count115
+\lst@lineno=\count116
+\lst@maxwidth=\dimen156
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count117
+\lst@skipnumbers=\count118
+\lst@framebox=\box39
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/environ/environ.sty
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/latex/makecmds/makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\c@ST@inline=\count119
+\c@ST@plot=\count120
+\c@ST@cmdline=\count121
+\sagetexindent=\skip46
+
+No file historyOfMathematics.sagetex.sout.
+\sagecommandlineskip=\skip47
+) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip48
+\enit@outerparindent=\dimen157
+\enit@toks=\toks32
+\enit@inbox=\box40
+\enitdp@description=\count122
+)
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box41
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen158
+\ttl@minus=\dimen159
+\ttl@toksa=\toks33
+\titlewidth=\dimen160
+\titlewidthlast=\dimen161
+\titlewidthfirst=\dimen162
+
+(/usr/share/texmf-dist/tex/latex/titlesec/ttlps.def
+File: ttlps.def 2016/03/15
+))
+(/usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen163
+)
+(/usr/share/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip51
+\thanksmargin=\skip52
+\droptitle=\skip53
+)
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2016/08/10 v1.14 Data Visualization (1.14)
+
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks34
+\t@pgfplots@tokb=\toks35
+\t@pgfplots@tokc=\toks36
+\pgfplots@tmpa=\dimen164
+\c@pgfplots@coordindex=\count123
+\c@pgfplots@scanlineindex=\count124
+
+(/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_l
+oader.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+(/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_p
+gflibraryfpu.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_p
+gfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count125
+))
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure
+.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure
+ext.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.te
+x
+\c@pgfplotsarray@tmp=\count126
+)
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.t
+ex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.t
+ex
+\c@pgfplotstable@counta=\count127
+\t@pgfplotstable@a=\toks37
+)
+(/usr/share/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading
+.code.tex
+\c@pgfplotslibrarysurf@no=\count128
+
+(/usr/share/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.
+pgfsys-pdftex.def)))
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex)))
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen165
+\pgfdecoratedremainingdistance=\dimen166
+\pgfdecoratedinputsegmentcompleteddistance=\dimen167
+\pgfdecoratedinputsegmentremainingdistance=\dimen168
+\pgf@decorate@distancetomove=\dimen169
+\pgf@decorate@repeatstate=\count129
+\pgfdecorationsegmentamplitude=\dimen170
+\pgfdecorationsegmentlength=\dimen171
+)
+\tikz@lib@dec@box=\box42
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathmorphing.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathreplacing.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathreplacing.code.tex))
+\pgfplots@numplots=\count130
+\pgfplots@xmin@reg=\dimen172
+\pgfplots@xmax@reg=\dimen173
+\pgfplots@ymin@reg=\dimen174
+\pgfplots@ymax@reg=\dimen175
+\pgfplots@zmin@reg=\dimen176
+\pgfplots@zmax@reg=\dimen177
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+plotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+)))
+(/usr/share/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.groupplots
+.code.tex
+\pgfplots@group@current@plot=\count131
+\pgfplots@group@current@row=\count132
+\pgfplots@group@current@column=\count133
+
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)) (/usr/share/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks35
+\@envbody=\toks38
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks36
+\@emptytoks=\toks39
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
-\@mathmargin=\skip52
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks37
-\ex@=\dimen174
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks40
+\ex@=\dimen178
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen175
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen179
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count123
-LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count124
-\leftroot@=\count125
-LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count126
-\DOTSCASE@=\count127
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box41
-\strutbox@=\box42
-\big@size=\dimen176
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count128
-\c@MaxMatrixCols=\count129
+\inf@bad=\count134
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count135
+\leftroot@=\count136
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count137
+\DOTSCASE@=\count138
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box43
+\strutbox@=\box44
+\big@size=\dimen180
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count139
+\c@MaxMatrixCols=\count140
 \dotsspace@=\muskip11
-\c@parentequation=\count130
-\dspbrk@lvl=\count131
-\tag@help=\toks38
-\row@=\count132
-\column@=\count133
-\maxfields@=\count134
-\andhelp@=\toks39
-\eqnshift@=\dimen177
-\alignsep@=\dimen178
-\tagshift@=\dimen179
-\tagwidth@=\dimen180
-\totwidth@=\dimen181
-\lineht@=\dimen182
-\@envbody=\toks40
-\multlinegap=\skip53
-\multlinetaggap=\skip54
-\mathdisplay@stack=\toks41
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+\c@parentequation=\count141
+\dspbrk@lvl=\count142
+\tag@help=\toks41
+\row@=\count143
+\column@=\count144
+\maxfields@=\count145
+\andhelp@=\toks42
+\eqnshift@=\dimen181
+\alignsep@=\dimen182
+\tagshift@=\dimen183
+\tagwidth@=\dimen184
+\totwidth@=\dimen185
+\lineht@=\dimen186
+\@envbody=\toks43
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks44
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amscls/amsthm.sty
+(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks42
-\thm@bodyfont=\toks43
-\thm@headfont=\toks44
-\thm@notefont=\toks45
-\thm@headpunct=\toks46
-\thm@preskip=\skip55
-\thm@postskip=\skip56
-\thm@headsep=\skip57
-\dth@everypar=\toks47
+\thm@style=\toks45
+\thm@bodyfont=\toks46
+\thm@headfont=\toks47
+\thm@notefont=\toks48
+\thm@headpunct=\toks49
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks50
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xifthen/xifthen.sty
-Package: xifthen 2009/04/17 v1.3 Extended ifthen features
+(/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
-\et@xins=\count135
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count136
-\calc@Bcount=\count137
-\calc@Adimen=\dimen183
-\calc@Bdimen=\dimen184
-\calc@Askip=\skip58
-\calc@Bskip=\skip59
+\calc@Acount=\count146
+\calc@Bcount=\count147
+\calc@Adimen=\dimen187
+\calc@Bdimen=\dimen188
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count138
-\calc@Cskip=\skip60
+\calc@Ccount=\count148
+\calc@Cskip=\skip62
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+(/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/multido/multido.sty
+(/usr/share/texmf-dist/tex/latex/multido/multido.sty
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/multido/multido.tex
+(/usr/share/texmf-dist/tex/generic/multido/multido.tex
  v1.42, 2010/05/14 <tvz>
-\multido@count=\count139
-\multidocount=\count140
-\multido@stuff=\toks48
+\multido@count=\count149
+\multidocount=\count150
+\multido@stuff=\toks51
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count141
-\lst@gtempboxa=\box43
-\lst@token=\toks49
-\lst@length=\count142
-\lst@currlwidth=\dimen185
-\lst@column=\count143
-\lst@pos=\count144
-\lst@lostspace=\dimen186
-\lst@width=\dimen187
-\lst@newlines=\count145
-\lst@lineno=\count146
-\lst@maxwidth=\dimen188
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
-\c@lstnumber=\count147
-\lst@skipnumbers=\count148
-\lst@framebox=\box44
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2014/09/06 1.5e listings configuration
-))
-Package: listings 2014/09/06 1.5e (Carsten Heinz)
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks50
-\XKV@tempa@toks=\toks51
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks52
+\XKV@tempa@toks=\toks53
 )
-\XKV@depth=\count149
+\XKV@depth=\count151
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/mdframed/mdframed.sty
+(/usr/share/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
 Package etexcmds Info: Could not find \expanded.
@@ -729,85 +688,78 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2015/03/01 v5547 L3 programming layer (loader) 
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/04/01 L3 programming layer (loader) 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2015/03/01 v5547 L3 programming layer (code) 
-L3 Module: l3bootstrap 2015/02/28 v5542 L3 Bootstrap code
-L3 Module: l3names 2015/02/24 v5535 L3 Namespace for primitives
-L3 Module: l3basics 2015/01/27 v5500 L3 Basic definitions
-L3 Module: l3expan 2014/11/27 v5472 L3 Argument expansion
-L3 Module: l3tl 2015/01/27 v5500 L3 Token lists
-L3 Module: l3str 2015/03/01 v5545 L3 Strings
-L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
-L3 Module: l3int 2015/02/21 v5529 L3 Integers
-\c_max_int=\count150
-\l_tmpa_int=\count151
-\l_tmpb_int=\count152
-\g_tmpa_int=\count153
-\g_tmpb_int=\count154
-L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
-L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
-\g__prg_map_int=\count155
-L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
-L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
-L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
-L3 Module: l3msg 2015/02/26 v5537 L3 Messages
-L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
-\l_iow_line_count_int=\count156
-\l__iow_target_count_int=\count157
-\l__iow_current_line_int=\count158
-\l__iow_current_word_int=\count159
-\l__iow_current_indentation_int=\count160
-L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2017/04/01 L3 programming layer (code)
+\c_max_int=\count152
+\l_tmpa_int=\count153
+\l_tmpb_int=\count154
+\g_tmpa_int=\count155
+\g_tmpb_int=\count156
+\g__prg_map_int=\count157
+\c_log_iow=\count158
+\l_iow_line_count_int=\count159
+\l__iow_line_target_int=\count160
+\l__iow_one_indent_int=\count161
+\l__iow_indent_int=\count162
 \c_zero_dim=\dimen189
 \c_max_dim=\dimen190
 \l_tmpa_dim=\dimen191
 \l_tmpb_dim=\dimen192
 \g_tmpa_dim=\dimen193
 \g_tmpb_dim=\dimen194
-\c_zero_skip=\skip61
-\c_max_skip=\skip62
-\l_tmpa_skip=\skip63
-\l_tmpb_skip=\skip64
-\g_tmpa_skip=\skip65
-\g_tmpb_skip=\skip66
+\c_zero_skip=\skip63
+\c_max_skip=\skip64
+\l_tmpa_skip=\skip65
+\l_tmpb_skip=\skip66
+\g_tmpa_skip=\skip67
+\g_tmpb_skip=\skip68
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-L3 Module: l3keys 2015/01/27 v5500 L3 Key-value interfaces
-\g__keyval_level_int=\count161
-\l_keys_choice_int=\count162
-L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
-\c__fp_leading_shift_int=\count163
-\c__fp_middle_shift_int=\count164
-\c__fp_trailing_shift_int=\count165
-\c__fp_big_leading_shift_int=\count166
-\c__fp_big_middle_shift_int=\count167
-\c__fp_big_trailing_shift_int=\count168
-\c__fp_Bigg_leading_shift_int=\count169
-\c__fp_Bigg_middle_shift_int=\count170
-\c__fp_Bigg_trailing_shift_int=\count171
-L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
+\l_keys_choice_int=\count163
+\c__fp_leading_shift_int=\count164
+\c__fp_middle_shift_int=\count165
+\c__fp_trailing_shift_int=\count166
+\c__fp_big_leading_shift_int=\count167
+\c__fp_big_middle_shift_int=\count168
+\c__fp_big_trailing_shift_int=\count169
+\c__fp_Bigg_leading_shift_int=\count170
+\c__fp_Bigg_middle_shift_int=\count171
+\c__fp_Bigg_trailing_shift_int=\count172
+\c__fp_rand_size_int=\count173
+\c__fp_rand_four_int=\count174
+\c__fp_rand_eight_int=\count175
+\l__sort_length_int=\count176
+\l__sort_min_int=\count177
+\l__sort_top_int=\count178
+\l__sort_max_int=\count179
+\l__sort_true_max_int=\count180
+\l__sort_block_int=\count181
+\l__sort_begin_int=\count182
+\l__sort_end_int=\count183
+\l__sort_A_int=\count184
+\l__sort_B_int=\count185
+\l__sort_C_int=\count186
 \c_empty_box=\box45
 \l_tmpa_box=\box46
 \l_tmpb_box=\box47
 \g_tmpa_box=\box48
 \g_tmpb_box=\box49
-L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
 \l__coffin_internal_box=\box50
 \l__coffin_internal_dim=\dimen195
 \l__coffin_offset_x_dim=\dimen196
 \l__coffin_offset_y_dim=\dimen197
 \l__coffin_x_dim=\dimen198
 \l__coffin_y_dim=\dimen199
-\l__coffin_x_prime_dim=\dimen200
-\l__coffin_y_prime_dim=\dimen201
+\l__coffin_x_prime_dim=\dimen256
+\l__coffin_y_prime_dim=\dimen257
 \c_empty_coffin=\box51
 \l__coffin_aligned_coffin=\box52
 \l__coffin_aligned_internal_coffin=\box53
@@ -816,162 +768,153 @@ L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
 \l__coffin_display_coffin=\box56
 \l__coffin_display_coord_coffin=\box57
 \l__coffin_display_pole_coffin=\box58
-\l__coffin_display_offset_dim=\dimen202
-\l__coffin_display_x_dim=\dimen203
-\l__coffin_display_y_dim=\dimen204
-L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
-L3 Module: l3candidates 2015/03/01 v5544 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen205
-\l__box_bottom_dim=\dimen206
-\l__box_left_dim=\dimen207
-\l__box_right_dim=\dimen208
-\l__box_top_new_dim=\dimen209
-\l__box_bottom_new_dim=\dimen210
-\l__box_left_new_dim=\dimen211
-\l__box_right_new_dim=\dimen212
+\l__coffin_display_offset_dim=\dimen258
+\l__coffin_display_x_dim=\dimen259
+\l__coffin_display_y_dim=\dimen260
+\l__box_top_dim=\dimen261
+\l__box_bottom_dim=\dimen262
+\l__box_left_dim=\dimen263
+\l__box_right_dim=\dimen264
+\l__box_top_new_dim=\dimen265
+\l__box_bottom_new_dim=\dimen266
+\l__box_left_new_dim=\dimen267
+\l__box_right_new_dim=\dimen268
 \l__box_internal_box=\box59
-\l__coffin_bounding_shift_dim=\dimen213
-\l__coffin_left_corner_dim=\dimen214
-\l__coffin_right_corner_dim=\dimen215
-\l__coffin_bottom_corner_dim=\dimen216
-\l__coffin_top_corner_dim=\dimen217
-\l__coffin_scaled_total_height_dim=\dimen218
-\l__coffin_scaled_width_dim=\dimen219
+\l__coffin_bounding_shift_dim=\dimen269
+\l__coffin_left_corner_dim=\dimen270
+\l__coffin_right_corner_dim=\dimen271
+\l__coffin_bottom_corner_dim=\dimen272
+\l__coffin_top_corner_dim=\dimen273
+\l__coffin_scaled_total_height_dim=\dimen274
+\l__coffin_scaled_width_dim=\dimen275
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
-File: l3unicode-data.def 2015/03/01 v5544 L3 Unicode data
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2015/03/01 v5544 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count172
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count187
+\l__driver_tmp_box=\box60
 ))
-Package: xparse 2014/11/25 v5471 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count173
-\l__xparse_m_args_int=\count174
-\l__xparse_mandatory_args_int=\count175
-\l__xparse_processor_int=\count176
-\l__xparse_v_nesting_int=\count177
+Package: xparse 2017/04/01 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count188
+\g__xparse_grabber_int=\count189
+\l__xparse_m_args_int=\count190
+\l__xparse_mandatory_args_int=\count191
+\l__xparse_v_nesting_int=\count192
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count178
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
-Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
+(/usr/share/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/zref-base.sty
-Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
+(/usr/share/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 )
-\c@abspage=\count179
+\c@abspage=\count194
 Package zref Info: New property: abspage on input line 62.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/needspace/needspace.sty
+(/usr/share/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\mdf@templength=\skip67
-\c@mdf@globalstyle@cnt=\count180
-\mdf@skipabove@length=\skip68
-\mdf@skipbelow@length=\skip69
-\mdf@leftmargin@length=\skip70
-\mdf@rightmargin@length=\skip71
-\mdf@innerleftmargin@length=\skip72
-\mdf@innerrightmargin@length=\skip73
-\mdf@innertopmargin@length=\skip74
-\mdf@innerbottommargin@length=\skip75
-\mdf@splittopskip@length=\skip76
-\mdf@splitbottomskip@length=\skip77
-\mdf@outermargin@length=\skip78
-\mdf@innermargin@length=\skip79
-\mdf@linewidth@length=\skip80
-\mdf@innerlinewidth@length=\skip81
-\mdf@middlelinewidth@length=\skip82
-\mdf@outerlinewidth@length=\skip83
-\mdf@roundcorner@length=\skip84
-\mdf@footenotedistance@length=\skip85
-\mdf@userdefinedwidth@length=\skip86
-\mdf@needspace@length=\skip87
-\mdf@frametitleaboveskip@length=\skip88
-\mdf@frametitlebelowskip@length=\skip89
-\mdf@frametitlerulewidth@length=\skip90
-\mdf@frametitleleftmargin@length=\skip91
-\mdf@frametitlerightmargin@length=\skip92
-\mdf@shadowsize@length=\skip93
-\mdf@extratopheight@length=\skip94
-\mdf@subtitleabovelinewidth@length=\skip95
-\mdf@subtitlebelowlinewidth@length=\skip96
-\mdf@subtitleaboveskip@length=\skip97
-\mdf@subtitlebelowskip@length=\skip98
-\mdf@subtitleinneraboveskip@length=\skip99
-\mdf@subtitleinnerbelowskip@length=\skip100
-\mdf@subsubtitleabovelinewidth@length=\skip101
-\mdf@subsubtitlebelowlinewidth@length=\skip102
-\mdf@subsubtitleaboveskip@length=\skip103
-\mdf@subsubtitlebelowskip@length=\skip104
-\mdf@subsubtitleinneraboveskip@length=\skip105
-\mdf@subsubtitleinnerbelowskip@length=\skip106
+\mdf@templength=\skip69
+\c@mdf@globalstyle@cnt=\count195
+\mdf@skipabove@length=\skip70
+\mdf@skipbelow@length=\skip71
+\mdf@leftmargin@length=\skip72
+\mdf@rightmargin@length=\skip73
+\mdf@innerleftmargin@length=\skip74
+\mdf@innerrightmargin@length=\skip75
+\mdf@innertopmargin@length=\skip76
+\mdf@innerbottommargin@length=\skip77
+\mdf@splittopskip@length=\skip78
+\mdf@splitbottomskip@length=\skip79
+\mdf@outermargin@length=\skip80
+\mdf@innermargin@length=\skip81
+\mdf@linewidth@length=\skip82
+\mdf@innerlinewidth@length=\skip83
+\mdf@middlelinewidth@length=\skip84
+\mdf@outerlinewidth@length=\skip85
+\mdf@roundcorner@length=\skip86
+\mdf@footenotedistance@length=\skip87
+\mdf@userdefinedwidth@length=\skip88
+\mdf@needspace@length=\skip89
+\mdf@frametitleaboveskip@length=\skip90
+\mdf@frametitlebelowskip@length=\skip91
+\mdf@frametitlerulewidth@length=\skip92
+\mdf@frametitleleftmargin@length=\skip93
+\mdf@frametitlerightmargin@length=\skip94
+\mdf@shadowsize@length=\skip95
+\mdf@extratopheight@length=\skip96
+\mdf@subtitleabovelinewidth@length=\skip97
+\mdf@subtitlebelowlinewidth@length=\skip98
+\mdf@subtitleaboveskip@length=\skip99
+\mdf@subtitlebelowskip@length=\skip100
+\mdf@subtitleinneraboveskip@length=\skip101
+\mdf@subtitleinnerbelowskip@length=\skip102
+\mdf@subsubtitleabovelinewidth@length=\skip103
+\mdf@subsubtitlebelowlinewidth@length=\skip104
+\mdf@subsubtitleaboveskip@length=\skip105
+\mdf@subsubtitlebelowskip@length=\skip106
+\mdf@subsubtitleinneraboveskip@length=\skip107
+\mdf@subsubtitleinnerbelowskip@length=\skip108
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+(/usr/share/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
 File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 )
-\mdf@frametitlebox=\box60
-\mdf@footnotebox=\box61
-\mdf@splitbox@one=\box62
-\mdf@splitbox@two=\box63
-\mdf@splitbox@save=\box64
-\mdfsplitboxwidth=\skip107
-\mdfsplitboxtotalwidth=\skip108
-\mdfsplitboxheight=\skip109
-\mdfsplitboxdepth=\skip110
-\mdfsplitboxtotalheight=\skip111
-\mdfframetitleboxwidth=\skip112
-\mdfframetitleboxtotalwidth=\skip113
-\mdfframetitleboxheight=\skip114
-\mdfframetitleboxdepth=\skip115
-\mdfframetitleboxtotalheight=\skip116
-\mdffootnoteboxwidth=\skip117
-\mdffootnoteboxtotalwidth=\skip118
-\mdffootnoteboxheight=\skip119
-\mdffootnoteboxdepth=\skip120
-\mdffootnoteboxtotalheight=\skip121
-\mdftotallinewidth=\skip122
-\mdfboundingboxwidth=\skip123
-\mdfboundingboxtotalwidth=\skip124
-\mdfboundingboxheight=\skip125
-\mdfboundingboxdepth=\skip126
-\mdfboundingboxtotalheight=\skip127
-\mdf@freevspace@length=\skip128
-\mdf@horizontalwidthofbox@length=\skip129
-\mdf@verticalmarginwhole@length=\skip130
-\mdf@horizontalspaceofbox=\skip131
-\mdfsubtitleheight=\skip132
-\mdfsubsubtitleheight=\skip133
-\c@mdfcountframes=\count181
+\mdf@frametitlebox=\box61
+\mdf@footnotebox=\box62
+\mdf@splitbox@one=\box63
+\mdf@splitbox@two=\box64
+\mdf@splitbox@save=\box65
+\mdfsplitboxwidth=\skip109
+\mdfsplitboxtotalwidth=\skip110
+\mdfsplitboxheight=\skip111
+\mdfsplitboxdepth=\skip112
+\mdfsplitboxtotalheight=\skip113
+\mdfframetitleboxwidth=\skip114
+\mdfframetitleboxtotalwidth=\skip115
+\mdfframetitleboxheight=\skip116
+\mdfframetitleboxdepth=\skip117
+\mdfframetitleboxtotalheight=\skip118
+\mdffootnoteboxwidth=\skip119
+\mdffootnoteboxtotalwidth=\skip120
+\mdffootnoteboxheight=\skip121
+\mdffootnoteboxdepth=\skip122
+\mdffootnoteboxtotalheight=\skip123
+\mdftotallinewidth=\skip124
+\mdfboundingboxwidth=\skip125
+\mdfboundingboxtotalwidth=\skip126
+\mdfboundingboxheight=\skip127
+\mdfboundingboxdepth=\skip128
+\mdfboundingboxtotalheight=\skip129
+\mdf@freevspace@length=\skip130
+\mdf@horizontalwidthofbox@length=\skip131
+\mdf@verticalmarginwhole@length=\skip132
+\mdf@horizontalspaceofbox=\skip133
+\mdfsubtitleheight=\skip134
+\mdfsubsubtitleheight=\skip135
+\c@mdfcountframes=\count196
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -987,331 +930,332 @@ File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 . 
 . Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
 .................................................
-\mdf@envdepth=\count182
-\c@mdf@env@i=\count183
-\c@mdf@env@ii=\count184
-\c@mdf@zref@counter=\count185
+\mdf@envdepth=\count197
+\c@mdf@env@i=\count198
+\c@mdf@env@ii=\count199
+\c@mdf@zref@counter=\count266
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/comment/comment.sty
+(/usr/share/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write5
 
 Excluding comment 'comment')
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package hobsub Info: Skipping package `etexcmds' (already loaded).
 Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
 Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
 Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
-Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
-Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package hobsub Info: Skipping package `atbegshi' (already loaded).
-Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\@linkdim=\dimen220
-\Hy@linkcounter=\count186
-\Hy@pagecounter=\count187
+\@linkdim=\dimen276
+\Hy@linkcounter=\count267
+\Hy@pagecounter=\count268
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count188
+\Hy@SavedSpaceFactor=\count269
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4374.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count189
-LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen221
-\Fld@menulength=\count190
-\Field@Width=\dimen222
-\Fld@charsize=\dimen223
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring ON on input line 6313.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count191
-\c@Item=\count192
-\c@Hfootnote=\count193
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count270
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen277
+\Fld@menulength=\count271
+\Field@Width=\dimen278
+\Fld@charsize=\dimen279
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring ON on input line 6376.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count272
+\c@Item=\count273
+\c@Hfootnote=\count274
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\HyAnn@Count=\count194
-\Fld@listcount=\count195
-\c@bookmark@seq@number=\count196
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\HyAnn@Count=\count275
+\Fld@listcount=\count276
+\c@bookmark@seq@number=\count277
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip134
+\Hy@SectionHShift=\skip136
 )
-\c@titlenumber=\count197
-\c@sectiontitlenumber=\count198
+\c@titlenumber=\count278
+\c@sectiontitlenumber=\count279
 \outcomefile=\write6
 \openout6 = `historyOfMathematics.oc'.
 
-\c@theorem=\count199
-\c@algorithm=\count200
-\c@axiom=\count201
-\c@claim=\count202
-\c@conclusion=\count203
-\c@condition=\count204
-\c@conjecture=\count205
-\c@corollary=\count206
-\c@criterion=\count207
-\c@definition=\count208
-\c@example=\count209
-\c@fact=\count210
-\c@formula=\count211
-\c@idea=\count212
-\c@lemma=\count213
-\c@model=\count214
-\c@notation=\count215
-\c@observation=\count216
-\c@paradox=\count217
-\c@procedure=\count218
-\c@proposition=\count219
-\c@remark=\count220
-\c@summary=\count221
-\c@template=\count222
-\c@warning=\count223
+\c@theorem=\count280
+\c@algorithm=\count281
+\c@axiom=\count282
+\c@claim=\count283
+\c@conclusion=\count284
+\c@condition=\count285
+\c@conjecture=\count286
+\c@corollary=\count287
+\c@criterion=\count288
+\c@definition=\count289
+\c@example=\count290
+\c@fact=\count291
+\c@formula=\count292
+\c@idea=\count293
+\c@lemma=\count294
+\c@model=\count295
+\c@notation=\count296
+\c@observation=\count297
+\c@paradox=\count298
+\c@procedure=\count299
+\c@proposition=\count300
+\c@remark=\count301
+\c@summary=\count302
+\c@template=\count303
+\c@warning=\count304
 \idfile=\write7
 \openout7 = `historyOfMathematics.ids'.
 
 
 Excluding comment 'matrixAnswer'
-(/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
+(/usr/share/texmf-dist/tex/latex/forloop/forloop.sty
 Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
 )
-\c@Iteration1=\count224
-\c@RndQuant=\count225
-\c@Temp@Hold=\count226
-\c@Temp@RandMe=\count227
-\c@shuffle@maxCount=\count228
-\c@shuffle@count=\count229
-\c@shuffle@trackProblem=\count230
-\c@shuffle@desiredProblems=\count231
-\c@problem=\count232
-\c@problemType=\count233
+\c@Iteration1=\count305
+\c@RndQuant=\count306
+\c@Temp@Hold=\count307
+\c@Temp@RandMe=\count308
+\c@shuffle@maxCount=\count309
+\c@shuffle@count=\count310
+\c@shuffle@trackProblem=\count311
+\c@shuffle@desiredProblems=\count312
+\c@problem=\count313
+\c@problemType=\count314
 \myfile=\write8
 \openout8 = `historyOfMathematics.jax'.
 
-))
-(./preamble.tex (/usr/local/texlive/2015/texmf-dist/tex/latex/was/gensymb.sty
+)) (./preamble.tex
+(/usr/share/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-Normal \count register pool exhausted, switching to extended pool.
-\Gm@cnth=\count277
-\Gm@cntv=\count278
-\c@Gm@tempcnt=\count279
-\Gm@bindingoffset=\dimen224
-\Gm@wd@mp=\dimen225
-\Gm@odd@mp=\dimen226
-\Gm@even@mp=\dimen227
-\Gm@layoutwidth=\dimen228
-\Gm@layoutheight=\dimen229
-\Gm@layouthoffset=\dimen230
-\Gm@layoutvoffset=\dimen231
-\Gm@dimlist=\toks52
+\Gm@cnth=\count315
+\Gm@cntv=\count316
+\c@Gm@tempcnt=\count317
+\Gm@bindingoffset=\dimen280
+\Gm@wd@mp=\dimen281
+\Gm@odd@mp=\dimen282
+\Gm@even@mp=\dimen283
+\Gm@layoutwidth=\dimen284
+\Gm@layoutheight=\dimen285
+\Gm@layouthoffset=\dimen286
+\Gm@layoutvoffset=\dimen287
+\Gm@dimlist=\toks54
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
 Package: tkz-euclide 2011/06/01 1.16 c for plots 2d 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-base.sty
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-base.sty
 Package: tkz-base 2011/06/01 1.16 c tkz-base
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+(/usr/share/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
-code.tex
-File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
-\arrowsize=\dimen232
-))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
+
+Package etex Warning: Extended allocation already in use.
+(etex)                etex.sty code will not be used.
+(etex)                To force etex package to load, add
+(etex)                \RequirePackage{etex}
+(etex)                at the start of the document.
+
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibraryshapes.misc.code.tex
-File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen288
+))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+positioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
 shapes.misc.code.tex
-File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.0 (rcs-revision 1.5)
-))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarydecorations.markings.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
-brarydecorations.markings.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarypatterns.code.tex
-File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.0 (rcs-revision 1.2)
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibrarypattern
-s.code.tex
-File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.0 (rcs-revision 1.13)
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.c
+ode.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/numprint/numprint.sty
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.markings.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.markings.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+patterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
+))
+(/usr/share/texmf-dist/tex/latex/numprint/numprint.sty
 Package: numprint 2012/08/20 v1.39 Print numbers (HH)
-\c@nprt@mantissa@digitsbefore=\count280
-\c@nprt@mantissa@digitsafter=\count281
-\c@nprt@exponent@digitsbefore=\count282
-\c@nprt@exponent@digitsafter=\count283
-\nprt@digitwidth=\skip135
-\nprt@sepwidth=\skip136
-\nprt@decimalwidth=\skip137
-\nprt@blockwidth=\skip138
-\nprt@digittoks=\toks53
-\nprt@pretoks=\toks54
-\nprt@posttoks=\toks55
-\nprt@thisdigit=\count284
-\nprt@curpos=\count285
-\nprt@rndpos=\count286
-\c@nprt@digitsfirstblock=\count287
-\c@nprt@blockcnt=\count288
-\c@nprt@cntprint=\count289
+\c@nprt@mantissa@digitsbefore=\count318
+\c@nprt@mantissa@digitsafter=\count319
+\c@nprt@exponent@digitsbefore=\count320
+\c@nprt@exponent@digitsafter=\count321
+\nprt@digitwidth=\skip137
+\nprt@sepwidth=\skip138
+\nprt@decimalwidth=\skip139
+\nprt@blockwidth=\skip140
+\nprt@digittoks=\toks55
+\nprt@pretoks=\toks56
+\nprt@posttoks=\toks57
+\nprt@thisdigit=\count322
+\nprt@curpos=\count323
+\nprt@rndpos=\count324
+\c@nprt@digitsfirstblock=\count325
+\c@nprt@blockcnt=\count326
+\c@nprt@cntprint=\count327
 
 No configuration file `numprint.cfg' found.)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp.sty
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/defpattern.sty
+(/usr/share/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count290
+\actioncount=\count328
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-basic.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count291
-\FP@xia=\count292
-\FP@xib=\count293
-\FP@xfa=\count294
-\FP@xfb=\count295
-\FP@rega=\count296
-\FP@regb=\count297
-\FP@regs=\count298
-\FP@times=\count299
+\FP@xs=\count329
+\FP@xia=\count330
+\FP@xib=\count331
+\FP@xfa=\count332
+\FP@xfb=\count333
+\FP@rega=\count334
+\FP@regb=\count335
+\FP@regs=\count336
+\FP@times=\count337
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-addons.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-snap.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-snap.sty
 Package: fp-snap 1995/04/05
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-exp.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-exp.sty
 Package: fp-exp 1995/04/03
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-trigo.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-trigo.sty
 Package: fp-trigo 1995/04/14
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-pas.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-pas.sty
 Package: fp-pas 1994/08/29
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-random.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count300
+\FPseed=\count338
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-eqn.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-upn.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-upn.sty
 Package: fp-upn 1996/10/21
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-eval.sty
+(/usr/share/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 ))
-\tkzRadius=\dimen233
-Normal \dimen register pool exhausted, switching to extended pool.
-\tkzLength=\dimen256
-\tkz@radi=\dimen257
-\tkz@ax=\dimen258
-\tkz@ay=\dimen259
-\tkz@bx=\dimen260
-\tkz@by=\dimen261
-\tkz@cx=\dimen262
-\tkz@cy=\dimen263
-\tkz@dx=\dimen264
-\tkz@dy=\dimen265
+\tkzRadius=\dimen289
+\tkzLength=\dimen290
+\tkz@radi=\dimen291
+\tkz@ax=\dimen292
+\tkz@ay=\dimen293
+\tkz@bx=\dimen294
+\tkz@by=\dimen295
+\tkz@cx=\dimen296
+\tkz@cy=\dimen297
+\tkz@dx=\dimen298
+\tkz@dy=\dimen299
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-tools-utilities.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-tools-arith.tex
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-utilities.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-arith.tex
 File: tkz-tool-arith.tex tkz-tool-arith 1.161 c
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-tools-base.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-tools-misc.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-tools-math.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-points.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-segments.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-marks.tex
-\tkz@cntmk=\count301
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-base.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-misc.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-tools-math.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-obj-points.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-obj-segments.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-base/tkz-obj-marks.tex
+\tkz@cntmk=\count339
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-tools-intersectio
-ns.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-tools-transformat
-ions.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-lines.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-lib-symbols.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-circles.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-addpoints.tex
-))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-polygons.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-vectors.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-arcs.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-sectors.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-angles.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-obj-protractor.te
-x)) (./historyOfMathematics.aux)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-tools-intersections.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-tools-transformations.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-lines.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-lib-symbols.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-circles.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-addpoints.tex))
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-polygons.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-vectors.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-arcs.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-sectors.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-angles.tex)
+(/usr/share/texmf-dist/tex/latex/tkz-euclide/tkz-obj-protractor.tex))
+(./historyOfMathematics.aux)
 \openout1 = `historyOfMathematics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1329,58 +1273,64 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
  ABD: EveryShipout initializing macros
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen266
-\scratchbox=\box65
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks56
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen267
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks57
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+\scratchcounter=\count340
+\scratchdimen=\dimen300
+\scratchbox=\box66
+\nofMPsegments=\count341
+\nofMParguments=\count342
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count343
+\MPscratchDim=\dimen301
+\MPnumerator=\count344
+\makeMPintoPDFobject=\count345
+\everyMPtoPDFconversion=\toks59
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+(grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\c@lstlisting=\count346
+\ST@sf=\write9
+\openout9 = `historyOfMathematics.sagetex.sage'.
+
+
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into 
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.14} into 
 your preamble.
  on input line 5.
 
-\c@lstlisting=\count308
-\AtBeginShipoutBox=\box66
+\AtBeginShipoutBox=\box67
 Package hyperref Info: Link coloring ON on input line 5.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count309
+\c@section@level=\count347
 )
 LaTeX Info: Redefining \ref on input line 5.
 LaTeX Info: Redefining \pageref on input line 5.
 LaTeX Info: Redefining \nameref on input line 5.
 
 (./historyOfMathematics.out) (./historyOfMathematics.out)
-\@outlinefile=\write9
-\openout9 = `historyOfMathematics.out'.
+\@outlinefile=\write10
+\openout10 = `historyOfMathematics.out'.
 
 LaTeX Info: Redefining \celsius on input line 5.
 Package gensymb Info: Faking symbols for \degree and \celsius on input line 5.
@@ -1432,30 +1382,29 @@ LaTeX Warning: No \author given.
 
 [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/home/snapp/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./historyOfMathematics.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 1.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 1.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2
 
 ] [3])
-\tf@toc=\write10
-\openout10 = `historyOfMathematics.toc'.
+\tf@toc=\write11
+\openout11 = `historyOfMathematics.toc'.
 
-
-[4] (./EgyptianMathematics/EarliestMathematics.tex
+ [4]
+(./EgyptianMathematics/EarliestMathematics.tex
 
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -1472,18 +1421,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.13 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.2}) has been already used, duplicate ignored
+l.12 W
+      rite the numbers from 1 to 100 (counting by fives) in hieroglyphic.pdfTeX
+ warning (ext4): destination with the same identifier (name{problem.2}) has bee
+n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.17 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.3}) has been already used, duplicate ignored
+l.16 C
+      ompare and contrast the hieroglyphic counting system with our (Hindu-A...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 \end{problem}
-                  ) [7
+l.20 P
+      erform the following operations in hieroglyphic, using the method that...
+) [7
 
 ] (./EgyptianMathematics/SolveLikeAnEgyptian.tex
 
@@ -1493,18 +1445,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.29 W
+      hat was the Egyptian value for $\pi$? $\answer[given]{3.1605}$pdfTeX warn
+ing (ext4): destination with the same identifier (name{problem.2}) has been alr
+eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.33 W
+      hat is the first step in the Method of False Position?pdfTeX warning (ext
+4): destination with the same identifier (name{problem.3}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 \end{question}
-                   ) [8
+l.44 W
+      hat are the most important points of this reading?) [8
 
 ]
 (./EgyptianMathematics/theMethodOfFalsePosition/theMethodOfFalsePosition.tex
@@ -1515,35 +1469,40 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 \end{exercise}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.17 S
+      olve the following algebra problem:pdfTeX warning (ext4): destination wit
+h the same identifier (name{problem.2}) has been already used, duplicate ignore
+d
 <to be read again> 
                    \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.26 W
+      hile I am not sure which method you used to solve this problem, ancien...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.4}) has been already used, duplicate ignored
+l.40 C
+      an you explain \textbf{why} the method of false position works?pdfTeX war
+ning (ext4): destination with the same identifier (name{problem.4}) has been al
+ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \end{exercise}
-                    [9
+l.44 S
+      olve the following problem: One hundred dollars is to be split [9
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.5}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.69 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.55 H
+      ere is the solution by \textit{double false position}:pdfTeX warning (ext
+4): destination with the same identifier (name{problem.6}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \end{exploration}
-                      ) [10] (./BabylonianMathematics/BabylonianBasics.tex
+l.72 C
+      an you explain \textbf{why} the method of double false position works?)
+[10] (./BabylonianMathematics/BabylonianBasics.tex
 
 LaTeX Warning: No \author given.
 
@@ -1558,20 +1517,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.35 W
+      hat base did the Babylonians use for their number system? $\answer[giv...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \end{question}
-                    [11
+l.39 W
+      hy did the Babylonians make tables?  Choose the best answer. [11
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \end{question}
-                   ) [12]
+l.51 W
+      hat are the most important points of this reading?) [12]
 (./BabylonianMathematics/BabylonianNumbers/BabylonianNumbers.tex
 
 LaTeX Warning: No \author given.
@@ -1580,28 +1540,33 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 \end{exercise}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.22 W
+      hat are the 2 basic ancient Babylonian numerical symbols and what dopdfTe
+X warning (ext4): destination with the same identifier (name{problem.2}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.3}) has been already used, duplicate ignored
+l.42 D
+      iscuss the limitations of the Babylonian system. Then debate whetherpdfTe
+X warning (ext4): destination with the same identifier (name{problem.3}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.4}) has been already used, duplicate ignored
+l.47 I
+      s the Babylonian system more of a place-value system or apdfTeX warning (
+ext4): destination with the same identifier (name{problem.4}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.67 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.5}) has been already used, duplicate ignored
+l.53 F
+      ill out the following table, simplifying any calculations.pdfTeX warning 
+(ext4): destination with the same identifier (name{problem.5}) has been already
+ used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79 \end{problem}
-                  ) [13
+l.72 U
+      se your table to make the following calculations.  You should work in ...
+) [13
 
 ] (./BabylonianMathematics/BabylonianGeometry.tex
 
@@ -1618,20 +1583,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.29 T
+      he time interval over which the ancient Babylonians made observations ...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.34 W
+      hich of the following is not a challenge when translating ancient Baby...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{question}
-                   ) [14
+l.46 W
+      hat are the most important points of this reading?) [14
 
-] (./PythagorasAndEarlyGreek/BeginningOfTheGreekEra.tex
+]
+(./PythagorasAndEarlyGreek/BeginningOfTheGreekEra.tex
 
 LaTeX Warning: No \author given.
 
@@ -1646,18 +1614,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.32 H
+      ow many theorems was Thales said to have proven? $\answer[given]{5}$pdfTe
+X warning (ext4): destination with the same identifier (name{problem.2}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.37 W
+      hat is Pythagoras primarily considered?pdfTeX warning (ext4): destination
+ with the same identifier (name{problem.3}) has been already used, duplicate ig
+nored
 <to be read again> 
                    \relax 
-l.55 \end{question}
-                   ) [15
+l.52 W
+      hat are the most important points of this reading?) [15
 
 ]
 (./PythagorasAndEarlyGreek/rationalNumbersAndSimilarity/rationalNumbersAndSimil
@@ -1669,26 +1639,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.16 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.2}) has been already used, duplicate ignored
+l.14 T
+      hink about plain old plane geometry. What are some theorems that youpdfTe
+X warning (ext4): destination with the same identifier (name{problem.2}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.21 W
+      hat are the basic theorems involving similar triangles?pdfTeX warning (ex
+t4): destination with the same identifier (name{problem.3}) has been already us
+ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.4}) has been already used, duplicate ignored
+l.30 S
+      uppose that you have two triangles whose angles are congruent. CanpdfTeX 
+warning (ext4): destination with the same identifier (name{problem.4}) has been
+ already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \end{exploration}
-                      ) [16
+l.38 S
+      uppose that you have two triangles whose sides are proportional. Can)
+[16
 
-]
-(./PythagorasAndEarlyGreek/PythagoreanMathematics.tex
+] (./PythagorasAndEarlyGreek/PythagoreanMathematics.tex
 
 LaTeX Warning: No \author given.
 
@@ -1696,18 +1669,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.35 W
+      hat is the harmonic mean of $\frac12$ and $\frac34$? $\answer[given]{0...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.39 W
+      hich of the following was not a supposed belief or practice of the Pyt...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53 \end{question}
-                   ) [17
+l.50 W
+      hat are the most important points of this reading?) [17
 
 ]
 (./PythagorasAndEarlyGreek/pythagoreanMeans/pythagoreanMeans.tex
@@ -1718,33 +1693,39 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.24 W
+      hat is the mean that we are all familiar with? Explain how to computepdfT
+eX warning (ext4): destination with the same identifier (name{problem.2}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.36 E
+      xplain an analogy between the arithmetic mean and the geometric mean.pdfT
+eX warning (ext4): destination with the same identifier (name{problem.3}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.40 C
+      an you explain the geometric mean in terms of geometry? First do itpdfTeX
+ warning (ext4): destination with the same identifier (name{problem.4}) has bee
+n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \end{exploration}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{problem.5}) has been already used, duplicate ignored
+l.53 C
+      an you find a connection between the harmonic mean and music?pdfTeX warni
+ng (ext4): destination with the same identifier (name{problem.5}) has been alre
+ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.58 I
+      n the United States, the fuel efficiency of a car is usually given inpdfT
+eX warning (ext4): destination with the same identifier (name{problem.6}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.77 \end{question}
-                    [18
+l.74 N
+      ow suppose that a car gets $60\frac{\text{miles}}{\text{gallon}}$ and
+[18
 
 ]) [19] (./HippocratesAndLunes/CirclesAndLunes.tex
 
@@ -1754,18 +1735,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.29 H
+      ow many types of lunes was Hippocrates able to square? $\answer[given]...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.33 W
+      hat does it mean to ``square'' a particular figure?pdfTeX warning (ext4):
+ destination with the same identifier (name{problem.3}) has been already used, 
+duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \end{question}
-                   ) [20
+l.45 W
+      hat are the most important points of this reading?) [20
 
 ]
 (./HippocratesAndLunes/computingQuadratures/computingQuadratures.tex
@@ -1776,30 +1759,35 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.21 C
+      onsider the figure below. Explain how one could construct it andpdfTeX wa
+rning (ext4): destination with the same identifier (name{problem.2}) has been a
+lready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.40 C
+      onstruct a rectangle whose side lengths are 8 units and 5 units.  Then...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.45 C
+      onstruct a triangle whose base has length 8 units and whose height has...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.4}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.51 S
+      uppose you have a square whose side length is 8 units and another squa...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.5}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.58 \end{question}
-                   ) [21
+l.57 H
+      ow do you compute the quadrature of a polygon?) [21
 
-] (./HippocratesAndLunes/ThreeProblemsOfAntiquity.tex
+]
+(./HippocratesAndLunes/ThreeProblemsOfAntiquity.tex
 
 LaTeX Warning: No \author given.
 
@@ -1807,18 +1795,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.35 H
+      ow many stories are told in the readings about how the cube doubling p...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.41 W
+      hat geometric subject did Menaechmus discover while trying to duplicat...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.55 \end{question}
-                    [22
+l.52 W
+      hat are the most important points of this reading? [22
 
 ]) [23]
 (./HippocratesAndLunes/AllGreekToMe/AllGreekToMe.tex
@@ -1829,45 +1819,53 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.14 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.13 U
+      se your compass and straightedge to double a square with side length $...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.20 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.19 J
+      ust to check: write an equation relating $a$ and $x$.pdfTeX warning (ext4
+): destination with the same identifier (name{problem.3}) has been already used
+, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.30 D
+      raw pictures representing the geometry in the method described above.pdfT
+eX warning (ext4): destination with the same identifier (name{problem.4}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.34 W
+      rite a proportion corresponding to the first rearrangement using the v...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.5}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.38 W
+      rite a proportion corresponding to the second rearrangement.  One of t...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.6}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 \end{question}
-                    [24
+l.42 H
+      ow is this continued mean proportional related to the equation you fou...
+[24
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
+l.58 O
+      n the square below, use a ruler and a protractor to construct at least...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.8}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.82 \end{question}
-                   ) [25] (./HippocratesAndLunes/Trisecting.tex
+l.78 L
+      et $X$ be any point on the quadratrix, and $X'$ be the point directly ...
+) [25] (./HippocratesAndLunes/Trisecting.tex
 
 LaTeX Warning: No \author given.
 
@@ -1875,20 +1873,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.32 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.31 I
+      n what year were both the cube duplication and angle trisection proble...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.36 W
+      hich of the following is not possible with only straightedge and compass?
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 \end{question}
-                   ) [26
+l.49 W
+      hat are the most important points of this reading?) [26
 
-] (./EuclidAndGeometry/ProofsPythagoreanTheorem.tex
+]
+(./EuclidAndGeometry/ProofsPythagoreanTheorem.tex
 
 LaTeX Warning: No \author given.
 
@@ -1896,18 +1897,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.29 H
+      ow many proofs are listed on this site?pdfTeX warning (ext4): destination
+ with the same identifier (name{problem.2}) has been already used, duplicate ig
+nored
 <to be read again> 
                    \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.34 W
+      hich of the following is NOT a category of proofs of the theorem menti...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{question}
-                   ) [27
+l.45 W
+      hat are the most important points from this reading?) [27
 
 ]
 (./EuclidAndGeometry/euclidsElements/euclidsElements.tex
@@ -1918,40 +1921,40 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.23 P
+      rove Proposition I.5.pdfTeX warning (ext4): destination with the same ide
+ntifier (name{problem.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.32 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.31 P
+      rove Proposition I.6.pdfTeX warning (ext4): destination with the same ide
+ntifier (name{problem.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.41 P
+      rove Proposition I.15.pdfTeX warning (ext4): destination with the same id
+entifier (name{problem.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.72 P
+      rove Proposition I.16.pdfTeX warning (ext4): destination with the same id
+entifier (name{problem.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.84 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.83 P
+      rove Proposition I.27.pdfTeX warning (ext4): destination with the same id
+entifier (name{problem.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97 \end{question}
-                    [28
+l.96 P
+      rove Proposition I.29. [28
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \end{question}
-                    ) [29]
+l.109 P
+       rove Proposition I.32.) [29]
 (./EuclidAndGeometry/thePythagoreanTheorem/thePythagoreanTheorem.tex
 
 LaTeX Warning: No \author given.
@@ -1960,55 +1963,62 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.18 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.16 R
+      emind us, what is the most famous theorem of all and what exactlypdfTeX w
+arning (ext4): destination with the same identifier (name{problem.2}) has been 
+already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 \end{question}
-                   
+l.25 W
+      hat would one need to prove about the following diagram to prove the
 <EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf, id=984, 278.54982pt x 
 302.91467pt>
 File: EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf Graphic file (type
  pdf)
  <use EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf>
 Package pdftex.def Info: EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf
- used on input line 30.
+ used on input line 29.
 (pdftex.def)             Requested size: 278.54913pt x 302.91393pt.
 pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.36 D
+      raw a line perpendicular to $\overline{AB}$ that passes though both $C$pd
+fTeX warning (ext4): destination with the same identifier (name{problem.4}) has
+ been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.45 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.44 E
+      xplain why $\tri ABA'$ has half the area of square $ACC'A'$.pdfTeX warnin
+g (ext4): destination with the same identifier (name{problem.5}) has been alrea
+dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.48 E
+      xplain why $\tri ACA''$ is congruent to $\tri ABA'$.pdfTeX warning (ext4)
+: destination with the same identifier (name{problem.6}) has been already used,
+ duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \end{question}
-                    [30
+l.52 E
+      xplain why area of square $ACC'A'$ is equal to the area of rectangle
+[30
 
  <./EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf>]pdfTeX warning (ext
 4): destination with the same identifier (name{problem.7}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
+l.58 U
+      se similar ideas to complete a proof the Pythagorean Theorem.pdfTeX warni
+ng (ext4): destination with the same identifier (name{problem.8}) has been alre
+ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 \end{question}
-                   ) [31] (./EuclidAndPrimes/UnsolvedProblems.tex
+l.64 \begin{question} W
+                       hat is the converse to the Pythagorean Theorem? Is it...
+) [31] (./EuclidAndPrimes/UnsolvedProblems.tex
 
 LaTeX Warning: No \author given.
 
@@ -2016,20 +2026,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.37 H
+      ow many versions or types of Goldbach's conjecture are listed in the a...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{question}
-                    [32
+l.42 W
+      hich of the following are twin primes? [32
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.57 \end{question}
-                   ) [33]
+l.53 W
+      hat are the most important points from this reading?) [33]
 (./EuclidAndPrimes/theUniqueFactorizationTheorem/theUniqueFactorizationTheorem.
 tex
 
@@ -2039,50 +2050,153 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.22 E
+      xplain what the proposition above is saying.pdfTeX warning (ext4): destin
+ation with the same identifier (name{problem.2}) has been already used, duplica
+te ignored
 <to be read again> 
                    \relax 
-l.50 \end{question}
-                    [34
+l.27 N
+      ow consider Euclid's proof: [34
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.89 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.87 G
+      iven any two integers in $3\Z$, will their sum be in $3\Z$? ExplainpdfTeX
+ warning (ext4): destination with the same identifier (name{problem.4}) has bee
+n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.94 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.92 G
+      iven any two integers in $3\Z$, will their difference be in $3\Z$?pdfTeX 
+warning (ext4): destination with the same identifier (name{problem.5}) has been
+ already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.99 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.97 G
+      iven any two integers in $3\Z$, will their product be in $3\Z$?pdfTeX war
+ning (ext4): destination with the same identifier (name{problem.6}) has been al
+ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
+l.102 G
+       iven any two integers in $3\Z$, will their quotient be in $3\Z$?pdfTeX w
+arning (ext4): destination with the same identifier (name{problem.7}) has been 
+already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 L
+       ist all the prome numbers less than $297$.pdfTeX warning (ext4): destina
+tion with the same identifier (name{problem.8}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.120 C
+       an you give some sort of algebraic characterization of prome numberspdfT
+eX warning (ext4): destination with the same identifier (name{problem.9}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.125 C
+       an you find numbers that factor completely into prome numbers in)
+[35] (./EuclidAndPrimes/InfinitelyManyPrimes.tex
+
+LaTeX Warning: No \author given.
+
+pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.26 W
+      hat is the example given of an arithmetic progression? $2 + \answer[gi...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30 T
+      o which branch of mathematics is Furstenberg's proof method most relat...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 W
+      hat are the most important points from this reading?) [36
+
+]
+(./ArchimedesAndPi/Pi.tex
+
+LaTeX Warning: No \author given.
+
+pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 H
+      ow long did the computation of 12.1 trillion digits of $\pi$ take? $\a...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 W
+      hich of the following had the most accurate estimation for $\pi$?pdfTeX w
+arning (ext4): destination with the same identifier (name{problem.3}) has been 
+already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 W
+      hat are the most important points from this reading?) [37
+
+]
+(./ArchimedesAndPi/estimatingPi/estimatingPi.tex
+
+LaTeX Warning: No \author given.
+
+pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 L
+      ist as many ways as you can think of for estimating the value of $\pi$.pd
+fTeX warning (ext4): destination with the same identifier (name{problem.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22 D
+      ivide the unit circle into $2^2 = 4$ equal wedges each with its vertex at
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.31 D
+      ivide the unit circle into $2^3 = 8$ equal wedges each with its vertex at
+pdfTeX warning (ext4): destination with the same identifier (name{problem.4}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 G
+      iven an angle $\theta$, explain the relation of $\sin(\theta)$ andpdfTeX 
+warning (ext4): destination with the same identifier (name{problem.5}) has been
+ already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.47 D
+      ivide the unit circle into $2^n$ equal wedges each with its vertex atpdfT
+eX warning (ext4): destination with the same identifier (name{problem.6}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 R
+      ecalling that:pdfTeX warning (ext4): destination with the same identifier
  (name{problem.7}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.117 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.8}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.122 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.9}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.127 \end{question}
-                    ) [35] (./EuclidAndPrimes/InfinitelyManyPrimes.tex
+l.73 L
+      et's fill out the following table (a calculator will help!): [38
+
+])
+[39] (./ArchimedesAndPi/ArchimedesAndEstimation.tex
 
 LaTeX Warning: No \author given.
 
@@ -2090,101 +2204,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.45 \end{question}
-                   ) [36
-
-] (./ArchimedesAndPi/Pi.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+l.22 T
+      he fourth step in the interpolation method places $\sqrt{3}$ between $...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.39 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.47 \end{question}
-                   ) [37
-
-] (./ArchimedesAndPi/estimatingPi/estimatingPi.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+l.26 T
+      he author believes that the interpolation method shows that Archimedes...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.14 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.28 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.38 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.44 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.56 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.69 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.88 \end{problem}
-                   [38
-
-]) [39] (./ArchimedesAndPi/ArchimedesAndEstimation.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.23 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.41 \end{question}
-                   ) [40
+l.37 W
+      hat are the most important points from this reading?) [40
 
 ]
 (./HeronAndTriangles/MathematiciansAfterArchimedes.tex
@@ -2195,18 +2228,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.33 H
+      ow Greek feet are in one stadion? $\answer[given]{600}$pdfTeX warning (ex
+t4): destination with the same identifier (name{problem.2}) has been already us
+ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.37 W
+      hat does the author suggest was the usual precision for measuring long...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 \end{question}
-                    [41
+l.48 W
+      hat are the most important points from this reading? [41
 
 ]) [42]
 (./HeronAndTriangles/heronsFormula/heronsFormula.tex
@@ -2217,55 +2252,61 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.23 H
+      ow can we prove this?pdfTeX warning (ext4): destination with the same ide
+ntifier (name{problem.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.27 N
+      ow draw a triangle with vertices $A$, $B$, and $C$. Draw the incircle....
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.31 L
+      abel the intersection of the radii with $D$ between $A$ and $B$, $E$ b...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.4}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.41 E
+      xplain whypdfTeX warning (ext4): destination with the same identifier (na
+me{problem.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.51 I
+      f $AG \cong CE$, explain why $|BG|$ is the semiperimeter.pdfTeX warning (
+ext4): destination with the same identifier (name{problem.6}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.7}) has been already used, duplicate ignored
+l.55 F
+      ind segments in your drawing equal to the length ofpdfTeX warning (ext4):
+ destination with the same identifier (name{problem.7}) has been already used, 
+duplicate ignored
 <to be read again> 
                    \relax 
-l.70 \end{question}
-                    [43
+l.69 C
+      an you prove this proposition? [43
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.8}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.78 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.9}) has been already used, duplicate ignored
+l.77 C
+      an you prove this proposition?pdfTeX warning (ext4): destination with the
+ same identifier (name{problem.9}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.90 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.10}) has been already used, duplicate ignored
+l.82 N
+      ow we need to decorate our triangle even more:pdfTeX warning (ext4): dest
+ination with the same identifier (name{problem.10}) has been already used, dupl
+icate ignored
 <to be read again> 
                    \relax 
-l.98 \end{question}
-                    [44]) [45] (./HeronAndTriangles/ArabicMathematics.tex
+l.94 E
+      xplain why $\triangle COF$ is similar to $\triangle BHA$. Use this to ...
+[44]) [45] (./HeronAndTriangles/ArabicMathematics.tex
 
 LaTeX Warning: No \author given.
 
@@ -2280,20 +2321,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.22 H
+      ow many of Archimedes' works were translated into Arabic? $\answer[giv...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.26 W
+      hy did Arabic mathematicians use trigonometric tables?pdfTeX warning (ext
+4): destination with the same identifier (name{problem.3}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{question}
-                   ) [46
+l.37 W
+      hat are the most important points from this reading?) [46
 
-] (./CardanoAndTheCubic/BeginningModernEra.tex
+]
+(./CardanoAndTheCubic/BeginningModernEra.tex
 
 LaTeX Warning: No \author given.
 
@@ -2301,18 +2345,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.24 F
+      ibonacci defines the concept of a congruum, and then proves that such ...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.28 I
+      n what context were the Fibonacci numbers introduced?pdfTeX warning (ext4
+): destination with the same identifier (name{problem.3}) has been already used
+, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 \end{question}
-                   ) [47
+l.39 W
+      hat are the most important points from this reading?) [47
 
 ]
 (./CardanoAndTheCubic/solvingEquations/solvingEquationsv2.tex
@@ -2323,80 +2369,93 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.2}) has been already used, duplicate ignored
+l.26 \begin{problem} G
+                      eometrically, you could visualize $x^2 + bx = c$ as an...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.32 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.31 \begin{question} W
+                       hat is the total area of the shapes in your picture?pdfT
+eX warning (ext4): destination with the same identifier (name{problem.3}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.38 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.4}) has been already used, duplicate ignored
+l.37 \begin{problem} N
+                      ow draw a new picture: take your $b\times x$ rectangle...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.4}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.41 \begin{question} W
+                       hat is the total area of the shapes in your picture?pdfT
+eX warning (ext4): destination with the same identifier (name{problem.5}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \end{problem}
-                  pdfTeX warning (ext4): destination with the same identifier (
-name{problem.6}) has been already used, duplicate ignored
+l.44 \begin{problem} D
+                      raw a next picture in your sequence: take both of your...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.6}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.7}) has been already used, duplicate ignored
+l.51 \begin{question} W
+                       hat is the total area of the shapes in your picture?pdfT
+eX warning (ext4): destination with the same identifier (name{problem.7}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
+l.64 C
+      an you find $x$ at this point?pdfTeX warning (ext4): destination with the
+ same identifier (name{problem.8}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 \end{question}
-                    [48
+l.69 E
+      xplain how to solve $ax^2 + bx + c = 0$. [48
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.9}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.10}) has been already used, duplicate ignored
+l.96 \begin{question} H
+                       ow many solutions are we supposed to have in total?pdfTe
+X warning (ext4): destination with the same identifier (name{problem.10}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.101 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.11}) has been already used, duplicate ignored
+l.100 U
+       se the Ferro-Tartaglia method to solve $x^3 + 9x -26 =0$.pdfTeX warning 
+(ext4): destination with the same identifier (name{problem.11}) has been alread
+y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.106 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.12}) has been already used, duplicate ignored
+l.104 H
+       ow many solutions should our equation above have? Where/what are they?pd
+fTeX warning (ext4): destination with the same identifier (name{problem.12}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.13}) has been already used, duplicate ignored
+l.109 I
+       s the method described here the same as the one in our text as the pr...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.13}) 
+has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.114 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.14}) has been already used, duplicate ignored
+l.113 U
+       se the Ferro-Tartaglia method to solve $x^3 = 15x + 4$.  What do you ...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.14}) 
+has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.123 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.15}) has been already used, duplicate ignored
+l.118 \begin{question} H
+                        ow do we do this procedure for other equations of th...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.15}) 
+has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.129 \end{question}
-                    ) [49] (./CardanoAndTheCubic/MathematicalNotation.tex
+l.128 W
+       ould Ferro, Tartaglia, Cardano, or Ferrari have answered the previous...
+) [49] (./CardanoAndTheCubic/MathematicalNotation.tex
 
 LaTeX Warning: No \author given.
 
@@ -2404,20 +2463,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.24 I
+      n the Greek system, what was the value of the symbol $\pi$? $\answer[g...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.28 W
+      hat kind of algebra was Cardano using in his proof?pdfTeX warning (ext4):
+ destination with the same identifier (name{problem.3}) has been already used, 
+duplicate ignored
 <to be read again> 
                    \relax 
-l.43 \end{question}
-                   ) [50
+l.39 W
+      hat are the most important points from this reading?) [50
 
-] (./NewtonAndSeries/LogarithmsAndMultiplication.tex
+]
+(./NewtonAndSeries/LogarithmsAndMultiplication.tex
 
 LaTeX Warning: No \author given.
 
@@ -2425,20 +2487,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.35 T
+      he video considers the multiplication problem $\answer[given]{17} \tim...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \end{question}
-                    [51
+l.39 W
+      hich of the following is not mentioned in the video as a way to speed ...
+[51
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \end{question}
-                   ) [52]
+l.50 W
+      hat are the most important points from this reading?) [52]
 (./NewtonAndSeries/theBinomialTheoremAndPi/theBinomialTheoremAndPi.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -2459,45 +2523,51 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.14 T
+      he binomial theorem statespdfTeX warning (ext4): destination with the sam
+e identifier (name{problem.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.22 N
+      ewton sayspdfTeX warning (ext4): destination with the same identifier (na
+me{problem.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.32 C
+      ome up with a function of $x$ for the semicircle of radius $1/2$ cente...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.4}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.36 U
+      se Newton's binomial theorem to show your function above is equal to:pdfT
+eX warning (ext4): destination with the same identifier (name{problem.5}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.43 U
+      se calculus to compute the area of the shaded region:pdfTeX warning (ext4
+): destination with the same identifier (name{problem.6}) has been already used
+, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 \end{question}
-                    [53
+l.66 U
+      se proportional reasoning to compute the area of the sector below:
+[53
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.111 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.8}) has been already used, duplicate ignored
+l.90 U
+      se the previous problem, along with the area of a certain 30-60-90pdfTeX 
+warning (ext4): destination with the same identifier (name{problem.8}) has been
+ already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.116 \end{question}
-                    ) [54] (./NewtonAndSeries/FermatsLastTheorem.tex
+l.115 U
+       se your work from above to give an approximation of $\pi$.) [54]
+(./NewtonAndSeries/FermatsLastTheorem.tex
 
 LaTeX Warning: No \author given.
 
@@ -2507,20 +2577,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.32 I
+      nto how many cases did Sophie Germain divide the problem? $\answer[giv...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 \end{question}
-                    [55
+l.36 W
+      here was Wiles working when he solved Fermat's Last Theorem? [55
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51 \end{question}
-                   ) [56] (./BernoulliAndSeries/NewtonAndLeibniz.tex
+l.47 W
+      hat are the most important points from this reading?) [56]
+(./BernoulliAndSeries/NewtonAndLeibniz.tex
 
 LaTeX Warning: No \author given.
 
@@ -2528,25 +2600,27 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.26 I
+      n what year (BC) do we find the first evidence of the ideas of calculus?p
+dfTeX warning (ext4): destination with the same identifier (name{problem.2}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.38 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.31 I
+      n what country did Leibniz study law?pdfTeX warning (ext4): destination w
+ith the same identifier (name{problem.3}) has been already used, duplicate igno
+red
 <to be read again> 
                    \relax 
-l.46 \end{question}
-                   ) [57
+l.42 W
+      hat are the most important points from this reading?) [57
 
 ]
 (./BernoulliAndSeries/leibnizAndSeries/leibnizAndSeries.tex
 
 LaTeX Warning: No \author given.
 
-\radius=\skip139
+\radius=\skip141
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -2561,55 +2635,62 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.44 C
+      onsider Leibniz's ``proof.''pdfTeX warning (ext4): destination with the s
+ame identifier (name{problem.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.58 W
+      hat doespdfTeX warning (ext4): destination with the same identifier (name
+{problem.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79 \end{question}
-                    [58
+l.66 N
+      ow consider this summation of [58
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.4}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.127 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.5}) has been already used, duplicate ignored
+l.125 W
+       hat relationships can you find between the entries of the triangle aspdf
+TeX warning (ext4): destination with the same identifier (name{problem.5}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.133 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.6}) has been already used, duplicate ignored
+l.131 W
+       hat are the next two rows? Clearly articulate how to produce morepdfTeX 
+warning (ext4): destination with the same identifier (name{problem.6}) has been
+ already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.141 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.7}) has been already used, duplicate ignored
+l.135 \begin{question} E
+                        xplain how the following expressionpdfTeX warning (ext4
+): destination with the same identifier (name{problem.7}) has been already used
+, duplicate ignored
 <to be read again> 
                    \relax 
-l.151 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.8}) has been already used, duplicate ignored
+l.144 E
+       xplain how the harmonic triangle is formed. In your explanation, usepdfT
+eX warning (ext4): destination with the same identifier (name{problem.8}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.156 \end{question}
-                     [59]pdfTeX warning (ext4): destination with the same ident
-ifier (name{problem.9}) has been already used, duplicate ignored
+l.154 C
+       an you explain why the numerators of the fractions in the harmonic
+[59]pdfTeX warning (ext4): destination with the same identifier (name{problem.9
+}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.172 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.10}) has been already used, duplicate ignored
+l.159 \begin{question} E
+                        xplain how to use the harmonic triangle to go from:pdfT
+eX warning (ext4): destination with the same identifier (name{problem.10}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.177 \end{question}
-                    ) [60] (./BernoulliAndSeries/HarmonicSeriesDiverges.tex
+l.175 C
+       an you generalize the results above? Can you give a list of infinite)
+[60] (./BernoulliAndSeries/HarmonicSeriesDiverges.tex
 
 LaTeX Warning: No \author given.
 
@@ -2617,20 +2698,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.31 
+     pdfTeX warning (ext4): destination with the same identifier (name{problem.
+2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.36 T
+      he ``exceedingly short proof'' is done by what method?pdfTeX warning (ext
+4): destination with the same identifier (name{problem.3}) has been already use
+d, duplicate ignored
 <to be read again> 
                    \relax 
-l.51 \end{question}
-                   ) [61
+l.47 W
+      hat are the most important points from this reading?) [61
 
-] (./EulerAndSeries/RiemannHypothesis.tex
+]
+(./EulerAndSeries/RiemannHypothesis.tex
 
 LaTeX Warning: No \author given.
 
@@ -2638,18 +2721,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.26 H
+      ow many problems are in Hilbert's list in total? $\answer[given]{23}$pdfT
+eX warning (ext4): destination with the same identifier (name{problem.2}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.30 W
+      hat is the value of $\zeta(-2k)$ for $k$ a positive integer?pdfTeX warnin
+g (ext4): destination with the same identifier (name{problem.3}) has been alrea
+dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.45 \end{question}
-                   ) [62
+l.41 W
+      hat are the most important points from this reading?) [62
 
 ]
 (./EulerAndSeries/bernoulliEulerAndSeries/bernoulliEulerAndSeriesv2.tex
@@ -2660,66 +2745,49 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.23 C
+      onsider:pdfTeX warning (ext4): destination with the same identifier (name
+{problem.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.35 L
+      et $g(x)$ be a polynomial with roots $a_1,\dots, a_n$. Suppose alsopdfTeX
+ warning (ext4): destination with the same identifier (name{problem.3}) has bee
+n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.40 L
+      et $g(x)$ be a polynomial with roots $a_1,\dots, a_n$. Suppose alsopdfTeX
+ warning (ext4): destination with the same identifier (name{problem.4}) has bee
+n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.45 W
+      hat exactly are the roots of $f(x)$? What is $f(0)$?  Explain why:pdfTeX 
+warning (ext4): destination with the same identifier (name{problem.5}) has been
+ already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.52 E
+      xplain why:pdfTeX warning (ext4): destination with the same identifier (n
+ame{problem.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.7}) has been already used, duplicate ignored
+l.59 E
+      xplain why:pdfTeX warning (ext4): destination with the same identifier (n
+ame{problem.7}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
+l.68 E
+      xplain why:pdfTeX warning (ext4): destination with the same identifier (n
+ame{problem.8}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79 \end{exploration}
-                       [63
+l.74 \begin{exploration}[Bonus!]
+                                 [63
 
-]) [64] (./EulerAndNumbers/VeryLargePrimes.tex
-
-LaTeX Warning: No \author given.
-
-pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.25 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.43 \end{question}
-                   ) [65
-
-] (./EulerAndNumbers/EulerAndFermat/EulerAndFermat.tex
+]) [64]
+(./EulerAndNumbers/VeryLargePrimes.tex
 
 LaTeX Warning: No \author given.
 
@@ -2727,48 +2795,80 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.15 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.24 H
+      ow many digits are in the largest prime mentioned in the article? $\an...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.28 W
+      ho has the record for the largest prime found without using a machine?pdf
+TeX warning (ext4): destination with the same identifier (name{problem.3}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.39 W
+      hat are the most important points from this reading?) [65
+
+]
+(./EulerAndNumbers/EulerAndFermat/EulerAndFermat.tex
+
+LaTeX Warning: No \author given.
+
+pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.14 R
+      emind me: what are the necessary ingredients for a proof by induction?pdf
+TeX warning (ext4): destination with the same identifier (name{problem.2}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.28 R
+      emind me: what is the definition of ``divides''?pdfTeX warning (ext4): de
+stination with the same identifier (name{problem.3}) has been already used, dup
+licate ignored
 <to be read again> 
                    \relax 
-l.45 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.7}) has been already used, duplicate ignored
+l.32 P
+      rove that Theorem 1 is true in the case that $n=0$.pdfTeX warning (ext4):
+ destination with the same identifier (name{problem.4}) has been already used, 
+duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
+l.36 S
+      uppose that $A$ is any whole number, and that you divide $A$ by some n...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.5}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.9}) has been already used, duplicate ignored
+l.40 R
+      epeat question 4, but related to Theorem 1 and the case $n=1$.  What a...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.6}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.57 \end{question}
-                   ) [66
+l.44 U
+      se proof by contradiction to eliminate the case you don't want.pdfTeX war
+ning (ext4): destination with the same identifier (name{problem.7}) has been al
+ready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 R
+      epeat questions 5 and 6, but for the case $n=2$.  If you're confident ...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.8}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52 P
+      rove Theorem 1.pdfTeX warning (ext4): destination with the same identifie
+r (name{problem.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.56 E
+      uler used Theorem 1 to prove that $2^{2^5}+1$ is not prime.  How did h...
+) [66
 
 ] (./EulerAndNumbers/GaussPrinceMathematicians.tex
 
@@ -2778,20 +2878,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.30 H
+      ow many proofs of the Fundamental Theorem of Algebra did Gauss give? $...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.34 W
+      hich of the following did not attempt a proof of the Fundamental Theor...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \end{question}
-                   ) [67
+l.45 W
+      hat are the most important points from this reading?) [67
 
-] (./CantorAndTheInfinite/ContemplatingTheInfinite.tex
+]
+(./CantorAndTheInfinite/ContemplatingTheInfinite.tex
 
 LaTeX Warning: No \author given.
 
@@ -2799,20 +2902,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.28 A
+      fter the hotel appears to be full, a family arrives and asks for a roo...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.2}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.33 I
+      n the story of ``Hotel Infinity'', what does George build, other than ...
+pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
+as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \end{question}
-                   ) [68
+l.44 W
+      hat are the most important points from this reading?) [68
 
-] (./CantorAndTheInfinite/cantorCan/cantorCan.tex
+]
+(./CantorAndTheInfinite/cantorCan/cantorCan.tex
 
 LaTeX Warning: No \author given.
 
@@ -2820,25 +2926,28 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.25 H
+      ere is a table of rational numbers:pdfTeX warning (ext4): destination wit
+h the same identifier (name{problem.2}) has been already used, duplicate ignore
+d
 <to be read again> 
                    \relax 
-l.63 \end{question}
-                    [69
+l.47 T
+      he question: Are the set of counting numbers and the set of real [69
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.68 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.66 E
+      xplain why the same argument does \textit{not} show that thepdfTeX warnin
+g (ext4): destination with the same identifier (name{problem.4}) has been alrea
+dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75 \end{exploration}
-                      ) [70] (./ModernMathematics/TwentiethCenturyAndBeyond.tex
+l.74 I
+      s the cardinality of $\R$ equal to the cardinality of $\P(\Q)$?) [70]
+(./ModernMathematics/TwentiethCenturyAndBeyond.tex
 
 LaTeX Warning: No \author given.
 
@@ -2846,20 +2955,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.29 T
+      he Fields Medal is awarded every $\answer[given]{4}$ years.pdfTeX warning
+ (ext4): destination with the same identifier (name{problem.2}) has been alread
+y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.33 W
+      hich of the following is not a theme discussed by Atiyah?pdfTeX warning (
+ext4): destination with the same identifier (name{problem.3}) has been already 
+used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 \end{question}
-                   ) [71
+l.44 W
+      hat are the most important points from this reading?) [71
 
-] (./ModernMathematics/whosWho/WhosWho.tex
+]
+(./ModernMathematics/whosWho/WhosWho.tex
 
 LaTeX Warning: No \author given.
 
@@ -2873,106 +2985,113 @@ pdfTeX warning (ext4): destination with the same identifier (name{problem.1}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.17 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.2}) has been already used, duplicate ignored
+l.15 G
+      iven any \textit{finite} set $S$, can you prove that the power set ofpdfT
+eX warning (ext4): destination with the same identifier (name{problem.2}) has b
+een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.3}) has been already used, duplicate ignored
+l.27 G
+      ive part of an example map between $\N$ and $\P(\N)$ and clearlypdfTeX wa
+rning (ext4): destination with the same identifier (name{problem.3}) has been a
+lready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.4}) has been already used, duplicate ignored
+l.32 L
+      et $B$ be the set of all nonselfish numbers. Explain whypdfTeX warning (e
+xt4): destination with the same identifier (name{problem.4}) has been already u
+sed, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.5}) has been already used, duplicate ignored
+l.39 S
+      o far we have only shown $|\N|\ne|\P(\N)|$. How do you conclude thatpdfTe
+X warning (ext4): destination with the same identifier (name{problem.5}) has be
+en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.6}) has been already used, duplicate ignored
+l.44 G
+      iven any set $S$, can you prove that the power set of $S$ has apdfTeX war
+ning (ext4): destination with the same identifier (name{problem.6}) has been al
+ready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75 \end{question}
-                    [74
+l.64 L
+      et [74
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{problem.7}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.8}) has been already used, duplicate ignored
+l.78 A
+      rgue that $\beth_1 = \P(\N)= |[0,1]| = |\R|$.pdfTeX warning (ext4): desti
+nation with the same identifier (name{problem.8}) has been already used, duplic
+ate ignored
 <to be read again> 
                    \relax 
-l.97 \end{question}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{problem.9}) has been already used, duplicate ignored
+l.95 S
+      ay everything you can about the relationship between the alephpdfTeX warn
+ing (ext4): destination with the same identifier (name{problem.9}) has been alr
+eady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.127 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.10}) has been already used, duplicate ignored
+l.125 W
+       hat would an counterexample to this claim imply? What would anpdfTeX war
+ning (ext4): destination with the same identifier (name{problem.10}) has been a
+lready used, duplicate ignored
 <to be read again> 
                    \relax 
-l.136 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.11}) has been already used, duplicate ignored
+l.135 H
+       ow does one express this set in ``set-builder'' notation?pdfTeX warning 
+(ext4): destination with the same identifier (name{problem.11}) has been alread
+y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.140 \end{question}
-                    pdfTeX warning (ext4): destination with the same identifier
- (name{problem.12}) has been already used, duplicate ignored
+l.139  W
+        hat is the problem with this set?pdfTeX warning (ext4): destination wit
+h the same identifier (name{problem.12}) has been already used, duplicate ignor
+ed
 <to be read again> 
                    \relax 
-l.144 \end{question}
-                     [75]) [76]
+l.143 D
+       oes this set remind you of anything you've seen before? [75]) [76]
+*********************************************************************
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
- (./historyOfMathematics.aux)
+(./historyOfMathematics.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `historyOfMathematics.out' has not changed.
 (rerunfilecheck)             Checksum: 776EC4DF27B6CFBB81E672CC536377A2;5439.
  ) 
 Here is how much of TeX's memory you used:
- 41187 strings out of 493089
- 913539 string characters out of 6134842
- 1118032 words of memory out of 5000000
- 43050 multiletter control sequences out of 15000+600000
+ 43417 strings out of 493013
+ 963580 string characters out of 6139317
+ 1190598 words of memory out of 5000000
+ 45324 multiletter control sequences out of 15000+600000
  17299 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,11n,102p,10411b,2159s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on historyOfMathematics.pdf (76 pages, 482266 bytes).
+ 80i,11n,100p,10411b,2151s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbxsl10.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8
+.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on historyOfMathematics.pdf (76 pages, 482275 bytes).
 PDF statistics:
  1852 PDF objects out of 2073 (max. 8388607)
  1728 compressed objects within 18 object streams
