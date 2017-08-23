@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.12)  22 AUG 2017 13:09
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 AUG 2017 22:24
+>>>>>>> Stashed changes
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1413,7 +1417,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 
 ]) [6]
-(./EgyptianMathematics/EgyptianNumbersArithmetic/EgyptianNumbersArithmetic.tex
+(./EgyptianMathematics/EgyptianNumbersArithmetic.tex
 
 LaTeX Warning: No \author given.
 
@@ -1460,8 +1464,7 @@ d, duplicate ignored
 l.44 W
       hat are the most important points of this reading?) [8
 
-]
-(./EgyptianMathematics/theMethodOfFalsePosition/theMethodOfFalsePosition.tex
+] (./EgyptianMathematics/theMethodOfFalsePosition.tex
 
 LaTeX Warning: No \author given.
 
@@ -1530,9 +1533,14 @@ l.39 W
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< Updated upstream
 l.51 W
       hat are the most important points of this reading?) [12]
 (./BabylonianMathematics/BabylonianNumbers/BabylonianNumbers.tex
+=======
+l.54 \end{question}
+                   ) [12] (./BabylonianMathematics/BabylonianNumbers.tex
+>>>>>>> Stashed changes
 
 LaTeX Warning: No \author given.
 
@@ -1630,8 +1638,7 @@ l.52 W
       hat are the most important points of this reading?) [15
 
 ]
-(./PythagorasAndEarlyGreek/rationalNumbersAndSimilarity/rationalNumbersAndSimil
-arity.tex
+(./PythagorasAndEarlyGreek/rationalNumbersAndSimilarity.tex
 
 LaTeX Warning: No \author given.
 
@@ -1684,8 +1691,7 @@ as been already used, duplicate ignored
 l.50 W
       hat are the most important points of this reading?) [17
 
-]
-(./PythagorasAndEarlyGreek/pythagoreanMeans/pythagoreanMeans.tex
+] (./PythagorasAndEarlyGreek/pythagoreanMeans.tex
 
 LaTeX Warning: No \author given.
 
@@ -1750,8 +1756,7 @@ duplicate ignored
 l.45 W
       hat are the most important points of this reading?) [20
 
-]
-(./HippocratesAndLunes/computingQuadratures/computingQuadratures.tex
+] (./HippocratesAndLunes/computingQuadratures.tex
 
 LaTeX Warning: No \author given.
 
@@ -1810,8 +1815,7 @@ as been already used, duplicate ignored
 l.52 W
       hat are the most important points of this reading? [22
 
-]) [23]
-(./HippocratesAndLunes/AllGreekToMe/AllGreekToMe.tex
+]) [23] (./HippocratesAndLunes/AllGreekToMe.tex
 
 LaTeX Warning: No \author given.
 
@@ -1912,8 +1916,7 @@ as been already used, duplicate ignored
 l.45 W
       hat are the most important points from this reading?) [27
 
-]
-(./EuclidAndGeometry/euclidsElements/euclidsElements.tex
+] (./EuclidAndGeometry/euclidsElements.tex
 
 LaTeX Warning: No \author given.
 
@@ -1953,9 +1956,14 @@ l.96 P
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< Updated upstream
 l.109 P
        rove Proposition I.32.) [29]
 (./EuclidAndGeometry/thePythagoreanTheorem/thePythagoreanTheorem.tex
+=======
+l.110 \end{question}
+                    ) [29] (./EuclidAndGeometry/thePythagoreanTheorem.tex
+>>>>>>> Stashed changes
 
 LaTeX Warning: No \author given.
 
@@ -1969,6 +1977,7 @@ arning (ext4): destination with the same identifier (name{problem.2}) has been
 already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< Updated upstream
 l.25 W
       hat would one need to prove about the following diagram to prove the
 <EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf, id=984, 278.54982pt x 
@@ -1978,6 +1987,16 @@ File: EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf Graphic file (type
  <use EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf>
 Package pdftex.def Info: EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf
  used on input line 29.
+=======
+l.30 \end{question}
+                   
+<EuclidAndGeometry/PythEuclid.pdf, id=984, 278.54982pt x 302.91467pt>
+File: EuclidAndGeometry/PythEuclid.pdf Graphic file (type pdf)
+
+<use EuclidAndGeometry/PythEuclid.pdf>
+Package pdftex.def Info: EuclidAndGeometry/PythEuclid.pdf used on input line 30
+.
+>>>>>>> Stashed changes
 (pdftex.def)             Requested size: 278.54913pt x 302.91393pt.
 pdfTeX warning (ext4): destination with the same identifier (name{problem.3}) h
 as been already used, duplicate ignored
@@ -2005,9 +2024,8 @@ l.52 E
       xplain why area of square $ACC'A'$ is equal to the area of rectangle
 [30
 
- <./EuclidAndGeometry/thePythagoreanTheorem/PythEuclid.pdf>]pdfTeX warning (ext
-4): destination with the same identifier (name{problem.7}) has been already use
-d, duplicate ignored
+ <./EuclidAndGeometry/PythEuclid.pdf>]pdfTeX warning (ext4): destination with t
+he same identifier (name{problem.7}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.58 U
@@ -2039,10 +2057,15 @@ l.42 W
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< Updated upstream
 l.53 W
       hat are the most important points from this reading?) [33]
 (./EuclidAndPrimes/theUniqueFactorizationTheorem/theUniqueFactorizationTheorem.
 tex
+=======
+l.57 \end{question}
+                   ) [33] (./EuclidAndPrimes/theUniqueFactorizationTheorem.tex
+>>>>>>> Stashed changes
 
 LaTeX Warning: No \author given.
 
@@ -2148,8 +2171,12 @@ already used, duplicate ignored
 l.43 W
       hat are the most important points from this reading?) [37
 
+<<<<<<< Updated upstream
 ]
 (./ArchimedesAndPi/estimatingPi/estimatingPi.tex
+=======
+] (./ArchimedesAndPi/estimatingPi.tex
+>>>>>>> Stashed changes
 
 LaTeX Warning: No \author given.
 
@@ -2243,8 +2270,7 @@ as been already used, duplicate ignored
 l.48 W
       hat are the most important points from this reading? [41
 
-]) [42]
-(./HeronAndTriangles/heronsFormula/heronsFormula.tex
+]) [42] (./HeronAndTriangles/heronsFormula.tex
 
 LaTeX Warning: No \author given.
 
@@ -2360,8 +2386,7 @@ l.28 I
 l.39 W
       hat are the most important points from this reading?) [47
 
-]
-(./CardanoAndTheCubic/solvingEquations/solvingEquationsv2.tex
+] (./CardanoAndTheCubic/solvingEquationsv2.tex
 
 LaTeX Warning: No \author given.
 
@@ -2501,9 +2526,14 @@ l.39 W
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< Updated upstream
 l.50 W
       hat are the most important points from this reading?) [52]
 (./NewtonAndSeries/theBinomialTheoremAndPi/theBinomialTheoremAndPi.tex
+=======
+l.54 \end{question}
+                   ) [52] (./NewtonAndSeries/theBinomialTheoremAndPi.tex
+>>>>>>> Stashed changes
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 10.
@@ -2615,8 +2645,7 @@ red
 l.42 W
       hat are the most important points from this reading?) [57
 
-]
-(./BernoulliAndSeries/leibnizAndSeries/leibnizAndSeries.tex
+] (./BernoulliAndSeries/leibnizAndSeries.tex
 
 LaTeX Warning: No \author given.
 
@@ -2736,8 +2765,7 @@ dy used, duplicate ignored
 l.41 W
       hat are the most important points from this reading?) [62
 
-]
-(./EulerAndSeries/bernoulliEulerAndSeries/bernoulliEulerAndSeriesv2.tex
+] (./EulerAndSeries/bernoulliEulerAndSeriesv2.tex
 
 LaTeX Warning: No \author given.
 
@@ -2810,8 +2838,12 @@ been already used, duplicate ignored
 l.39 W
       hat are the most important points from this reading?) [65
 
+<<<<<<< Updated upstream
 ]
 (./EulerAndNumbers/EulerAndFermat/EulerAndFermat.tex
+=======
+] (./EulerAndNumbers/EulerAndFermat.tex
+>>>>>>> Stashed changes
 
 LaTeX Warning: No \author given.
 
@@ -2917,8 +2949,12 @@ as been already used, duplicate ignored
 l.44 W
       hat are the most important points from this reading?) [68
 
+<<<<<<< Updated upstream
 ]
 (./CantorAndTheInfinite/cantorCan/cantorCan.tex
+=======
+] (./CantorAndTheInfinite/cantorCan.tex
+>>>>>>> Stashed changes
 
 LaTeX Warning: No \author given.
 
@@ -2970,14 +3006,18 @@ used, duplicate ignored
 l.44 W
       hat are the most important points from this reading?) [71
 
+<<<<<<< Updated upstream
 ]
 (./ModernMathematics/whosWho/WhosWho.tex
+=======
+] (./ModernMathematics/WhosWho.tex
+>>>>>>> Stashed changes
 
 LaTeX Warning: No \author given.
 
 [72
 
-]) [73] (./ModernMathematics/limitsOfAxioms/limitsOfAxioms.tex
+]) [73] (./ModernMathematics/limitsOfAxioms.tex
 
 LaTeX Warning: No \author given.
 
@@ -3062,8 +3102,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `historyOfMathematics.out' has not changed.
 (rerunfilecheck)             Checksum: 776EC4DF27B6CFBB81E672CC536377A2;5439.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< Updated upstream
  43417 strings out of 493013
  963580 string characters out of 6139317
  1190598 words of memory out of 5000000
@@ -3092,6 +3137,40 @@ fonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8
 .pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></us
 r/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 Output written on historyOfMathematics.pdf (76 pages, 482275 bytes).
+=======
+ 41167 strings out of 493089
+ 911889 string characters out of 6134842
+ 1117984 words of memory out of 5000000
+ 43050 multiletter control sequences out of 15000+600000
+ 17299 words of font info for 65 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 86i,11n,102p,10411b,2159s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on historyOfMathematics.pdf (76 pages, 482264 bytes).
+>>>>>>> Stashed changes
 PDF statistics:
  1852 PDF objects out of 2073 (max. 8388607)
  1728 compressed objects within 18 object streams
