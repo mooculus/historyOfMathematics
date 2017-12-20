@@ -1,0 +1,108 @@
+<!doctype html> 
+<html lang="en"> 
+<head>
+<title>Very Large Primes</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<!-- charset=utf-8,-css,html,xhtml --> 
+<meta name="src" content="VeryLargePrimes.tex" /> 
+<meta name="date" content="2017-12-19 16:04:00" /> 
+<meta name="author" content="" /> 
+<meta charset="UTF-8" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)" /> 
+<meta name="ximera" content="version 0.0.1" /> 
+<link href="http://ximera.osu.edu/public/static/base.min.css" rel="stylesheet" media="screen"/> 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/> 
+<script data-module="script" data-main="http://ximera.osu.edu/public/javascripts/app.min" src="http://ximera.osu.edu/components/requirejs/require.js"></script> 
+</head><body> 
+<div class="preamble"><script type="math/tex">\newenvironment {prompt}{}{}
+\newcommand {\DeclareMathOperator }[2]{\@OldDeclareMathOperator {##1}{##2}\immediate \write \myfile {\unexpanded {\DeclareMathOperator }{\unexpanded {##1}}{\unexpanded {##2}}}}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }
+\newcommand {\reserved@a }[1]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\AppendGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Append \grfext@Check }{\grfext@Append \grfext@@Add }}
+\newcommand {\PrependGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Prepend \grfext@Check }{\grfext@Prepend \grfext@@Add }}
+\newcommand {\RemoveGraphicsExtensions }[1]{\@ifundefined {Gin@extensions}{\def \Gin@extensions {}}{\edef \grfext@tmp {\zap@space ##1 \@empty }\@for \grfext@ext :=\grfext@tmp \do {\def \grfext@next {\let \grfext@tmp \Gin@extensions \@expandtwoargs \@removeelement \grfext@ext \Gin@extensions \Gin@extensions \ifx \grfext@tmp \Gin@extensions \let \grfext@next \relax \fi \grfext@next }\grfext@next }}\grfext@Print \RemoveGraphicsExtensions }
+\newcommand {\epstopdfsetup }[0]{\setkeys {ETE}}
+\newcommand {\epstopdfcall }[1]{\ifETE@InsideSetfile \expandafter \@firstoftwo \else \expandafter \@secondoftwo \fi {‘##1}{\Gin@base \Gin@ext }}
+\newcommand {\epstopdfDeclareGraphicsRule }[4]{\ifx \\##4\\\@PackageError {epstopdf-base}{Conversion command is missing}\@ehc \else \begingroup \@ifundefined {Gin@rule@##1}{}{\@PackageInfo {epstopdf-base}{Redefining graphics rule for ‘##1&#x2019;}}\endgroup \@namedef {Gin@rule@##1}####1{{##2}{##3}{\epstopdfcall {##4}}}\fi }
+\newcommand {\mdf@patchamsthm }[0]{\let \mdf@deferred@thm@head \deferred@thm@head \pretocmd {\deferred@thm@head }{\@inlabelfalse }{\mdf@PackageInfo {mdframed detected package amsthm
+ changed the theorem header of amsthm\MessageBreak }}{\mdf@PackageError {mdframed detected package amsthm
+ changed the theorem header of amsthm failed\MessageBreak }}}
+\newcommand {\GetTitleStringSetup }[0]{\setkeys {gettitlestring}}
+\newcommand {\GetTitleString }[0]{\ifGTS@expand \expandafter \GetTitleStringExpand \else \expandafter \GetTitleStringNonExpand \fi }
+\newcommand {\GetTitleStringExpand }[1]{\def \GetTitleStringResult {##1}\begingroup \GTS@DisablePredefinedCmds \GTS@DisableHook \edef \x {\endgroup \noexpand \def \noexpand \GetTitleStringResult {\GetTitleStringResult }}\x }
+\newcommand {\GetTitleStringNonExpand }[1]{\def \GetTitleStringResult {##1}\global \let \GTS@GlobalString \GetTitleStringResult \begingroup \GTS@RemoveLeft \GTS@RemoveRight \endgroup \let \GetTitleStringResult \GTS@GlobalString }
+\newcommand {\GTS@DisableHook }[0]{}
+\newcommand {\label@hook }[0]{}
+\newcommand {\@currentlabelname }[0]{}
+\newcommand {\reserved@a }[0]{}
+\newcommand {\@safe@activestrue }[0]{}
+\newcommand {\@safe@activesfalse }[0]{}
+\newcommand {\nameref  }[0]{\@ifstar \T@nameref \T@nameref }
+\newcommand {\Sectionformat }[2]{##1}
+\newcommand {\vnameref  }[1]{\unskip ~\nameref {##1}\@vpageref [\unskip ]{##1}}
+\newcommand {\ref  }[0]{\@ifstar \@refstar \T@ref }
+\newcommand {\pageref  }[0]{\@ifstar \@pagerefstar \T@pageref }
+\newcommand {\nameref  }[0]{\@ifstar \@namerefstar \T@nameref }
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[0]{\AtBeginDocument }
+\newcommand {\reserved@a }[1]{}
+\newcommand {\reserved@a }[2]{}                                                                                                                                                                                                                                                                                                                                                                                                                         </script><script type="text/javascript"> 
+</script> 
+</div>
+<div 
+class="abstract" 
+>
+</div>   <div class="maketitle"></div>
+<!--l. 11--><p class="noindent" >Being one of the most prolific mathematicians in history, Euler considered many
+subjects. Here, we look at Euler&#x2019;s work with some of Fermat&#x2019;s conjectures in number
+theory. In an unusual turn of events, we consider the Great Theorem as part of the
+first reading for this chapter. One of the consequences of this Great Theorem is that
+people began using Euler&#x2019;s proof method to look for larger and larger primes. This
+                                                                  
+
+                                                                  
+was one of the first ways to look for primes other than simply considering all of their
+factors. Different methods have since been invented, so Euler&#x2019;s method isn&#x2019;t
+necessarily used anymore, but our second reading explores ‘‘records&#x2019;&#x2019; for the largest
+known primes. The article also does a nice job detailing how things changed
+after the modern computer was invented! You can also click the links in the
+article if you&#x2019;re interested in learning more about how people search for
+primes.
+</p>
+<h3 class="sectionHead"><a 
+ id="x1-1000"></a>Readings</h3>
+<!--l. 15--><p class="noindent" >First reading: Dunham, Chapter 10, pages 223 - 235
+</p><!--l. 17--><p class="noindent" >Second reading: <a href="http://primes.utm.edu/notes/by_year.html">The Largest Known Primes by Year</a>
+</p>
+<h3 class="sectionHead"><a 
+ id="x1-2000"></a>Questions</h3>
+<div class="problem-environment question" id="problem1"><a 
+ id="x1-2001r1"></a> How many digits are in the largest prime mentioned in the article? <script type="math/tex"> <![CDATA[ 
+\answer [given]{22338618} 
+]]> 
+</script>
+</div>
+<div class="problem-environment question" id="problem2"><a 
+ id="x1-2002r2"></a> Who has the record for the largest prime found without using a machine? <div class="multiple-choice" id="problem3"><span class="choice correct "   id="choice1">Lucas</span> <span class="choice  " 
+id="choice2">Euler</span> <span class="choice  "   id="choice3">Ferrier</span> <span class="choice  "   id="choice4">Miller &#x0026; Wheeler</span> </div>
+</div>
+<div class="problem-environment question" id="problem4"><a 
+ id="x1-2003r3"></a> What are the most important points from this reading? <div class="free-response" id="problem5"><a 
+ id="x1-2004r4"></a>
+</div>
+<!--l. 43--><p class="noindent" ></div>
+</body> 
+ 
+</html>
+                                                                  
+
+                                                                  
+                                                                  
+
+

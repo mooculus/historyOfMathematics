@@ -1,0 +1,121 @@
+<!doctype html> 
+<html lang="en"> 
+<head>
+<title>The Riemann Hypothesis</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<!-- charset=utf-8,-css,html,xhtml --> 
+<meta name="src" content="RiemannHypothesis.tex" /> 
+<meta name="date" content="2017-12-19 16:04:00" /> 
+<meta name="author" content="" /> 
+<meta charset="UTF-8" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)" /> 
+<meta name="ximera" content="version 0.0.1" /> 
+<link href="http://ximera.osu.edu/public/static/base.min.css" rel="stylesheet" media="screen"/> 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/> 
+<script data-module="script" data-main="http://ximera.osu.edu/public/javascripts/app.min" src="http://ximera.osu.edu/components/requirejs/require.js"></script> 
+</head><body> 
+<div class="preamble"><script type="math/tex">\newenvironment {prompt}{}{}
+\newcommand {\DeclareMathOperator }[2]{\@OldDeclareMathOperator {##1}{##2}\immediate \write \myfile {\unexpanded {\DeclareMathOperator }{\unexpanded {##1}}{\unexpanded {##2}}}}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }
+\newcommand {\reserved@a }[1]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\AppendGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Append \grfext@Check }{\grfext@Append \grfext@@Add }}
+\newcommand {\PrependGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Prepend \grfext@Check }{\grfext@Prepend \grfext@@Add }}
+\newcommand {\RemoveGraphicsExtensions }[1]{\@ifundefined {Gin@extensions}{\def \Gin@extensions {}}{\edef \grfext@tmp {\zap@space ##1 \@empty }\@for \grfext@ext :=\grfext@tmp \do {\def \grfext@next {\let \grfext@tmp \Gin@extensions \@expandtwoargs \@removeelement \grfext@ext \Gin@extensions \Gin@extensions \ifx \grfext@tmp \Gin@extensions \let \grfext@next \relax \fi \grfext@next }\grfext@next }}\grfext@Print \RemoveGraphicsExtensions }
+\newcommand {\epstopdfsetup }[0]{\setkeys {ETE}}
+\newcommand {\epstopdfcall }[1]{\ifETE@InsideSetfile \expandafter \@firstoftwo \else \expandafter \@secondoftwo \fi {‘##1}{\Gin@base \Gin@ext }}
+\newcommand {\epstopdfDeclareGraphicsRule }[4]{\ifx \\##4\\\@PackageError {epstopdf-base}{Conversion command is missing}\@ehc \else \begingroup \@ifundefined {Gin@rule@##1}{}{\@PackageInfo {epstopdf-base}{Redefining graphics rule for ‘##1&#x2019;}}\endgroup \@namedef {Gin@rule@##1}####1{{##2}{##3}{\epstopdfcall {##4}}}\fi }
+\newcommand {\mdf@patchamsthm }[0]{\let \mdf@deferred@thm@head \deferred@thm@head \pretocmd {\deferred@thm@head }{\@inlabelfalse }{\mdf@PackageInfo {mdframed detected package amsthm
+ changed the theorem header of amsthm\MessageBreak }}{\mdf@PackageError {mdframed detected package amsthm
+ changed the theorem header of amsthm failed\MessageBreak }}}
+\newcommand {\GetTitleStringSetup }[0]{\setkeys {gettitlestring}}
+\newcommand {\GetTitleString }[0]{\ifGTS@expand \expandafter \GetTitleStringExpand \else \expandafter \GetTitleStringNonExpand \fi }
+\newcommand {\GetTitleStringExpand }[1]{\def \GetTitleStringResult {##1}\begingroup \GTS@DisablePredefinedCmds \GTS@DisableHook \edef \x {\endgroup \noexpand \def \noexpand \GetTitleStringResult {\GetTitleStringResult }}\x }
+\newcommand {\GetTitleStringNonExpand }[1]{\def \GetTitleStringResult {##1}\global \let \GTS@GlobalString \GetTitleStringResult \begingroup \GTS@RemoveLeft \GTS@RemoveRight \endgroup \let \GetTitleStringResult \GTS@GlobalString }
+\newcommand {\GTS@DisableHook }[0]{}
+\newcommand {\label@hook }[0]{}
+\newcommand {\@currentlabelname }[0]{}
+\newcommand {\reserved@a }[0]{}
+\newcommand {\@safe@activestrue }[0]{}
+\newcommand {\@safe@activesfalse }[0]{}
+\newcommand {\nameref  }[0]{\@ifstar \T@nameref \T@nameref }
+\newcommand {\Sectionformat }[2]{##1}
+\newcommand {\vnameref  }[1]{\unskip ~\nameref {##1}\@vpageref [\unskip ]{##1}}
+\newcommand {\ref  }[0]{\@ifstar \@refstar \T@ref }
+\newcommand {\pageref  }[0]{\@ifstar \@pagerefstar \T@pageref }
+\newcommand {\nameref  }[0]{\@ifstar \@namerefstar \T@nameref }
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[0]{\AtBeginDocument }
+\newcommand {\reserved@a }[1]{}
+\newcommand {\reserved@a }[2]{}                                                                                                                                                                                                                                                                                                                                                                                                                         </script><script type="text/javascript"> 
+</script> 
+</div>
+<div 
+class="abstract" 
+>
+</div>   <div class="maketitle"></div>
+<!--l. 11--><p class="noindent" >In Chapter 9, we meet perhaps the most prolific mathematician of all time: Euler.
+Dunham has written a lot in his career about Euler, and so we have two chapters to
+study his work. In this first chapter, our Great Theorem will investigate how Euler
+succeeded where Leibniz and Bernoulli failed to find the sum of <script type="math/tex"> <![CDATA[ 
+\sum \frac {1}{n^2} 
+]]> 
+</script>. Euler didn&#x2019;t stop
+adding up series here, though, and has an impressive list of results similar to this
+                                                                  
+
+                                                                  
+one.
+</p><!--l. 13--><p class="noindent" >Euler&#x2019;s results, however, quickly bring up another question in the form of ‘‘how far
+can we really go, here?&#x2019;&#x2019; It&#x2019;s natural at this point to introduce what&#x2019;s known as the
+Riemann hypothesis. Riemann himself, as well as the hypothesis and Euler&#x2019;s work
+surrounding it are all described in the second reading. The reading itself appears to
+be long, but should hopefully be a quick read. Keep in mind, though, that the
+mathematician who wrote it is joking about just about everything other than the
+mathematics!
+</p>
+<h3 class="sectionHead"><a 
+ id="x1-1000"></a>Readings</h3>
+<!--l. 17--><p class="noindent" >First reading: Dunham, Chapter 9
+</p><!--l. 19--><p class="noindent" >Second reading: <a href="http://www.math.jhu.edu/\protect \unhbox \voidb@x \penalty \@M \relax \unhbox \voidb@x \special {t4ht@+&{35}x00A0{59}}x{}wright/RH2.pdf">A Friendly Introduction to the Riemann Hypothesis</a>
+</p>
+<h3 class="sectionHead"><a 
+ id="x1-2000"></a>Questions</h3>
+<div class="problem-environment question" id="problem1"><a 
+ id="x1-2001r1"></a> How many problems are in Hilbert&#x2019;s list in total? <script type="math/tex"> <![CDATA[ 
+\answer [given]{23} 
+]]> 
+</script>
+</div>
+<div class="problem-environment question" id="problem2"><a 
+ id="x1-2002r2"></a> What is the value of <script type="math/tex"> <![CDATA[ 
+\zeta (-2k) 
+]]> 
+</script> for <script type="math/tex"> <![CDATA[ 
+k 
+]]> 
+</script> a positive integer? <div class="multiple-choice" id="problem3"><span class="choice  "   id="choice1">No one knows.</span> <span class="choice  "   id="choice2">The function blows
+up to infinity there.</span> <span class="choice  "   id="choice3">A purely imaginary number.</span> <span class="choice correct "   id="choice4"><script type="math/tex"> <![CDATA[ 
+0 
+]]> 
+</script></span> </div>
+</div>
+<div class="problem-environment question" id="problem4"><a 
+ id="x1-2003r3"></a> What are the most important points from this reading? <div class="free-response" id="problem5"><a 
+ id="x1-2004r4"></a>
+</div>
+<!--l. 45--><p class="noindent" ></div>
+</body> 
+ 
+</html>
+                                                                  
+
+                                                                  
+                                                                  
+
+

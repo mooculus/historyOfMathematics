@@ -1,0 +1,113 @@
+<!doctype html> 
+<html lang="en"> 
+<head>
+<title>Proofs of the Pythagorean Theorem</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<!-- charset=utf-8,-css,html,xhtml --> 
+<meta name="src" content="ProofsPythagoreanTheorem.tex" /> 
+<meta name="date" content="2017-12-19 16:03:00" /> 
+<meta name="author" content="" /> 
+<meta charset="UTF-8" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)" /> 
+<meta name="ximera" content="version 0.0.1" /> 
+<link href="http://ximera.osu.edu/public/static/base.min.css" rel="stylesheet" media="screen"/> 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/> 
+<script data-module="script" data-main="http://ximera.osu.edu/public/javascripts/app.min" src="http://ximera.osu.edu/components/requirejs/require.js"></script> 
+</head><body> 
+<div class="preamble"><script type="math/tex">\newenvironment {prompt}{}{}
+\newcommand {\DeclareMathOperator }[2]{\@OldDeclareMathOperator {##1}{##2}\immediate \write \myfile {\unexpanded {\DeclareMathOperator }{\unexpanded {##1}}{\unexpanded {##2}}}}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }
+\newcommand {\reserved@a }[1]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\AppendGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Append \grfext@Check }{\grfext@Append \grfext@@Add }}
+\newcommand {\PrependGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Prepend \grfext@Check }{\grfext@Prepend \grfext@@Add }}
+\newcommand {\RemoveGraphicsExtensions }[1]{\@ifundefined {Gin@extensions}{\def \Gin@extensions {}}{\edef \grfext@tmp {\zap@space ##1 \@empty }\@for \grfext@ext :=\grfext@tmp \do {\def \grfext@next {\let \grfext@tmp \Gin@extensions \@expandtwoargs \@removeelement \grfext@ext \Gin@extensions \Gin@extensions \ifx \grfext@tmp \Gin@extensions \let \grfext@next \relax \fi \grfext@next }\grfext@next }}\grfext@Print \RemoveGraphicsExtensions }
+\newcommand {\epstopdfsetup }[0]{\setkeys {ETE}}
+\newcommand {\epstopdfcall }[1]{\ifETE@InsideSetfile \expandafter \@firstoftwo \else \expandafter \@secondoftwo \fi {‘##1}{\Gin@base \Gin@ext }}
+\newcommand {\epstopdfDeclareGraphicsRule }[4]{\ifx \\##4\\\@PackageError {epstopdf-base}{Conversion command is missing}\@ehc \else \begingroup \@ifundefined {Gin@rule@##1}{}{\@PackageInfo {epstopdf-base}{Redefining graphics rule for ‘##1&#x2019;}}\endgroup \@namedef {Gin@rule@##1}####1{{##2}{##3}{\epstopdfcall {##4}}}\fi }
+\newcommand {\mdf@patchamsthm }[0]{\let \mdf@deferred@thm@head \deferred@thm@head \pretocmd {\deferred@thm@head }{\@inlabelfalse }{\mdf@PackageInfo {mdframed detected package amsthm
+ changed the theorem header of amsthm\MessageBreak }}{\mdf@PackageError {mdframed detected package amsthm
+ changed the theorem header of amsthm failed\MessageBreak }}}
+\newcommand {\GetTitleStringSetup }[0]{\setkeys {gettitlestring}}
+\newcommand {\GetTitleString }[0]{\ifGTS@expand \expandafter \GetTitleStringExpand \else \expandafter \GetTitleStringNonExpand \fi }
+\newcommand {\GetTitleStringExpand }[1]{\def \GetTitleStringResult {##1}\begingroup \GTS@DisablePredefinedCmds \GTS@DisableHook \edef \x {\endgroup \noexpand \def \noexpand \GetTitleStringResult {\GetTitleStringResult }}\x }
+\newcommand {\GetTitleStringNonExpand }[1]{\def \GetTitleStringResult {##1}\global \let \GTS@GlobalString \GetTitleStringResult \begingroup \GTS@RemoveLeft \GTS@RemoveRight \endgroup \let \GetTitleStringResult \GTS@GlobalString }
+\newcommand {\GTS@DisableHook }[0]{}
+\newcommand {\label@hook }[0]{}
+\newcommand {\@currentlabelname }[0]{}
+\newcommand {\reserved@a }[0]{}
+\newcommand {\@safe@activestrue }[0]{}
+\newcommand {\@safe@activesfalse }[0]{}
+\newcommand {\nameref  }[0]{\@ifstar \T@nameref \T@nameref }
+\newcommand {\Sectionformat }[2]{##1}
+\newcommand {\vnameref  }[1]{\unskip ~\nameref {##1}\@vpageref [\unskip ]{##1}}
+\newcommand {\ref  }[0]{\@ifstar \@refstar \T@ref }
+\newcommand {\pageref  }[0]{\@ifstar \@pagerefstar \T@pageref }
+\newcommand {\nameref  }[0]{\@ifstar \@namerefstar \T@nameref }
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[0]{\AtBeginDocument }
+\newcommand {\reserved@a }[1]{}
+\newcommand {\reserved@a }[2]{}                                                                                                                                                                                                                                                                                                                                                                                                                         </script><script type="text/javascript"> 
+</script> 
+</div>
+<div 
+class="abstract" 
+>
+</div>   <div class="maketitle"></div>
+<!--l. 12--><p class="noindent" >We will study Euclid for two chapters - the first focused on geometry and the second
+focused on number theory. Euclid&#x2019;s name is worth knowing because of his work called
+the ‘‘Elements&#x2019;&#x2019;, where he attempts to construct all of the mathematics
+known at the time from basic assumptions he calls ‘‘common notions&#x2019;&#x2019; and
+‘‘postulates&#x2019;&#x2019;. By the time we are finished with this chapter, you should be
+                                                                  
+
+                                                                  
+able to state Euclid&#x2019;s Fifth Postulate and say something about why it was
+controversial.
+</p><!--l. 14--><p class="noindent" >Two important people who influenced Euclid&#x2019;s thinking are <a href="http://www-groups.dcs.st-and.ac.uk/history/Biographies/Eudoxus.html">Eudoxus</a>, most famous
+for his ‘‘method of exhaustion&#x2019;&#x2019;, and <a href="http://www-groups.dcs.st-and.ac.uk/history/Biographies/Aristotle.html">Aristotle</a> who wrote on what proof in
+mathematics should be, and may have been the first to use the phrase ‘‘common
+notion&#x2019;&#x2019;.
+</p>
+<h3 class="sectionHead"><a 
+ id="x1-1000"></a>Readings</h3>
+<!--l. 18--><p class="noindent" >First reading: Dunham Chapter 2
+</p><!--l. 20--><p class="noindent" >Second Reading: <a href="http://www.cut-the-knot.org/pythagoras/">Proofs of the Pythagorean Theorem</a>
+</p><!--l. 23--><p class="noindent" >In the second reading, you should read the introduction, and then pick a
+few of these proofs to study. You do not need to know all of the proofs
+on this site! You should be able to give, in full detail, the proof from our
+textbook (which is also Proof #1 on the site) as well as two other proofs of your
+choice.
+</p>
+<h3 class="sectionHead"><a 
+ id="x1-2000"></a>Questions</h3>
+<div class="problem-environment question" id="problem1"><a 
+ id="x1-2001r1"></a> How many proofs are listed on this site? <script type="math/tex"> <![CDATA[ 
+\answer [given]{118} 
+]]> 
+</script>
+</div>
+<div class="problem-environment question" id="problem2"><a 
+ id="x1-2002r2"></a> Which of the following is NOT a category of proofs of the theorem mentioned in the
+remarks? <div class="multiple-choice" id="problem3"><span class="choice correct "   id="choice1">Proofs by contradiction.</span> <span class="choice  "   id="choice2">Algebraic proofs.</span> <span class="choice  "   id="choice3">Geometric proofs.</span> <span class="choice  " 
+id="choice4">Trigonometric proofs.</span> </div>
+</div>
+<div class="problem-environment question" id="problem4"><a 
+ id="x1-2003r3"></a> What are the most important points from this reading? <div class="free-response" id="problem5"><a 
+ id="x1-2004r4"></a>
+</div>
+<!--l. 49--><p class="noindent" ></div>
+</body> 
+ 
+</html>
+                                                                  
+
+                                                                  
+                                                                  
+
+

@@ -1,0 +1,112 @@
+<!doctype html> 
+<html lang="en"> 
+<head>
+<title>Solve Like an Egyptian</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<!-- charset=utf-8,-css,html,xhtml --> 
+<meta name="src" content="SolveLikeAnEgyptian.tex" /> 
+<meta name="date" content="2017-12-19 16:03:00" /> 
+<meta name="author" content="" /> 
+<meta charset="UTF-8" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)" /> 
+<meta name="ximera" content="version 0.0.1" /> 
+<link href="http://ximera.osu.edu/public/static/base.min.css" rel="stylesheet" media="screen"/> 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/> 
+<script data-module="script" data-main="http://ximera.osu.edu/public/javascripts/app.min" src="http://ximera.osu.edu/components/requirejs/require.js"></script> 
+</head><body> 
+<div class="preamble"><script type="math/tex">\newenvironment {prompt}{}{}
+\newcommand {\DeclareMathOperator }[2]{\@OldDeclareMathOperator {##1}{##2}\immediate \write \myfile {\unexpanded {\DeclareMathOperator }{\unexpanded {##1}}{\unexpanded {##2}}}}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }
+\newcommand {\reserved@a }[1]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\AppendGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Append \grfext@Check }{\grfext@Append \grfext@@Add }}
+\newcommand {\PrependGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Prepend \grfext@Check }{\grfext@Prepend \grfext@@Add }}
+\newcommand {\RemoveGraphicsExtensions }[1]{\@ifundefined {Gin@extensions}{\def \Gin@extensions {}}{\edef \grfext@tmp {\zap@space ##1 \@empty }\@for \grfext@ext :=\grfext@tmp \do {\def \grfext@next {\let \grfext@tmp \Gin@extensions \@expandtwoargs \@removeelement \grfext@ext \Gin@extensions \Gin@extensions \ifx \grfext@tmp \Gin@extensions \let \grfext@next \relax \fi \grfext@next }\grfext@next }}\grfext@Print \RemoveGraphicsExtensions }
+\newcommand {\epstopdfsetup }[0]{\setkeys {ETE}}
+\newcommand {\epstopdfcall }[1]{\ifETE@InsideSetfile \expandafter \@firstoftwo \else \expandafter \@secondoftwo \fi {‘##1}{\Gin@base \Gin@ext }}
+\newcommand {\epstopdfDeclareGraphicsRule }[4]{\ifx \\##4\\\@PackageError {epstopdf-base}{Conversion command is missing}\@ehc \else \begingroup \@ifundefined {Gin@rule@##1}{}{\@PackageInfo {epstopdf-base}{Redefining graphics rule for ‘##1&#x2019;}}\endgroup \@namedef {Gin@rule@##1}####1{{##2}{##3}{\epstopdfcall {##4}}}\fi }
+\newcommand {\mdf@patchamsthm }[0]{\let \mdf@deferred@thm@head \deferred@thm@head \pretocmd {\deferred@thm@head }{\@inlabelfalse }{\mdf@PackageInfo {mdframed detected package amsthm
+ changed the theorem header of amsthm\MessageBreak }}{\mdf@PackageError {mdframed detected package amsthm
+ changed the theorem header of amsthm failed\MessageBreak }}}
+\newcommand {\GetTitleStringSetup }[0]{\setkeys {gettitlestring}}
+\newcommand {\GetTitleString }[0]{\ifGTS@expand \expandafter \GetTitleStringExpand \else \expandafter \GetTitleStringNonExpand \fi }
+\newcommand {\GetTitleStringExpand }[1]{\def \GetTitleStringResult {##1}\begingroup \GTS@DisablePredefinedCmds \GTS@DisableHook \edef \x {\endgroup \noexpand \def \noexpand \GetTitleStringResult {\GetTitleStringResult }}\x }
+\newcommand {\GetTitleStringNonExpand }[1]{\def \GetTitleStringResult {##1}\global \let \GTS@GlobalString \GetTitleStringResult \begingroup \GTS@RemoveLeft \GTS@RemoveRight \endgroup \let \GetTitleStringResult \GTS@GlobalString }
+\newcommand {\GTS@DisableHook }[0]{}
+\newcommand {\label@hook }[0]{}
+\newcommand {\@currentlabelname }[0]{}
+\newcommand {\reserved@a }[0]{}
+\newcommand {\@safe@activestrue }[0]{}
+\newcommand {\@safe@activesfalse }[0]{}
+\newcommand {\nameref  }[0]{\@ifstar \T@nameref \T@nameref }
+\newcommand {\Sectionformat }[2]{##1}
+\newcommand {\vnameref  }[1]{\unskip ~\nameref {##1}\@vpageref [\unskip ]{##1}}
+\newcommand {\ref  }[0]{\@ifstar \@refstar \T@ref }
+\newcommand {\pageref  }[0]{\@ifstar \@pagerefstar \T@pageref }
+\newcommand {\nameref  }[0]{\@ifstar \@namerefstar \T@nameref }
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\reserved@a }[0]{\AtBeginDocument }
+\newcommand {\reserved@a }[1]{}
+\newcommand {\reserved@a }[2]{}                                                                                                                                                                                                                                                                                                                                                                                                                         </script><script type="text/javascript"> 
+</script> 
+</div>
+<div 
+class="abstract" 
+>
+</div>   <div class="maketitle"></div>
+<!--l. 11--><p class="noindent" >We have seen how the ancient Egyptians worked through basic arithmetic problems.
+Our next question should then be: what kinds of problems did they solve? Generally,
+the ancient Egyptians are known for solving practical, every-day problems that had
+to do with administering their large empire. Scribes would solve geometry and
+arithmetic problems as part of their jobs, and other people in the empire would
+                                                                  
+
+                                                                  
+generally not know or use such mathematics. Scribes were trained in scribal schools,
+where they learned mathematics. The best examples we have come from papyrus
+rolls which have been preserved and translated. Our goal for the readings below is to
+understand some examples of how the ancient Egyptians solved arithmetic and
+geometric problems.
+</p>
+<h3 class="sectionHead"><a 
+ id="x1-1000"></a>Readings</h3>
+<!--l. 17--><p class="noindent" >First Reading: <a href="http://www.jstor.org.proxy.lib.ohio-state.edu/stable/20876630">Mathematics Problems from Ancient Egyptian Papyri</a>
+</p><!--l. 19--><p class="noindent" >Second Reading: <a href="http://www-history.mcs.st-and.ac.uk/HistTopics/Egyptian_papyri.html">Mathematics in Egyptian Papyri</a>
+</p><!--l. 21--><p class="noindent" >Third Reading: <a href="http://www.math.tamu.edu/\protect \unhbox \voidb@x \penalty \@M \relax \unhbox \voidb@x \special {t4ht@+&{35}x00A0{59}}x{}don.allen/history/egypt/node4.html">The Moscow Papyrus</a>
+</p><!--l. 23--><p class="noindent" >Fourth Reading: <a href="http://www.math.tamu.edu/\protect \unhbox \voidb@x \penalty \@M \relax \unhbox \voidb@x \special {t4ht@+&{35}x00A0{59}}x{}don.allen/history/egypt/node5.html">Summary of Egyptian Mathematics</a>
+</p>
+<h3 class="sectionHead"><a 
+ id="x1-2000"></a>Questions</h3>
+<div class="problem-environment question" id="problem1"><a 
+ id="x1-2001r1"></a> What was the Egyptian value for <script type="math/tex"> <![CDATA[ 
+\pi  
+]]> 
+</script>? <script type="math/tex"> <![CDATA[ 
+\answer [given]{3.1605} 
+]]> 
+</script>
+</div>
+<div class="problem-environment question" id="problem2"><a 
+ id="x1-2002r2"></a> What is the first step in the Method of False Position? <div class="multiple-choice" id="problem3"><span class="choice  "   id="choice1">Moving everything to one
+side of the equals sign.</span> <span class="choice  "   id="choice2">Labeling a variable.</span> <span class="choice correct "   id="choice3">Guessing.</span> <span class="choice  "   id="choice4">Doubling numbers using
+a chart.</span> </div>
+</div>
+<div class="problem-environment question" id="problem4"><a 
+ id="x1-2003r3"></a> What are the most important points of this reading? <div class="free-response" id="problem5"><a 
+ id="x1-2004r4"></a>
+</div>
+</div>
+</body> 
+ 
+</html>
+                                                                  
+
+                                                                  
+                                                                  
+
+
