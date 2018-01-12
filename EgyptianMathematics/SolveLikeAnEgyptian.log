@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  7 JAN 2018 12:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  8 JAN 2018 22:38
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1724,8 +1724,8 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:166: Extra \fi.
-l.166 \fi
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:169: Extra \fi.
+l.169 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
@@ -1767,14 +1767,14 @@ or  <return>  to continue without it.
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1782,21 +1782,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
 
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
  (./SolveLikeAnEgyptian.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 54.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 54.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 40494 strings out of 493090
- 872436 string characters out of 6134868
+ 40498 strings out of 493090
+ 872498 string characters out of 6134868
  1168284 words of memory out of 5000000
- 43182 multiletter control sequences out of 15000+600000
+ 43186 multiletter control sequences out of 15000+600000
  5507 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,5n,79p,10894b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on SolveLikeAnEgyptian.dvi (3 pages, 11140 bytes).
+Output written on SolveLikeAnEgyptian.dvi (3 pages, 11068 bytes).

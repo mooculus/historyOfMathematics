@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  19 DEC 2017 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  8 JAN 2018 22:40
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1002,48 +1002,93 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 \CommentStream=\write5
 
 Excluding comment 'comment')
-\c@titlenumber=\count188
-\c@sectiontitlenumber=\count189
-\c@theorem=\count190
-\c@algorithm=\count191
-\c@axiom=\count192
-\c@claim=\count193
-\c@conclusion=\count194
-\c@condition=\count195
-\c@conjecture=\count196
-\c@corollary=\count197
-\c@criterion=\count198
-\c@definition=\count199
-\c@example=\count200
-\c@fact=\count201
-\c@formula=\count202
-\c@idea=\count203
-\c@lemma=\count204
-\c@model=\count205
-\c@notation=\count206
-\c@observation=\count207
-\c@paradox=\count208
-\c@procedure=\count209
-\c@proposition=\count210
-\c@remark=\count211
-\c@summary=\count212
-\c@template=\count213
-\c@warning=\count214
- Excluding comment 'matrixAnswer'
-(/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
-Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
-\c@Iteration1=\count215
-\c@RndQuant=\count216
-\c@Temp@Hold=\count217
-\c@Temp@RandMe=\count218
-\c@shuffle@maxCount=\count219
-\c@shuffle@count=\count220
-\c@shuffle@trackProblem=\count221
-\c@shuffle@desiredProblems=\count222
-\c@problem=\count223
-\c@problemType=\count224
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\@linkdim=\dimen222
+\Hy@linkcounter=\count188
+\Hy@pagecounter=\count189
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count190
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count191
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen223
+\Fld@menulength=\count192
+\Field@Width=\dimen224
+\Fld@charsize=\dimen225
+\Field@toks=\toks52
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count193
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver: htex4ht.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/htex4ht.def
+File: htex4ht.def 2012/11/06 v6.83m Hyperref driver for TeX4ht
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.sty
 version 2008-10-27-17:23
 Package: tex4ht 
@@ -1053,37 +1098,70 @@ Package: tex4ht
 --------------------------------------
 --- Note --- for ^ at preamble, use the command line option `early^'
 --------------------------------------
-\tmp:toks=\toks52
-)
-(../preamble.tex
+\tmp:toks=\toks53
+))
+\c@titlenumber=\count194
+\c@sectiontitlenumber=\count195
+\c@theorem=\count196
+\c@algorithm=\count197
+\c@axiom=\count198
+\c@claim=\count199
+\c@conclusion=\count200
+\c@condition=\count201
+\c@conjecture=\count202
+\c@corollary=\count203
+\c@criterion=\count204
+\c@definition=\count205
+\c@example=\count206
+\c@fact=\count207
+\c@formula=\count208
+\c@idea=\count209
+\c@lemma=\count210
+\c@model=\count211
+\c@notation=\count212
+\c@observation=\count213
+\c@paradox=\count214
+\c@procedure=\count215
+\c@proposition=\count216
+\c@remark=\count217
+\c@summary=\count218
+\c@template=\count219
+\c@warning=\count220
+
+Excluding comment 'matrixAnswer'
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2009-05-21-09:32
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/was/gensymb.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
+Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+)
+\c@Iteration1=\count221
+\c@RndQuant=\count222
+\c@Temp@Hold=\count223
+\c@Temp@RandMe=\count224
+\c@shuffle@maxCount=\count225
+\c@shuffle@count=\count226
+\c@shuffle@trackProblem=\count227
+\c@shuffle@desiredProblems=\count228
+\c@problem=\count229
+\c@problemType=\count230
+)
+(../preamble.tex (/usr/local/texlive/2015/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count225
-\Gm@cntv=\count226
-\c@Gm@tempcnt=\count227
-\Gm@bindingoffset=\dimen222
-\Gm@wd@mp=\dimen223
-\Gm@odd@mp=\dimen224
-\Gm@even@mp=\dimen225
-\Gm@layoutwidth=\dimen226
-\Gm@layoutheight=\dimen227
-\Gm@layouthoffset=\dimen228
-\Gm@layoutvoffset=\dimen229
-\Gm@dimlist=\toks53
+\Gm@cnth=\count231
+\Gm@cntv=\count232
+\c@Gm@tempcnt=\count233
+\Gm@bindingoffset=\dimen226
+\Gm@wd@mp=\dimen227
+\Gm@odd@mp=\dimen228
+\Gm@even@mp=\dimen229
+\Gm@layoutwidth=\dimen230
+\Gm@layoutheight=\dimen231
+\Gm@layouthoffset=\dimen232
+\Gm@layoutvoffset=\dimen233
+\Gm@dimlist=\toks54
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
 Package: tkz-euclide 2011/06/01 1.16 c for plots 2d 
@@ -1098,7 +1176,8 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 code.tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
-\arrowsize=\dimen230
+Normal \dimen register pool exhausted, switching to extended pool.
+\arrowsize=\dimen256
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarypositioning.code.tex
@@ -1126,24 +1205,24 @@ File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.0 (rcs-revision 1.13)
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/numprint/numprint.sty
 Package: numprint 2012/08/20 v1.39 Print numbers (HH)
-\c@nprt@mantissa@digitsbefore=\count228
-\c@nprt@mantissa@digitsafter=\count229
-\c@nprt@exponent@digitsbefore=\count230
-\c@nprt@exponent@digitsafter=\count231
+Normal \count register pool exhausted, switching to extended pool.
+\c@nprt@mantissa@digitsbefore=\count277
+\c@nprt@mantissa@digitsafter=\count278
+\c@nprt@exponent@digitsbefore=\count279
+\c@nprt@exponent@digitsafter=\count280
 \nprt@digitwidth=\skip134
 \nprt@sepwidth=\skip135
 \nprt@decimalwidth=\skip136
 \nprt@blockwidth=\skip137
-\nprt@digittoks=\toks54
-\nprt@pretoks=\toks55
-\nprt@posttoks=\toks56
-\nprt@thisdigit=\count232
-\nprt@curpos=\count233
-Normal \count register pool exhausted, switching to extended pool.
-\nprt@rndpos=\count277
-\c@nprt@digitsfirstblock=\count278
-\c@nprt@blockcnt=\count279
-\c@nprt@cntprint=\count280
+\nprt@digittoks=\toks55
+\nprt@pretoks=\toks56
+\nprt@posttoks=\toks57
+\nprt@thisdigit=\count281
+\nprt@curpos=\count282
+\nprt@rndpos=\count283
+\c@nprt@digitsfirstblock=\count284
+\c@nprt@blockcnt=\count285
+\c@nprt@cntprint=\count286
 
 No configuration file `numprint.cfg' found.)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp.sty
@@ -1152,19 +1231,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count281
+\actioncount=\count287
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count282
-\FP@xia=\count283
-\FP@xib=\count284
-\FP@xfa=\count285
-\FP@xfb=\count286
-\FP@rega=\count287
-\FP@regb=\count288
-\FP@regs=\count289
-\FP@times=\count290
+\FP@xs=\count288
+\FP@xia=\count289
+\FP@xib=\count290
+\FP@xfa=\count291
+\FP@xfb=\count292
+\FP@rega=\count293
+\FP@regb=\count294
+\FP@regs=\count295
+\FP@times=\count296
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -1183,7 +1262,7 @@ Package: fp-pas 1994/08/29
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count291
+\FPseed=\count297
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -1194,18 +1273,17 @@ Package: fp-upn 1996/10/21
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 ))
-\tkzRadius=\dimen231
-\tkzLength=\dimen232
-\tkz@radi=\dimen233
-Normal \dimen register pool exhausted, switching to extended pool.
-\tkz@ax=\dimen256
-\tkz@ay=\dimen257
-\tkz@bx=\dimen258
-\tkz@by=\dimen259
-\tkz@cx=\dimen260
-\tkz@cy=\dimen261
-\tkz@dx=\dimen262
-\tkz@dy=\dimen263
+\tkzRadius=\dimen257
+\tkzLength=\dimen258
+\tkz@radi=\dimen259
+\tkz@ax=\dimen260
+\tkz@ay=\dimen261
+\tkz@bx=\dimen262
+\tkz@by=\dimen263
+\tkz@cx=\dimen264
+\tkz@cy=\dimen265
+\tkz@dx=\dimen266
+\tkz@dy=\dimen267
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-tools-utilities.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-tools-arith.tex
@@ -1217,7 +1295,7 @@ File: tkz-tool-arith.tex tkz-tool-arith 1.161 c
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-points.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-segments.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-marks.tex
-\tkz@cntmk=\count292
+\tkz@cntmk=\count298
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-tools-intersectio
 ns.tex)
@@ -1237,8 +1315,8 @@ ions.tex)
 x)) (/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks57
-\verbatim@line=\toks58
+\every@verbatim=\toks58
+\verbatim@line=\toks59
 \verbatim@in@stream=\read3
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
@@ -1254,7 +1332,7 @@ version 2009-01-07-07:11
 version 2008-10-27-17:23
 
 --- needs --- tex4ht WhosWho ---
-\tmp:cnt=\count293
+\tmp:cnt=\count299
 \openout15 = `WhosWho.tmp'.
 
 (./WhosWho.tmp)
@@ -1322,7 +1400,7 @@ option `frames-fn'
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
 --------------------------------------
-TeX4ht package options: charset=utf-8,-css,html,xhtml
+TeX4ht package options: charset=utf-8,-css,html,htex4ht,xhtml
 --------------------------------------
 --- Note --- for pop ups on mouse over, use the command line option `mouseover'
 
@@ -1335,8 +1413,8 @@ on `imgdir:.../'
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2009-05-18-23:01
 )
-\:tokwrite=\toks59
-\:tokpage=\toks60
+\:tokwrite=\toks60
+\:tokpage=\toks61
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -1468,12 +1546,12 @@ version 2014-01-26-09:44
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
-\MT@toks=\toks61
-\MT@count=\count294
+\MT@toks=\toks62
+\MT@count=\count300
 LaTeX Info: Redefining \textls on input line 766.
-\MT@outer@kern=\dimen264
+\MT@outer@kern=\dimen268
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count295
+\MT@listname@count=\count301
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -1487,8 +1565,8 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-\c@identification=\count296
-\c@choiceId=\count297
+\c@identification=\count302
+\c@choiceId=\count303
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2015-01-26-15:58
@@ -1709,6 +1787,44 @@ version 2015-01-26-15:58
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2009-05-18-23:01
 ))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/hyperref.4ht
+version 2011-01-30-16:01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count304
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/nameref.4ht
+version 2013-06-28-15:01
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+LaTeX Info: Redefining \autoref on input line 100.
+\Hy@SectionHShift=\skip140
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/pd1enc.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/verbatim.4ht
 version 2009-05-21-09:32
 
@@ -1730,7 +1846,7 @@ runsystem(sed -i "s/##\\([0-9]\\)/#\\1/g" WhosWho.jax)...executed.
 
 
 (./WhosWho.oc)
-\eqtoks=\toks62
+\eqtoks=\toks63
  (./WhosWho.aux)
 \openout1 = `WhosWho.aux'.
 
@@ -1746,6 +1862,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
 LaTeX Font Info:    ... okay on input line 125.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
 LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
@@ -1753,8 +1871,12 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into
 your preamble.
  on input line 125.
 
-\c@lstlisting=\count298
+\c@lstlisting=\count305
 \AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring ON on input line 125.
+LaTeX Info: Redefining \ref on input line 125.
+LaTeX Info: Redefining \pageref on input line 125.
+LaTeX Info: Redefining \nameref on input line 125.
 LaTeX Info: Redefining \celsius on input line 125.
 Package gensymb Info: Faking symbols for \degree and \celsius on input line 125
 .
@@ -1812,8 +1934,8 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:166: Extra \fi.
-l.166 \fi
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:169: Extra \fi.
+l.169 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
@@ -1825,7 +1947,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-Overfull \hbox (9976.626pt too wide) in paragraph at lines 174--9
+Overfull \hbox (9976.626pt too wide) in paragraph at lines 177--9
 [][]\OT1/cmr/m/n/10 Who's Who[][][][][][][][][][][][][][][][][][][][][][][][][]
  
  []
@@ -1876,14 +1998,21 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 l. 29 Writing WhosWho.idv[1] (WhosWho0x.png)
  [3]
-[4] (./WhosWho.aux) ) 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+
+[4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+ (./WhosWho.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
+ ) 
 Here is how much of TeX's memory you used:
- 41649 strings out of 493090
- 908052 string characters out of 6134868
- 1229535 words of memory out of 5000000
- 44230 multiletter control sequences out of 15000+600000
+ 44643 strings out of 493090
+ 955483 string characters out of 6134868
+ 1298856 words of memory out of 5000000
+ 47175 multiletter control sequences out of 15000+600000
  5507 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,7n,79p,10901b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on WhosWho.dvi (4 pages, 38276 bytes).
+Output written on WhosWho.dvi (4 pages, 38472 bytes).

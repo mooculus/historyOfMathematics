@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  7 JAN 2018 12:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  8 JAN 2018 22:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1955,16 +1955,16 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:166: Extra \fi.
-l.166 \fi
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:169: Extra \fi.
+l.169 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
-/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:174: Undefined cont
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:177: Undefined cont
 rol sequence.
 \a:@HEAD ...ame="og:image" content="}\xourse@logo 
                                                   \HCode {" />\Hnewline }\HC...
-l.174 \EndPreamble
+l.177 \EndPreamble
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1980,7 +1980,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-Overfull \hbox (10042.77834pt too wide) in paragraph at lines 174--6
+Overfull \hbox (10042.77834pt too wide) in paragraph at lines 177--6
 [][]\OT1/cmr/m/n/10 Math 4504: Stu-dent Packet[][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][] 
  []
@@ -2024,10 +2024,10 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 44585 strings out of 493090
- 955094 string characters out of 6134868
+ 44589 strings out of 493090
+ 955156 string characters out of 6134868
  1301070 words of memory out of 5000000
- 47132 multiletter control sequences out of 15000+600000
+ 47136 multiletter control sequences out of 15000+600000
  3808 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,5n,81p,10896b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
