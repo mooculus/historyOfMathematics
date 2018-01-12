@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  19 DEC 2017 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  8 JAN 2018 22:38
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1003,48 +1003,93 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 \CommentStream=\write5
 
 Excluding comment 'comment')
-\c@titlenumber=\count188
-\c@sectiontitlenumber=\count189
-\c@theorem=\count190
-\c@algorithm=\count191
-\c@axiom=\count192
-\c@claim=\count193
-\c@conclusion=\count194
-\c@condition=\count195
-\c@conjecture=\count196
-\c@corollary=\count197
-\c@criterion=\count198
-\c@definition=\count199
-\c@example=\count200
-\c@fact=\count201
-\c@formula=\count202
-\c@idea=\count203
-\c@lemma=\count204
-\c@model=\count205
-\c@notation=\count206
-\c@observation=\count207
-\c@paradox=\count208
-\c@procedure=\count209
-\c@proposition=\count210
-\c@remark=\count211
-\c@summary=\count212
-\c@template=\count213
-\c@warning=\count214
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
-Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
 )
-\c@Iteration1=\count215
-\c@RndQuant=\count216
-\c@Temp@Hold=\count217
-\c@Temp@RandMe=\count218
-\c@shuffle@maxCount=\count219
-\c@shuffle@count=\count220
-\c@shuffle@trackProblem=\count221
-\c@shuffle@desiredProblems=\count222
-\c@problem=\count223
-\c@problemType=\count224
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\@linkdim=\dimen222
+\Hy@linkcounter=\count188
+\Hy@pagecounter=\count189
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count190
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count191
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen223
+\Fld@menulength=\count192
+\Field@Width=\dimen224
+\Fld@charsize=\dimen225
+\Field@toks=\toks52
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count193
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver: htex4ht.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/htex4ht.def
+File: htex4ht.def 2012/11/06 v6.83m Hyperref driver for TeX4ht
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.sty
 version 2008-10-27-17:23
 Package: tex4ht 
@@ -1054,16 +1099,58 @@ Package: tex4ht
 --------------------------------------
 --- Note --- for ^ at preamble, use the command line option `early^'
 --------------------------------------
-\tmp:toks=\toks52
-)
-(/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg
+\tmp:toks=\toks53
+))
+\c@titlenumber=\count194
+\c@sectiontitlenumber=\count195
+\c@theorem=\count196
+\c@algorithm=\count197
+\c@axiom=\count198
+\c@claim=\count199
+\c@conclusion=\count200
+\c@condition=\count201
+\c@conjecture=\count202
+\c@corollary=\count203
+\c@criterion=\count204
+\c@definition=\count205
+\c@example=\count206
+\c@fact=\count207
+\c@formula=\count208
+\c@idea=\count209
+\c@lemma=\count210
+\c@model=\count211
+\c@notation=\count212
+\c@observation=\count213
+\c@paradox=\count214
+\c@procedure=\count215
+\c@proposition=\count216
+\c@remark=\count217
+\c@summary=\count218
+\c@template=\count219
+\c@warning=\count220
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2009-05-21-09:32
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
+Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+)
+\c@Iteration1=\count221
+\c@RndQuant=\count222
+\c@Temp@Hold=\count223
+\c@Temp@RandMe=\count224
+\c@shuffle@maxCount=\count225
+\c@shuffle@count=\count226
+\c@shuffle@trackProblem=\count227
+\c@shuffle@desiredProblems=\count228
+\c@problem=\count229
+\c@problemType=\count230
+)
+(/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks53
-\verbatim@line=\toks54
+\every@verbatim=\toks54
+\verbatim@line=\toks55
 \verbatim@in@stream=\read3
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
@@ -1079,7 +1166,7 @@ version 2009-01-07-07:11
 version 2008-10-27-17:23
 
 --- needs --- tex4ht ProofsPythagoreanTheorem ---
-\tmp:cnt=\count225
+\tmp:cnt=\count231
 \openout15 = `ProofsPythagoreanTheorem.tmp'.
 
 (./ProofsPythagoreanTheorem.tmp)
@@ -1147,7 +1234,7 @@ option `frames-fn'
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
 --------------------------------------
-TeX4ht package options: charset=utf-8,-css,html,xhtml
+TeX4ht package options: charset=utf-8,-css,html,htex4ht,xhtml
 --------------------------------------
 --- Note --- for pop ups on mouse over, use the command line option `mouseover'
 
@@ -1160,8 +1247,8 @@ on `imgdir:.../'
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2009-05-18-23:01
 )
-\:tokwrite=\toks55
-\:tokpage=\toks56
+\:tokwrite=\toks56
+\:tokpage=\toks57
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -1293,12 +1380,12 @@ version 2014-01-26-09:44
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
-\MT@toks=\toks57
-\MT@count=\count226
+\MT@toks=\toks58
+\MT@count=\count232
 LaTeX Info: Redefining \textls on input line 766.
-\MT@outer@kern=\dimen222
+\MT@outer@kern=\dimen226
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count227
+\MT@listname@count=\count233
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -1312,8 +1399,9 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-\c@identification=\count228
-\c@choiceId=\count229
+Normal \count register pool exhausted, switching to extended pool.
+\c@identification=\count277
+\c@choiceId=\count278
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2015-01-26-15:58
@@ -1534,6 +1622,44 @@ version 2015-01-26-15:58
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2009-05-18-23:01
 ))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/hyperref.4ht
+version 2011-01-30-16:01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count279
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/nameref.4ht
+version 2013-06-28-15:01
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+LaTeX Info: Redefining \autoref on input line 100.
+\Hy@SectionHShift=\skip136
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/pd1enc.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/verbatim.4ht
 version 2009-05-21-09:32
 
@@ -1556,7 +1682,7 @@ ted.
 
 
 (./ProofsPythagoreanTheorem.oc)
-\eqtoks=\toks58
+\eqtoks=\toks59
  (./ProofsPythagoreanTheorem.aux)
 \openout1 = `ProofsPythagoreanTheorem.aux'.
 
@@ -1572,6 +1698,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
 LaTeX Font Info:    ... okay on input line 125.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
 LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
@@ -1579,8 +1707,12 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into
 your preamble.
  on input line 125.
 
-\c@lstlisting=\count230
+\c@lstlisting=\count280
 \AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring ON on input line 125.
+LaTeX Info: Redefining \ref on input line 125.
+LaTeX Info: Redefining \pageref on input line 125.
+LaTeX Info: Redefining \nameref on input line 125.
 LaTeX Info: Redefining \microtypecontext on input line 125.
 Package microtype Info: Generating DVI output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1593,8 +1725,8 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:166: Extra \fi.
-l.166 \fi
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:169: Extra \fi.
+l.169 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
@@ -1651,14 +1783,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [2]
-[3] (./ProofsPythagoreanTheorem.aux) ) 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
+
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
+ (./ProofsPythagoreanTheorem.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 51.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
+ ) 
 Here is how much of TeX's memory you used:
- 37462 strings out of 493090
- 824477 string characters out of 6134868
- 1097467 words of memory out of 5000000
- 40206 multiletter control sequences out of 15000+600000
+ 40499 strings out of 493090
+ 872638 string characters out of 6134868
+ 1167310 words of memory out of 5000000
+ 43187 multiletter control sequences out of 15000+600000
  5507 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,5n,79p,10899b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ProofsPythagoreanTheorem.dvi (3 pages, 10828 bytes).
+Output written on ProofsPythagoreanTheorem.dvi (3 pages, 11188 bytes).
