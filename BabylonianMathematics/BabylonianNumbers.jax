@@ -131,6 +131,7 @@
 \newcommand {\degree }[0]{\ensuremath {^\circ }}
 \newcommand {\celsius  }[0]{\ifmmode ^\circ \mathrm {C}\else $^\circ $C\fi }
 \newcommand {\ohm  }[0]{\ifmmode \Omega \else $\Omega $\fi }
+\newcommand {\arraystretch }[0]{2.3}
 \newcommand {\reserved@a }[2]{}
 \newcommand {\reserved@a }[2]{}
 \newcommand {\reserved@a }[0]{\AtBeginDocument }
