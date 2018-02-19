@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=latex 2017.11.21)  12 JAN 2018 18:37
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  15 JAN 2018 22:43
+>>>>>>> Stashed changes
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1587,8 +1591,23 @@ You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
+<<<<<<< Updated upstream
 (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2017-10-26-14:53
+=======
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:223: Illegal parame
+ter number in definition of \desmos.
+<to be read again> 
+                   c
+l.223 ...not support embedded elements.</iframe>}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+>>>>>>> Stashed changes
 )
 (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
@@ -2038,11 +2057,19 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< Updated upstream
  47996 strings out of 492986
  1030956 string characters out of 6138663
  1396063 words of memory out of 5000000
  50592 multiletter control sequences out of 15000+600000
  530440 words of font info for 23 fonts, out of 8000000 for 9000
+=======
+ 44589 strings out of 493090
+ 955156 string characters out of 6134868
+ 1300991 words of memory out of 5000000
+ 47136 multiletter control sequences out of 15000+600000
+ 3808 words of font info for 15 fonts, out of 8000000 for 9000
+>>>>>>> Stashed changes
  1141 hyphenation exceptions out of 8191
  87i,6n,100p,10896b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
