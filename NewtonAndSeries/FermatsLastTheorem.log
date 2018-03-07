@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  8 JAN 2018 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  28 FEB 2018 17:01
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -12,7 +12,7 @@ documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
 .b.c.\input  FermatsLastTheorem.tex
 (./FermatsLastTheorem.tex
 (/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cls
-Document Class: ximera 2016/08/17 Version 1.31 by Bart Snapp
+Document Class: ximera 2016/08/17 Version 1.33 by Bart Snapp
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
@@ -1128,6 +1128,7 @@ Package: tex4ht
 \c@summary=\count218
 \c@template=\count219
 \c@warning=\count220
+\c@Iteration@probCnt=\count221
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2009-05-21-09:32
@@ -1135,16 +1136,9 @@ version 2009-05-21-09:32
 (/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
 Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
 )
-\c@Iteration1=\count221
-\c@RndQuant=\count222
-\c@Temp@Hold=\count223
-\c@Temp@RandMe=\count224
-\c@shuffle@maxCount=\count225
-\c@shuffle@count=\count226
-\c@shuffle@trackProblem=\count227
-\c@shuffle@desiredProblems=\count228
-\c@problem=\count229
-\c@problemType=\count230
+\c@problem@Depth=\count222
+\c@hintLevel=\count223
+\c@problem=\count224
 )
 (/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
@@ -1166,7 +1160,7 @@ version 2009-01-07-07:11
 version 2008-10-27-17:23
 
 --- needs --- tex4ht FermatsLastTheorem ---
-\tmp:cnt=\count231
+\tmp:cnt=\count225
 \openout15 = `FermatsLastTheorem.tmp'.
 
 (./FermatsLastTheorem.tmp)
@@ -1381,11 +1375,11 @@ version 2014-01-26-09:44
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks58
-\MT@count=\count232
+\MT@count=\count226
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen226
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count233
+\MT@listname@count=\count227
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -1399,9 +1393,44 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-Normal \count register pool exhausted, switching to extended pool.
-\c@identification=\count277
-\c@choiceId=\count278
+\c@identification=\count228
+
+
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:51: LaTeX Error: En
+vironment xarmaBoost undefined in `ximera.cfg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...figureQuestionEnv{xarmaBoost}{xarma-boost}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:57: LaTeX Error: En
+vironment shuffle undefined in `ximera.cfg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \ConfigureQuestionEnv{shuffle}{shuffle}
+                                            
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\c@choiceId=\count229
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:223: Illegal parame
+ter number in definition of \desmos.
+<to be read again> 
+                   c
+l.223 ...not support embedded elements.</iframe>}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2015-01-26-15:58
@@ -1631,7 +1660,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count279
+\c@section@level=\count230
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/nameref.4ht
 version 2013-06-28-15:01
@@ -1706,7 +1735,7 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into
 your preamble.
  on input line 125.
 
-\c@lstlisting=\count280
+\c@lstlisting=\count231
 \AtBeginShipoutBox=\box66
 Package hyperref Info: Link coloring ON on input line 125.
 LaTeX Info: Redefining \ref on input line 125.
@@ -1773,8 +1802,6 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
-Missing character: There is no Ð in font cmr10!
-Missing character: There is no Ð in font cmr10!
 LaTeX Font Info:    Try loading font information for U+msa on input line 32.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1800,12 +1827,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 56.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 56.
  ) 
 Here is how much of TeX's memory you used:
- 40529 strings out of 493090
- 872983 string characters out of 6134868
- 1168232 words of memory out of 5000000
- 43214 multiletter control sequences out of 15000+600000
+ 40495 strings out of 493090
+ 872453 string characters out of 6134868
+ 1167801 words of memory out of 5000000
+ 43180 multiletter control sequences out of 15000+600000
  5507 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,5n,79p,10893b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on FermatsLastTheorem.dvi (4 pages, 13120 bytes).
+Output written on FermatsLastTheorem.dvi (4 pages, 13124 bytes).
