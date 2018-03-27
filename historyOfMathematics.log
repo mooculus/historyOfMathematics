@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  14 MAR 2018 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  20 MAR 2018 22:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1620,6 +1620,19 @@ You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
+
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:266: LaTeX Error: E
+nvironment sagesilent undefined in `ximera.cfg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 \renewenvironment{sagesilent}
+                                   {\NoFonts}{\EndNoFonts}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2015-01-26-15:58
 )
@@ -1902,41 +1915,38 @@ runsystem(sed -i "s/##\\([0-9]\\)/#\\1/g" historyOfMathematics.jax)...executed.
  (./historyOfMathematics.aux)
 \openout1 = `historyOfMathematics.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
 
-
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into 
-your preamble.
- on input line 125.
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.12}).
 
 \c@lstlisting=\count300
 \AtBeginShipoutBox=\box66
-Package hyperref Info: Link coloring ON on input line 125.
-LaTeX Info: Redefining \ref on input line 125.
-LaTeX Info: Redefining \pageref on input line 125.
-LaTeX Info: Redefining \nameref on input line 125.
-LaTeX Info: Redefining \celsius on input line 125.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 125
+Package hyperref Info: Link coloring ON on input line 121.
+LaTeX Info: Redefining \ref on input line 121.
+LaTeX Info: Redefining \pageref on input line 121.
+LaTeX Info: Redefining \nameref on input line 121.
+LaTeX Info: Redefining \celsius on input line 121.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 121
 .
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 125.
-Package gensymb Info: Using \Omega for \ohm on input line 125.
+LaTeX Info: Redefining \ohm on input line 121.
+Package gensymb Info: Using \Omega for \ohm on input line 121.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1974,7 +1984,7 @@ Package gensymb Warning: Not defining \micro.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 125.
+LaTeX Info: Redefining \microtypecontext on input line 121.
 Package microtype Info: Generating DVI output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1986,16 +1996,16 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:169: Extra \fi.
-l.169 \fi
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:165: Extra \fi.
+l.165 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
-/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:177: Undefined cont
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:193: Undefined cont
 rol sequence.
 \a:@HEAD ...ame="og:image" content="}\xourse@logo 
                                                   \HCode {" />\Hnewline }\HC...
-l.177 \EndPreamble
+l.193 \EndPreamble
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2011,7 +2021,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-Overfull \hbox (10042.77834pt too wide) in paragraph at lines 177--6
+Overfull \hbox (10042.77834pt too wide) in paragraph at lines 193--6
 [][]\OT1/cmr/m/n/10 Math 4504: Stu-dent Packet[][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][] 
  []
@@ -2055,12 +2065,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 44557 strings out of 493090
- 954678 string characters out of 6134868
- 1300632 words of memory out of 5000000
- 47104 multiletter control sequences out of 15000+600000
+ 44568 strings out of 493090
+ 954790 string characters out of 6134868
+ 1304316 words of memory out of 5000000
+ 47117 multiletter control sequences out of 15000+600000
  3808 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,5n,81p,10896b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,5n,88p,10896b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on historyOfMathematics.dvi (4 pages, 33460 bytes).
