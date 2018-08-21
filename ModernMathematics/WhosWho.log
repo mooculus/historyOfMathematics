@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  8 JAN 2018 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  20 MAR 2018 22:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -11,7 +11,7 @@ documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
 \HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode ximera,charset=utf-8,-css.a
 .b.c.\input  WhosWho.tex
 (./WhosWho.tex (/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cls
-Document Class: ximera 2016/08/17 Version 1.31 by Bart Snapp
+Document Class: ximera 2016/08/17 Version 1.33 by Bart Snapp
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
@@ -1129,30 +1129,25 @@ Package: tex4ht
 \c@warning=\count220
 
 Excluding comment 'matrixAnswer'
+\c@Iteration@probCnt=\count221
+
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2009-05-21-09:32
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
 Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
 )
-\c@Iteration1=\count221
-\c@RndQuant=\count222
-\c@Temp@Hold=\count223
-\c@Temp@RandMe=\count224
-\c@shuffle@maxCount=\count225
-\c@shuffle@count=\count226
-\c@shuffle@trackProblem=\count227
-\c@shuffle@desiredProblems=\count228
-\c@problem=\count229
-\c@problemType=\count230
+\c@problem@Depth=\count222
+\c@hintLevel=\count223
+\c@problem=\count224
 )
 (../preamble.tex (/usr/local/texlive/2015/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count231
-\Gm@cntv=\count232
-\c@Gm@tempcnt=\count233
+\Gm@cnth=\count225
+\Gm@cntv=\count226
+\c@Gm@tempcnt=\count227
 \Gm@bindingoffset=\dimen226
 \Gm@wd@mp=\dimen227
 \Gm@odd@mp=\dimen228
@@ -1205,11 +1200,10 @@ File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.0 (rcs-revision 1.13)
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/numprint/numprint.sty
 Package: numprint 2012/08/20 v1.39 Print numbers (HH)
-Normal \count register pool exhausted, switching to extended pool.
-\c@nprt@mantissa@digitsbefore=\count277
-\c@nprt@mantissa@digitsafter=\count278
-\c@nprt@exponent@digitsbefore=\count279
-\c@nprt@exponent@digitsafter=\count280
+\c@nprt@mantissa@digitsbefore=\count228
+\c@nprt@mantissa@digitsafter=\count229
+\c@nprt@exponent@digitsbefore=\count230
+\c@nprt@exponent@digitsafter=\count231
 \nprt@digitwidth=\skip134
 \nprt@sepwidth=\skip135
 \nprt@decimalwidth=\skip136
@@ -1217,12 +1211,13 @@ Normal \count register pool exhausted, switching to extended pool.
 \nprt@digittoks=\toks55
 \nprt@pretoks=\toks56
 \nprt@posttoks=\toks57
-\nprt@thisdigit=\count281
-\nprt@curpos=\count282
-\nprt@rndpos=\count283
-\c@nprt@digitsfirstblock=\count284
-\c@nprt@blockcnt=\count285
-\c@nprt@cntprint=\count286
+\nprt@thisdigit=\count232
+\nprt@curpos=\count233
+Normal \count register pool exhausted, switching to extended pool.
+\nprt@rndpos=\count277
+\c@nprt@digitsfirstblock=\count278
+\c@nprt@blockcnt=\count279
+\c@nprt@cntprint=\count280
 
 No configuration file `numprint.cfg' found.)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp.sty
@@ -1231,19 +1226,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count287
+\actioncount=\count281
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count288
-\FP@xia=\count289
-\FP@xib=\count290
-\FP@xfa=\count291
-\FP@xfb=\count292
-\FP@rega=\count293
-\FP@regb=\count294
-\FP@regs=\count295
-\FP@times=\count296
+\FP@xs=\count282
+\FP@xia=\count283
+\FP@xib=\count284
+\FP@xfa=\count285
+\FP@xfb=\count286
+\FP@rega=\count287
+\FP@regb=\count288
+\FP@regs=\count289
+\FP@times=\count290
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
@@ -1262,7 +1257,7 @@ Package: fp-pas 1994/08/29
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count297
+\FPseed=\count291
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
@@ -1295,7 +1290,7 @@ File: tkz-tool-arith.tex tkz-tool-arith 1.161 c
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-points.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-segments.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-base/tkz-obj-marks.tex
-\tkz@cntmk=\count298
+\tkz@cntmk=\count292
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tkz-euclide/tkz-tools-intersectio
 ns.tex)
@@ -1332,7 +1327,7 @@ version 2009-01-07-07:11
 version 2008-10-27-17:23
 
 --- needs --- tex4ht WhosWho ---
-\tmp:cnt=\count299
+\tmp:cnt=\count293
 \openout15 = `WhosWho.tmp'.
 
 (./WhosWho.tmp)
@@ -1547,11 +1542,11 @@ version 2014-01-26-09:44
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 \MT@toks=\toks62
-\MT@count=\count300
+\MT@count=\count294
 LaTeX Info: Redefining \textls on input line 766.
 \MT@outer@kern=\dimen268
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
-\MT@listname@count=\count301
+\MT@listname@count=\count295
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
@@ -1565,8 +1560,57 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
-\c@identification=\count302
-\c@choiceId=\count303
+\c@identification=\count296
+
+
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:51: LaTeX Error: En
+vironment xarmaBoost undefined in `ximera.cfg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...figureQuestionEnv{xarmaBoost}{xarma-boost}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:57: LaTeX Error: En
+vironment shuffle undefined in `ximera.cfg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \ConfigureQuestionEnv{shuffle}{shuffle}
+                                            
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\c@choiceId=\count297
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:223: Illegal parame
+ter number in definition of \desmos.
+<to be read again> 
+                   c
+l.223 ...not support embedded elements.</iframe>}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:266: LaTeX Error: E
+nvironment sagesilent undefined in `ximera.cfg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 \renewenvironment{sagesilent}
+                                   {\NoFonts}{\EndNoFonts}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2015-01-26-15:58
@@ -1796,7 +1840,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count304
+\c@section@level=\count298
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/nameref.4ht
 version 2013-06-28-15:01
@@ -1850,41 +1894,38 @@ runsystem(sed -i "s/##\\([0-9]\\)/#\\1/g" WhosWho.jax)...executed.
  (./WhosWho.aux)
 \openout1 = `WhosWho.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
 
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.12}).
 
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into 
-your preamble.
- on input line 125.
-
-\c@lstlisting=\count305
+\c@lstlisting=\count299
 \AtBeginShipoutBox=\box66
-Package hyperref Info: Link coloring ON on input line 125.
-LaTeX Info: Redefining \ref on input line 125.
-LaTeX Info: Redefining \pageref on input line 125.
-LaTeX Info: Redefining \nameref on input line 125.
-LaTeX Info: Redefining \celsius on input line 125.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 125
+Package hyperref Info: Link coloring ON on input line 121.
+LaTeX Info: Redefining \ref on input line 121.
+LaTeX Info: Redefining \pageref on input line 121.
+LaTeX Info: Redefining \nameref on input line 121.
+LaTeX Info: Redefining \celsius on input line 121.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 121
 .
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 125.
-Package gensymb Info: Using \Omega for \ohm on input line 125.
+LaTeX Info: Redefining \ohm on input line 121.
+Package gensymb Info: Using \Omega for \ohm on input line 121.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1922,7 +1963,7 @@ Package gensymb Warning: Not defining \micro.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 125.
+LaTeX Info: Redefining \microtypecontext on input line 121.
 Package microtype Info: Generating DVI output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1934,8 +1975,8 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:169: Extra \fi.
-l.169 \fi
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:165: Extra \fi.
+l.165 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
@@ -1947,7 +1988,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 )
-Overfull \hbox (9976.626pt too wide) in paragraph at lines 177--9
+Overfull \hbox (9976.626pt too wide) in paragraph at lines 193--9
 [][]\OT1/cmr/m/n/10 Who's Who[][][][][][][][][][][][][][][][][][][][][][][][][]
  
  []
@@ -1981,38 +2022,683 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+Runaway argument?
+\begin {array}{|c|c|c|} \hline \text {Mathematician} & \text {Years \hspace \ET
+C.
+./WhosWho.tex:23: Paragraph ended before \AltlDisplay was complete.
+<to be read again> 
+                   \par 
+l.23 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
+./WhosWho.tex:24: Misplaced alignment tab character &.
+l.24 \text{Niels Abel} &
+                         &   \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:24: Misplaced alignment tab character &.
+l.24 \text{Niels Abel} & &
+                             \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:24: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.24 \text{Niels Abel} & &   \\ [0.3in]\hline
+                                             
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:24: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.24 \text{Niels Abel} & &   \\ [0.3in]\hline
+                                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:25: Misplaced alignment tab character &.
+l.25 \text{Maria Agnesi} &
+                            &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:25: Misplaced alignment tab character &.
+l.25 \text{Maria Agnesi} &  &
+                               \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:25: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.25 \text{Maria Agnesi} &  &  \\ [0.3in]\hline
+                                               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:25: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.25 \text{Maria Agnesi} &  &  \\ [0.3in]\hline
+                                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:26: Misplaced alignment tab character &.
+l.26 \text{Augustin-Louis Cauchy} &
+                                     &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:26: Misplaced alignment tab character &.
+l.26 \text{Augustin-Louis Cauchy} &  &
+                                        \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:26: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.26 ...ustin-Louis Cauchy} &  &  \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:26: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.26 ...ustin-Louis Cauchy} &  &  \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:27: Misplaced alignment tab character &.
+l.27 \text{Abraham DeMoivre} &
+                               &   \\ [0.3in] \hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:27: Misplaced alignment tab character &.
+l.27 \text{Abraham DeMoivre} & &
+                                   \\ [0.3in] \hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:27: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.27 ...{Abraham DeMoivre} & &   \\ [0.3in] \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:27: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.27 ...{Abraham DeMoivre} & &   \\ [0.3in] \hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:28: Misplaced alignment tab character &.
+l.28 \text{Gotthold Eisenstein} &
+                                   &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:28: Misplaced alignment tab character &.
+l.28 \text{Gotthold Eisenstein} &  &
+                                      \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:28: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.28 ...otthold Eisenstein} &  &  \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:28: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.28 ...otthold Eisenstein} &  &  \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
 l. 29 Writing WhosWho.idv[1] (WhosWho0x.png)
- [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+./WhosWho.tex:29: Misplaced alignment tab character &.
+l.29 \text{Paul Erd\H{o}s} &
+                              &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:29: Misplaced alignment tab character &.
+l.29 \text{Paul Erd\H{o}s} &  &
+                                 \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:29: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.29 \text{Paul Erd\H{o}s} &  &  \\ [0.3in]\hline
+                                                 
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:29: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.29 \text{Paul Erd\H{o}s} &  &  \\ [0.3in]\hline
+                                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:30: Misplaced alignment tab character &.
+l.30 \text{Joseph Fourier}  &
+                              &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:30: Misplaced alignment tab character &.
+l.30 \text{Joseph Fourier}  & &
+                                 \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:30: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.30 \text{Joseph Fourier}  & &  \\ [0.3in]\hline
+                                                 
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:30: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.30 \text{Joseph Fourier}  & &  \\ [0.3in]\hline
+                                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:31: Misplaced alignment tab character &.
+l.31 \text{\'{E}variste Galois}  &
+                                   &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:31: Misplaced alignment tab character &.
+l.31 \text{\'{E}variste Galois}  & &
+                                      \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:31: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.31 ...'{E}variste Galois}  & &  \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:31: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.31 ...'{E}variste Galois}  & &  \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:32: Misplaced alignment tab character &.
+l.32 \text{Joseph-Louis Lagrange}  &
+                                     &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:32: Misplaced alignment tab character &.
+l.32 \text{Joseph-Louis Lagrange}  & &
+                                        \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:32: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.32 ...eph-Louis Lagrange}  & &  \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:32: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.32 ...eph-Louis Lagrange}  & &  \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:33: Misplaced alignment tab character &.
+l.33 \text{Adrien-Marie Legendre}  &
+                                     &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:33: Misplaced alignment tab character &.
+l.33 \text{Adrien-Marie Legendre}  & &
+                                        \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:33: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.33 ...ien-Marie Legendre}  & &  \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:33: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.33 ...ien-Marie Legendre}  & &  \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:34: Misplaced alignment tab character &.
+l.34 \text{Grigori Perelman}  &
+                                &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:34: Misplaced alignment tab character &.
+l.34 \text{Grigori Perelman}  & &
+                                   \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:34: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.34 ...t{Grigori Perelman}  & &  \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:34: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.34 ...t{Grigori Perelman}  & &  \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:35: Misplaced alignment tab character &.
+l.35 \text{Henri Poincar\'{e}} &
+                                  &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:35: Misplaced alignment tab character &.
+l.35 \text{Henri Poincar\'{e}} &  &
+                                     \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:35: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.35 ...Henri Poincar\'{e}} &  &  \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:35: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.35 ...Henri Poincar\'{e}} &  &  \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:36: Misplaced alignment tab character &.
+l.36 \text{Srinivasa Ramanujan} &
+                                   &  \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:36: Misplaced alignment tab character &.
+l.36 \text{Srinivasa Ramanujan} &  &
+                                      \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:36: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.36 ...rinivasa Ramanujan} &  &  \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:36: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.36 ...rinivasa Ramanujan} &  &  \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:37: Misplaced alignment tab character &.
+l.37 \text{Karl Weierstrauss} &
+                                 & \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:37: Misplaced alignment tab character &.
+l.37 \text{Karl Weierstrauss} &  &
+                                   \\ [0.3in]\hline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:37: Misplaced \noalign.
+\a:hline ->\ifx \ar:cnt \:UnDef \else \o:noalign: 
+                                                  {\append:def \hline:s {\a:...
+l.37 ...t{Karl Weierstrauss} &  & \\ [0.3in]\hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./WhosWho.tex:37: Missing number, treated as zero.
+<to be read again> 
+                   \ar:cnt 
+l.37 ...t{Karl Weierstrauss} &  & \\ [0.3in]\hline
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+[3]
+./WhosWho.tex:41: Undefined control sequence.
+\n:endarray: ->\relax \ifnum \HCol 
+                                   =1 \a:endarray \fi \enda:rray 
+l.41 \end{array}
+                \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./WhosWho.tex:41: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{array}
+                \]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./WhosWho.tex:41: Misplaced \crcr.
+\enda:rray ->\crcr 
+                   \ifx \EndPicture \:UnDef \EndMkHalign \else \egroup \fi \...
+l.41 \end{array}
+                \]
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./WhosWho.tex:41: Undefined control sequence.
+\EndMkHalign ->\egroup \d:PauseMkHalign \end:m 
+                                               \endgroup \iffalse {\fi \expa...
+l.41 \end{array}
+                \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./WhosWho.tex:41: Extra \endgroup.
+\EndMkHalign ...\d:PauseMkHalign \end:m \endgroup 
+                                                  \iffalse {\fi \expand:afte...
+l.41 \end{array}
+                \]
+Things are pretty mixed up, but I think the worst is over.
+
+./WhosWho.tex:41: Missing number, treated as zero.
+<to be read again> 
+                   \c:\:MkHalign: 
+l.41 \end{array}
+                \]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+l.41 --- TeX4ht warning --- ignored \PopCs\:MkHalign: on empty stack ---
+./WhosWho.tex:41: Undefined control sequence.
+<argument> )M\halign:id 
+                        x\mu:span 
+l.41 \end{array}
+                \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./WhosWho.tex:41: Undefined control sequence.
+<argument> \new:span 
+                     ;
+l.41 \end{array}
+                \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./WhosWho.tex:41: Undefined control sequence.
+\EndMkHalign ...end:omit \sv:end:omit \relax:shrp 
+                                                  \iffalse }\fi 
+l.41 \end{array}
+                \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./WhosWho.tex:41: Too many }'s.
+\enda:rray ...dMkHalign \else \egroup \fi \egroup 
+                                                  \@arrayright \gdef \@pream...
+l.41 \end{array}
+                \]
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+./WhosWho.tex:41: LaTeX Error: \begin{document} ended by \end{array}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{array}
+                \]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./WhosWho.tex:41: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.41 \end{array}
+                \]
+Things are pretty mixed up, but I think the worst is over.
+
+l.41 --- TeX4ht warning --- \SaveEverypar's: 0 at \begin{array} and 1 \end{arra
+y} ---
+./WhosWho.tex:41: Too many }'s.
+\]->\ed:Math \egroup 
+                     
+l.41 \end{array}\]
+                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
 [4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+ [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
  (./WhosWho.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 44643 strings out of 493090
- 955483 string characters out of 6134868
- 1298856 words of memory out of 5000000
- 47175 multiletter control sequences out of 15000+600000
- 5507 words of font info for 23 fonts, out of 8000000 for 9000
+ 44532 strings out of 493090
+ 953606 string characters out of 6134868
+ 1302102 words of memory out of 5000000
+ 47089 multiletter control sequences out of 15000+600000
+ 3808 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,7n,79p,10901b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,5n,86p,10901b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on WhosWho.dvi (4 pages, 38472 bytes).
+Output written on WhosWho.dvi (5 pages, 27488 bytes).

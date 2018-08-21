@@ -16,28 +16,28 @@ Given any \textit{finite} set $S$, can you prove that the power set of
 $S$ has a larger cardinality?
 \end{question}
 
-Consider $S=\N$. We wish to show that $|\N|<|\P(\N)|$. Proceed as
+Consider $S=\mathbb{N}$. We wish to show that $|\mathbb{N}|<|\mathcal{P}(\mathbb{N})|$. Proceed as
 follows: Seeking a contradiction, suppose that they are equinumerous
-and imagine a bijection between every element of $\N$ and
-$\P(\N)$. Call a natural number \textbf{selfish} if by your bijection
+and imagine a bijection between every element of $\mathbb{N}$ and
+$\mathcal{P}(\mathbb{N})$. Call a natural number \textbf{selfish} if by your bijection
 it is pared with a set containing itself. Call a natural number
 \textbf{nonselfish} if it is paired with a set not containing itself.
 
 \begin{question}
-Give part of an example map between $\N$ and $\P(\N)$ and clearly
+Give part of an example map between $\mathbb{N}$ and $\mathcal{P}(\mathbb{N})$ and clearly
 identify selfish numbers and nonselfish numbers based on your map.
 \end{question}
 
 \begin{question}
 Let $B$ be the set of all nonselfish numbers. Explain why
-$B\in\P(\N)$. Arrive at a contradiction. Hint: Which
+$B\in\mathcal{P}(\mathbb{N})$. Arrive at a contradiction. Hint: Which
 integers map to $B$?
 \end{question}
 
 
 \begin{question}
-So far we have only shown $|\N|\ne|\P(\N)|$. How do you conclude that
-$|\N|<|\P(\N)|$?
+So far we have only shown $|\mathbb{N}|\ne |\mathcal{P}(\mathbb{N})|$. How do you conclude that
+$|\mathbb{N}|<|\mathcal{P}(\mathbb{N})|$?
 \end{question}
 
 \begin{question}
@@ -47,12 +47,12 @@ larger cardinality? Hint: repeat the argument above.
 
 
 
-We know that $\N$ is countable and that $\P(\N)$ is uncountable. Define:
+We know that $\mathbb{N}$ is countable and that $\mathcal{P}(\mathbb{N})$ is uncountable. Define:
 \begin{align*}
-\beth_0 &:=|\N|\\
-\beth_1 &:=|\P(\N)|\\
-\beth_2 &:=|\P(\P(\N))|\\
-\beth_3 &:=|\P(\P(\P(\N)))|\\
+\beth_0 &:=|\mathbb{N}|\\
+\beth_1 &:=|\mathcal{P}(\mathbb{N})|\\
+\beth_2 &:=|\mathcal{P}(\mathcal{P}(\mathbb{N}))|\\
+\beth_3 &:=|\mathcal{P}(\mathcal{P}(\mathcal{P}(\mathbb{N})))|\\
         &\vdots
 \end{align*}
 and so on. These are \textit{beth} numbers. From our work above we see that 
@@ -63,25 +63,25 @@ and so on. These are \textit{beth} numbers. From our work above we see that
 \begin{question}
 Let 
 \[
-\ph: \P(\N) \to [0,1]
+\varphi: \mathcal{P}(\mathbb{N}) \to [0,1]
 \]
 via the map 
 \[
 A \mapsto \sum_{x\in A} \frac{1}{2^x}
 \]
-where $A\subset \N$. Explain how every element in the image of $\ph$
+where $A\subset \mathbb{N}$. Explain how every element in the image of $\varphi$
 can be associated to exactly one number $0.a_1a_2a_3\dots$ where $a_i=
 0$ or $a_i=1$.
 \end{question}
 
 \begin{question}
-Argue that $\beth_1 = \P(\N)= |[0,1]| = |\R|$.
+Argue that $\beth_1 = \mathcal{P}(\mathbb{N})= |[0,1]| = |\mathbb{R}|$.
 \end{question}
 
 
 On the other hand there are also \textit{aleph} numbers. Here
 \[
-\aleph_0 := |\N|
+\aleph_0 := |\mathbb{N}|
 \]
 but $\aleph_1$ is defined to be the \textit{smallest} infinite cardinal
 number larger than $\aleph_0$. In general, $\aleph_n$ is the smallest
@@ -108,7 +108,7 @@ Prove the continuum hypothesis.
 
 What is this so-called continuum hypothesis? It states
 \[
-\aleph_1 = \beth_1 = |\R|.
+\aleph_1 = \beth_1 = |\mathbb{R}|.
 \]
 
 \subsection*{Hilbert's second problem}

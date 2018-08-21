@@ -37,3 +37,7 @@
 *.sagetex.sout
 *.sagetex.scmd
 #*
+*.synctex.gz(busy)
+auto/
+*.fdb_latexmk
+*.fls

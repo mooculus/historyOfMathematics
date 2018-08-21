@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.6.18)  21 AUG 2018 10:24
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  28 FEB 2018 17:01
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **FermatsLastTheorem.tex
 (./FermatsLastTheorem.tex
+<<<<<<< HEAD
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/home/snapp/texmf/tex/latex/ximeraLatex/ximera.cls
@@ -17,6 +22,11 @@ nteractive materials
 .::'   '::. :: :::   ':::'   ::: '::::::::: ::    '::.::'     ':: 
 
 (/usr/share/texmf-dist/tex/latex/base/article.cls
+=======
+(/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cls
+Document Class: ximera 2016/08/17 Version 1.33 by Bart Snapp
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
@@ -793,6 +803,7 @@ Package hyperref Info: Hyper index ON on input line 4517.
 Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+<<<<<<< HEAD
 Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count153
 LaTeX Info: Redefining \url on input line 5115.
@@ -869,13 +880,308 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package: sagetex 2015/08/26 v3.0-92d9f7a embedding Sage into LaTeX documents
 
 (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+=======
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count191
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen223
+\Fld@menulength=\count192
+\Field@Width=\dimen224
+\Fld@charsize=\dimen225
+\Field@toks=\toks52
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count193
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver: htex4ht.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/htex4ht.def
+File: htex4ht.def 2012/11/06 v6.83m Hyperref driver for TeX4ht
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2008-10-27-17:23
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks53
+))
+\c@titlenumber=\count194
+\c@sectiontitlenumber=\count195
+\c@theorem=\count196
+\c@algorithm=\count197
+\c@axiom=\count198
+\c@claim=\count199
+\c@conclusion=\count200
+\c@condition=\count201
+\c@conjecture=\count202
+\c@corollary=\count203
+\c@criterion=\count204
+\c@definition=\count205
+\c@example=\count206
+\c@fact=\count207
+\c@formula=\count208
+\c@idea=\count209
+\c@lemma=\count210
+\c@model=\count211
+\c@notation=\count212
+\c@observation=\count213
+\c@paradox=\count214
+\c@procedure=\count215
+\c@proposition=\count216
+\c@remark=\count217
+\c@summary=\count218
+\c@template=\count219
+\c@warning=\count220
+\c@Iteration@probCnt=\count221
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2009-05-21-09:32
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/forloop/forloop.sty
+Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+)
+\c@problem@Depth=\count222
+\c@hintLevel=\count223
+\c@problem=\count224
+)
+(/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks53
 \verbatim@line=\toks54
 \verbatim@in@stream=\read3
 )
+<<<<<<< HEAD
 (/usr/share/texmf-dist/tex/latex/makecmds/makecmds.sty
 Package: makecmds 2009/09/03 v1.0a extra command making commands
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2009-01-07-07:11
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2008-10-27-17:23
+
+--- needs --- tex4ht FermatsLastTheorem ---
+\tmp:cnt=\count225
+\openout15 = `FermatsLastTheorem.tmp'.
+
+(./FermatsLastTheorem.tmp)
+\tmp:dim=\skip134
+ (./FermatsLastTheorem.xref)
+\:refout=\write6
+\openout6 = `FermatsLastTheorem.xref'.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: charset=utf-8,-css,html,htex4ht,xhtml
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+)
+\:tokwrite=\toks56
+\:tokpage=\toks57
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `FermatsLastTheorem.4ct'.
+
+\:tocout=\write7
+\openout7 = `FermatsLastTheorem.4tc'.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2009-05-21-09:32
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/array.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
 )
 \c@ST@inline=\count191
 \c@ST@plot=\count192
@@ -885,8 +1191,249 @@ Package: makecmds 2009/09/03 v1.0a extra command making commands
 No file FermatsLastTheorem.sagetex.sout.
 \sagecommandlineskip=\skip63
 )
+<<<<<<< HEAD
 \myfile=\write8
 \openout8 = `FermatsLastTheorem.jax'.
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht
+version 2014-01-26-09:44
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks58
+\MT@count=\count226
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen226
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count227
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip135
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+\c@identification=\count228
+
+
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:51: LaTeX Error: En
+vironment xarmaBoost undefined in `ximera.cfg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...figureQuestionEnv{xarmaBoost}{xarma-boost}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:57: LaTeX Error: En
+vironment shuffle undefined in `ximera.cfg'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \ConfigureQuestionEnv{shuffle}{shuffle}
+                                            
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\c@choiceId=\count229
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.4ht:223: Illegal parame
+ter number in definition of \desmos.
+<to be read again> 
+                   c
+l.223 ...not support embedded elements.</iframe>}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/article.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/pgf.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/everyshi.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/graphics.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2009-05-21-09:32
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/enumitem.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/titlesec.4ht
+version 2014-07-14-17:09
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/url.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+--------------------------------------
+--- Note --- for URL encoding within href use the command line option `url-enc'
+
+--------------------------------------
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/fancyvrb.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/amssymb.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/amsfonts.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/amsmath.4ht
+version 2009-05-21-09:32
+\tmp:muskip=\muskip18
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/amstext.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2015-01-26-15:58
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/amsbsy.4ht
+version 2009-05-21-09:32
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
 
 ) (./FermatsLastTheorem.aux)
 \openout1 = `FermatsLastTheorem.aux'.
@@ -926,6 +1473,7 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into
 your preamble.
  on input line 5.
 
+<<<<<<< HEAD
 \c@lstlisting=\count266
 \AtBeginShipoutBox=\box48
 Package hyperref Info: Link coloring ON on input line 5.
@@ -935,6 +1483,15 @@ LaTeX Info: Redefining \nameref on input line 5.
 (./FermatsLastTheorem.out) (./FermatsLastTheorem.out)
 \@outlinefile=\write9
 \openout9 = `FermatsLastTheorem.out'.
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count230
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/nameref.4ht
+version 2013-06-28-15:01
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
 
 \ST@sf=\write10
 \openout10 = `FermatsLastTheorem.sagetex.sage'.
@@ -949,6 +1506,66 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<<<<<<< HEAD
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2009-05-18-23:01
+))
+runsystem(sed -i "/@/d" FermatsLastTheorem.jax)...executed.
+
+runsystem(sed -i "s/##\\([0-9]\\)/#\\1/g" FermatsLastTheorem.jax)...executed.
+
+
+(./FermatsLastTheorem.oc)
+\eqtoks=\toks59
+ (./FermatsLastTheorem.aux)
+\openout1 = `FermatsLastTheorem.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.12} into 
+your preamble.
+ on input line 125.
+
+\c@lstlisting=\count231
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring ON on input line 125.
+LaTeX Info: Redefining \ref on input line 125.
+LaTeX Info: Redefining \pageref on input line 125.
+LaTeX Info: Redefining \nameref on input line 125.
+LaTeX Info: Redefining \microtypecontext on input line 125.
+Package microtype Info: Generating DVI output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+/Users/Jenny/Library/texmf/tex/latex/ximeraLatex/ximera.cfg:169: Extra \fi.
+l.169 \fi
+         
+I'm ignoring this; it doesn't match any \if.
+
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
 
 LaTeX Warning: No \author given.
 
@@ -977,6 +1594,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
 
+<<<<<<< HEAD
+=======
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
 
 Package rerunfilecheck Warning: File `FermatsLastTheorem.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
@@ -988,11 +1616,19 @@ Package rerunfilecheck Info: Checksums for `FermatsLastTheorem.out':
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  29528 strings out of 492649
  685838 string characters out of 6135778
  865630 words of memory out of 5000000
  32839 multiletter control sequences out of 15000+600000
  12817 words of font info for 49 fonts, out of 8000000 for 9000
+=======
+ 40495 strings out of 493090
+ 872453 string characters out of 6134868
+ 1167801 words of memory out of 5000000
+ 43180 multiletter control sequences out of 15000+600000
+ 5507 words of font info for 23 fonts, out of 8000000 for 9000
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
  1141 hyphenation exceptions out of 8191
  69i,10n,98p,746b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
@@ -1012,3 +1648,7 @@ PDF statistics:
  18 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+<<<<<<< HEAD
+=======
+Output written on FermatsLastTheorem.dvi (4 pages, 13124 bytes).
+>>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
