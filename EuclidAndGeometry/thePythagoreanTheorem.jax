@@ -1,4 +1,5 @@
 \newenvironment {prompt}{}{}
+\newcommand {\ungraded }[0]{}
 \newcommand {\celsius }[0]{}
 \newcommand {\degree }[0]{}
 \newcommand {\ohm }[0]{}
@@ -24,23 +25,6 @@
 \newcommand {\egone }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_stroke.pdf}\hspace {0.5mm}}}
 \newcommand {\egyptify }[7]{ \multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_person.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#2}{\includegraphics [scale=.1]{egyptian/egypt_fish.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#3}{\includegraphics [scale=.1]{egyptian/egypt_finger.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#4}{\includegraphics [scale=.1]{egyptian/egypt_lotus.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#5}{\includegraphics [scale=.1]{egyptian/egypt_scroll.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#6}{\includegraphics [scale=.1]{egyptian/egypt_heel.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#7}{\includegraphics [scale=.1]{egyptian/egypt_stroke.pdf}\hspace {0.5mm}} \hspace {.5mm} }
 \newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }
-<<<<<<< HEAD
-\newcommand {\epstopdfsetup }[0]{\setkeys {ETE}}
-=======
-\newcommand {\reserved@a }[1]{}
-\newcommand {\reserved@a }[2]{}
-\newcommand {\AppendGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Append \grfext@Check }{\grfext@Append \grfext@@Add }}
-\newcommand {\PrependGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Prepend \grfext@Check }{\grfext@Prepend \grfext@@Add }}
-\newcommand {\RemoveGraphicsExtensions }[1]{\@ifundefined {Gin@extensions}{\def \Gin@extensions {}}{\edef \grfext@tmp {\zap@space ##1 \@empty }\@for \grfext@ext :=\grfext@tmp \do {\def \grfext@next {\let \grfext@tmp \Gin@extensions \@expandtwoargs \@removeelement \grfext@ext \Gin@extensions \Gin@extensions \ifx \grfext@tmp \Gin@extensions \let \grfext@next \relax \fi \grfext@next }\grfext@next }}\grfext@Print \RemoveGraphicsExtensions }
-\newcommand {\epstopdfsetup }[0]{\setkeys {ETE}}
-\newcommand {\epstopdfcall }[1]{\ifETE@InsideSetfile \expandafter \@firstoftwo \else \expandafter \@secondoftwo \fi {`##1}{\Gin@base \Gin@ext }}
-\newcommand {\epstopdfDeclareGraphicsRule }[4]{\ifx \\##4\\\@PackageError {epstopdf-base}{Conversion command is missing}\@ehc \else \begingroup \@ifundefined {Gin@rule@##1}{}{\@PackageInfo {epstopdf-base}{Redefining graphics rule for `##1'}}\endgroup \@namedef {Gin@rule@##1}####1{{##2}{##3}{\epstopdfcall {##4}}}\fi }
-\newcommand {\mdf@patchamsthm }[0]{\let \mdf@deferred@thm@head \deferred@thm@head \pretocmd {\deferred@thm@head }{\@inlabelfalse }{\mdf@PackageInfo {mdframed detected package amsthm 
- changed the theorem header of amsthm\MessageBreak }}{\mdf@PackageError {mdframed detected package amsthm 
->>>>>>> d41ad9d0cfbc94b2fa55013458037fadeb35182c
- changed the theorem header of amsthm failed\MessageBreak }}}
-\newcommand {\GetTitleStringSetup }[0]{\setkeys {gettitlestring}}
-\newcommand {\Sectionformat }[2]{#1}
 \newcommand {\degree }[0]{\ensuremath {^\circ }}
 \newcommand {\celsius  }[0]{\ifmmode ^\circ \mathrm {C}\else $^\circ $C\fi }
 \newcommand {\ohm  }[0]{\ifmmode \Omega \else $\Omega $\fi }

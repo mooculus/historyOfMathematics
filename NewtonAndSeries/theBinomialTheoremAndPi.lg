@@ -9,9 +9,9 @@ Font_Css("12"): .htf-calligraphy {font-family:cursive}
 Font_Css("14"): .htf-italic {font-style: italic;}
 Font_Css("16"): .htf-bold {font-weight: bold;}
 Font_Css("12"): .htf-calligraphy-bold {font-family:cursive ; font-weight: bold; }
-File: ./theBinomialTheoremAndPi-figure0.svg
-File: ./theBinomialTheoremAndPi-figure1.svg
-File: ./theBinomialTheoremAndPi-figure2.svg
+File: @base.svg
+File: @base.svg
+File: @base.svg
 --- characters ---
 Font("cmr","10","10","100")
 Font("cmmi","10","10","100")

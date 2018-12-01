@@ -1,138 +1,82 @@
-<!doctype html> 
-<html lang="en"> 
-<head>
-<title>Fermat&#x2019;s Last Theorem</title> 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
-<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)" /> 
+<!DOCTYPE html><html lang="en"><head> <title>Fermat’s Last Theorem</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+<meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)"/> 
+<meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)"/> 
 <!-- charset=utf-8,-css,html,htex4ht,xhtml --> 
-<meta name="src" content="FermatsLastTheorem.tex" /> 
-<meta name="date" content="2018-02-28 17:01:00" /> 
-<meta name="author" content="" /> 
-<meta charset="UTF-8" /> 
-<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)" /> 
-<meta name="ximera" content="version 0.0.1" /> 
-<link href="http://ximera.osu.edu/public/static/base.min.css" rel="stylesheet" media="screen"/> 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/> 
-<script data-module="script" data-main="http://ximera.osu.edu/public/javascripts/app.min" src="http://ximera.osu.edu/components/requirejs/require.js"></script> 
-</head><body> 
+<meta name="src" content="FermatsLastTheorem.tex"/> 
+<meta name="author" content=""/> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)"/> 
+<meta name="ximera" content="version 0.0.1"/> 
+<link href="https://ximera.osu.edu/public/stylesheets/standalone.css" rel="stylesheet" media="screen"/> 
+<script type="text/javascript" async="" src="https://ximera.osu.edu/public/javascripts/standalone.min.js"></script> 
+<meta name="dependency" content="251e9cf221d50afb8ee9a8ae05c8e2db408a7387 NewtonAndSeries/FermatsLastTheorem.tex"/></head><body> 
 <div class="preamble"><script type="math/tex">\newenvironment {prompt}{}{}
-\newcommand {\DeclareMathOperator }[2]{\@OldDeclareMathOperator {##1}{##2}\immediate \write \myfile {\unexpanded {\DeclareMathOperator }{\unexpanded {##1}}{\unexpanded {##2}}}}
-\newcommand {\reserved@a }[2]{}
-\newcommand {\reserved@a }[2]{}
-\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }
-\newcommand {\reserved@a }[1]{}
-\newcommand {\reserved@a }[2]{}
-\newcommand {\AppendGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Append \grfext@Check }{\grfext@Append \grfext@@Add }}
-\newcommand {\PrependGraphicsExtensions }[0]{\@ifundefined {Gin@extensions}{\let \Gin@extensions \@empty }{}\@ifstar {\grfext@Prepend \grfext@Check }{\grfext@Prepend \grfext@@Add }}
-\newcommand {\RemoveGraphicsExtensions }[1]{\@ifundefined {Gin@extensions}{\def \Gin@extensions {}}{\edef \grfext@tmp {\zap@space ##1 \@empty }\@for \grfext@ext :=\grfext@tmp \do {\def \grfext@next {\let \grfext@tmp \Gin@extensions \@expandtwoargs \@removeelement \grfext@ext \Gin@extensions \Gin@extensions \ifx \grfext@tmp \Gin@extensions \let \grfext@next \relax \fi \grfext@next }\grfext@next }}\grfext@Print \RemoveGraphicsExtensions }
-\newcommand {\epstopdfsetup }[0]{\setkeys {ETE}}
-\newcommand {\epstopdfcall }[1]{\ifETE@InsideSetfile \expandafter \@firstoftwo \else \expandafter \@secondoftwo \fi {‘##1}{\Gin@base \Gin@ext }}
-\newcommand {\epstopdfDeclareGraphicsRule }[4]{\ifx \\##4\\\@PackageError {epstopdf-base}{Conversion command is missing}\@ehc \else \begingroup \@ifundefined {Gin@rule@##1}{}{\@PackageInfo {epstopdf-base}{Redefining graphics rule for ‘##1&#x2019;}}\endgroup \@namedef {Gin@rule@##1}####1{{##2}{##3}{\epstopdfcall {##4}}}\fi }
-\newcommand {\mdf@patchamsthm }[0]{\let \mdf@deferred@thm@head \deferred@thm@head \pretocmd {\deferred@thm@head }{\@inlabelfalse }{\mdf@PackageInfo {mdframed detected package amsthm
- changed the theorem header of amsthm\MessageBreak }}{\mdf@PackageError {mdframed detected package amsthm
- changed the theorem header of amsthm failed\MessageBreak }}}
-\newcommand {\GetTitleStringSetup }[0]{\setkeys {gettitlestring}}
-\newcommand {\GetTitleString }[0]{\ifGTS@expand \expandafter \GetTitleStringExpand \else \expandafter \GetTitleStringNonExpand \fi }
-\newcommand {\GetTitleStringExpand }[1]{\def \GetTitleStringResult {##1}\begingroup \GTS@DisablePredefinedCmds \GTS@DisableHook \edef \x {\endgroup \noexpand \def \noexpand \GetTitleStringResult {\GetTitleStringResult }}\x }
-\newcommand {\GetTitleStringNonExpand }[1]{\def \GetTitleStringResult {##1}\global \let \GTS@GlobalString \GetTitleStringResult \begingroup \GTS@RemoveLeft \GTS@RemoveRight \endgroup \let \GetTitleStringResult \GTS@GlobalString }
-\newcommand {\GTS@DisableHook }[0]{}
-\newcommand {\label@hook }[0]{}
-\newcommand {\@currentlabelname }[0]{}
-\newcommand {\reserved@a }[0]{}
-\newcommand {\@safe@activestrue }[0]{}
-\newcommand {\@safe@activesfalse }[0]{}
-\newcommand {\nameref  }[0]{\@ifstar \T@nameref \T@nameref }
-\newcommand {\Sectionformat }[2]{##1}
-\newcommand {\vnameref  }[1]{\unskip ~\nameref {##1}\@vpageref [\unskip ]{##1}}
-\newcommand {\ref  }[0]{\@ifstar \@refstar \T@ref }
-\newcommand {\pageref  }[0]{\@ifstar \@pagerefstar \T@pageref }
-\newcommand {\nameref  }[0]{\@ifstar \@namerefstar \T@nameref }
-\newcommand {\reserved@a }[2]{}
-\newcommand {\reserved@a }[2]{}
-\newcommand {\reserved@a }[0]{\AtBeginDocument }
-\newcommand {\reserved@a }[1]{}
-\newcommand {\reserved@a }[2]{}                                                                                                                                                                                                                                                                                                                                                                                                                         </script><script type="text/javascript"> 
+\newcommand {\ungraded }[0]{}
+\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }</script><script type="text/javascript"> 
 </script> 
 </div>
-<div 
-class="abstract" 
->
+<div class="abstract">
 </div>   <div class="maketitle"></div>
-<!--l. 11--><p class="noindent" >As we consider the Great Theorem of this chapter in our first reading, we&#x2019;ll also talk
-a bit more about one of the mathematicians we have mentioned a few times this
-semester: Pierre de Fermat. A little of Fermat&#x2019;s life story was mentioned in the first
-reading from Dunham in this chapter, as well as his famous “Last Theorem”. Our
-second reading does a good job of explaining the basic ideas of the theorem and the
-                                                                  
-
-                                                                  
-history of its proof. Notice that Dunham&#x2019;s text was published before Wiles&#x2019;
+<!--l. 11--><p class="noindent">¡¡¡¡¡¡¡ HEAD As we consider the Great Theorem of this chapter in our first reading,
+we’ll also talk a bit more about one of the mathematicians we have mentioned a few
+times this semester: Pierre de Fermat. A little of Fermat’s life story was mentioned in
+the first reading from Dunham in this chapter, as well as his famous “Last Theorem”.
+Our second reading does a good job of explaining the basic ideas of the theorem and
+the history of its proof. Notice that Dunham’s text was published before Wiles’
+proof! So, Dunham no longer correct that this is an unsolved problem in
+mathematics.
+</p><!--l. 22--><p class="noindent">The article is still a little older than I’d like, however! Here is a bit more information
+to bring our story into the present. ======= As we consider the Great Theorem
+of this chapter in our first reading, we’ll also talk a bit more about one of the
+mathematicians we have mentioned a few times this semester: Pierre de
+Fermat. A little of Fermat’s life story was mentioned in the first reading from
+Dunham in this chapter, as well as his famous “Last Theorem”. Our second
+reading does a good job of explaining the basic ideas of the theorem and the
+history of its proof. Notice that Dunham’s text was published before Wiles’
 proof! So, Dunham is no longer correct that this is an unsolved problem in
 mathematics.
-</p><!--l. 13--><p class="noindent" >The article is still a little older than I&#x2019;d like, however! Here is a bit more information
+</p><!--l. 27--><p class="noindent">The article is still a little older than I’d like, however! Here is a bit more information
 to bring our story into the present. </p>
      <ul class="itemize1">
      <li class="itemize">Since  the  article  above  was  published  pretty  close  to  the  publication
-     of  Wiles&#x2019;  proof,  it  ends  with  some  uncertainty  about  the  proof.  That
+     of  Wiles’  proof,  it  ends  with  some  uncertainty  about  the  proof.  That
      uncertainty has been removed - the proof has been reviewed and accepted.
      </li>
      <li class="itemize">Wiles has since won a number of awards for his proof. Most recently, in
-     2016 he received the <a 
-href="http://www.abelprize.no/" >Abel Prize</a> in Mathematics.
-     </li>
-     <li class="itemize">Wiles&#x2019;   proof   was   essentially   to   verify   a   relevant   case   of   the
-     Taniyama-Shimura-Weil  conjecture.  The  full  conjecture  was  proven  in
-     2001,  and  is  usually  referred  to  as  the  “modularity  theorem”.  The
-     <a 
-href="http://mathworld.wolfram.com/Taniyama-ShimuraConjecture.html" >MathWorld article</a> says a little more.
+     2016 he received the <a href="http://www.abelprize.no/">Abel Prize</a> in Mathematics.
      </li>
      <li class="itemize">Wiles originally gave the proof in about three lectures; now there are
-     instances of entire courses being devoted to the matter. If you&#x2019;re interested
-     in seeing more details for the proof, you can read <a 
-href="https://www.math.wisc.edu/~boston/boston1.pdf" >a very short summary</a>,
-     <a 
-href="http://math.stanford.edu/~lekheng/flt/gouvea.pdf" >a relatively short summary</a>, or <a 
-href="https://www.math.wisc.edu/~boston/869.pdf" >an entire textbook</a>. You will likely need to
+     instances of entire courses being devoted to the matter. If you’re interested
+     in seeing more details for the proof, you can read <a href="https://www.math.wisc.edu/~boston/boston1.pdf">a very short summary</a>,
+     <a href="http://math.stanford.edu/~lekheng/flt/gouvea.pdf">a relatively short summary</a>, or <a href="https://www.math.wisc.edu/~boston/869.pdf">an entire textbook</a>. You will likely need to
      have had a significant algebra course to understand much of the proof.
      </li>
-     <li class="itemize">The <a 
-href="https://en.wikipedia.org/wiki/Fermat's_Last_Theorem" >Wikipedia page</a> for Fermat&#x2019;s Last Theorem is heavily referenced and
+     <li class="itemize">The <a href="https://en.wikipedia.org/wiki/Fermat&#39;s_Last_Theorem">Wikipedia page</a> for Fermat’s Last Theorem is heavily referenced and
      also not a bad place to get general information about the theorem. (I know,
+                                                                  
+
+                                                                  
      I said you have to be careful with Wikipedia! Be sure to double-check the
      information in a non-open-source location.)</li></ul>
-<h3 class="sectionHead"><a 
- id="x1-1000"></a>Readings</h3>
-<!--l. 23--><p class="noindent" >First reading: Dunham, Chapter 7, pages 174 - 183
-</p><!--l. 25--><p class="noindent" >Second reading: <a 
-href="http://www-history.mcs.st-andrews.ac.uk/HistTopics/Fermat's_last_theorem.html" >Fermat&#x2019;s Last Theorem</a>
+<h3 class="sectionHead"><a id="x1-1000"></a>Readings</h3>
+<!--l. 39--><p class="noindent">First reading: Dunham, Chapter 7, pages 174 - 183
+</p><!--l. 41--><p class="noindent">Second reading: <a href="http://www-history.mcs.st-andrews.ac.uk/HistTopics/Fermat&#39;s_last_theorem.html">Fermat’s Last Theorem</a>
 </p>
-<h3 class="sectionHead"><a 
- id="x1-2000"></a>Questions</h3>
-<div class="problem-environment question" id="problem1"><a 
- id="x1-2001r1"></a> Into how many cases did Sophie Germain divide the problem? <script type="math/tex"> <![CDATA[ 
-\answer [given]{2} 
-]]> 
-</script>
+<h3 class="sectionHead"><a id="x1-2000"></a>Questions</h3>
+<div role="article" class="problem-environment question" id="problem1"><a id="x1-2001r1"></a> Into how many cases did Sophie Germain divide the problem? <script type="math/tex">\answer [given]{2}</script>
 </div>
-                                                                  
-
-                                                                  
-<div class="problem-environment question" id="problem2"><a 
- id="x1-2002r2"></a> Where was Wiles working when he solved Fermat&#x2019;s Last Theorem? <div class="multiple-choice" id="problem3"><span class="choice  "   id="choice1">Stanford.</span> <span class="choice correct " 
-id="choice2">Princeton.</span> <span class="choice  "   id="choice3">Cambridge.</span> <span class="choice  "   id="choice4">Oxford.</span> </div>
+<div role="article" class="problem-environment question" id="problem2"><a id="x1-2002r2"></a> Where was Wiles working when he solved Fermat’s Last Theorem? <div class="multiple-choice" id="problem3"><span class="choice  " id="choice1">Stanford.</span> <span class="choice correct " id="choice2">Princeton.</span> <span class="choice  " id="choice3">Cambridge.</span> <span class="choice  " id="choice4">Oxford.</span> </div>
 </div>
-<div class="problem-environment question" id="problem4"><a 
- id="x1-2003r3"></a> What are the most important points from this reading? <div class="free-response" id="problem5"><a 
- id="x1-2004r4"></a>
+<div role="article" class="problem-environment question" id="problem4"><a id="x1-2003r3"></a> What are the most important points from this reading? <div class="free-response" id="problem5"><a id="x1-2004r4"></a>
 </div>
-<!--l. 51--><p class="noindent" ></div>
-</body> 
+</div>
  
-</html>
+ 
+
                                                                   
 
                                                                   
                                                                   
 
 
+</body></html>
