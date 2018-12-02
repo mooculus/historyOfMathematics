@@ -9,41 +9,61 @@
 <meta name="ximera" content="version 0.0.1"/> 
 <link href="https://ximera.osu.edu/public/stylesheets/standalone.css" rel="stylesheet" media="screen"/> 
 <script type="text/javascript" async="" src="https://ximera.osu.edu/public/javascripts/standalone.min.js"></script> 
-<meta name="dependency" content="c246d07bc40daebbb941fac9ae25ce0bc03518c2 BernoulliAndSeries/NewtonAndLeibniz.tex"/></head><body> 
+<meta name="dependency" content="2c09358066920de714e1b6ee85c8b7d0a12a2f06 preamble.tex"/><meta name="dependency" content="b0a67e743782048887643beb2e24a1f9404c040a BernoulliAndSeries/NewtonAndLeibniz.tex"/></head><body> 
 <div class="preamble"><script type="math/tex">\newenvironment {prompt}{}{}
 \newcommand {\ungraded }[0]{}
-\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }</script><script type="text/javascript"> 
+\newcommand {\celsius }[0]{}
+\newcommand {\degree }[0]{}
+\newcommand {\ohm }[0]{}
+\newcommand {\npnoround }[0]{\nprounddigits {-1}}
+\newcommand {\npnoroundexp }[0]{\nproundexpdigits {-1}}
+\newcommand {\npunitcommand }[1]{\ensuremath {\mathrm {#1}}}
+\newcommand {\tri }[0]{\triangle }
+\newcommand {\l }[0]{\ell }
+\newcommand {\P }[0]{\mathcal {P}}
+\newcommand {\R }[0]{\mathbb {R}}
+\newcommand {\Q }[0]{\mathbb {Q}}
+\newcommand {\Z }[0]{\mathbb Z}
+\newcommand {\N }[0]{\mathbb N}
+\newcommand {\ph }[0]{\varphi }
+\newcommand {\vec }[0]{\mathbf }
+\newcommand {\d }[0]{\,d}
+\newcommand {\egmil }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_person.pdf}\hspace {0.5mm}}}
+\newcommand {\eghuntho }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_fish.pdf}\hspace {0.5mm}}}
+\newcommand {\egtentho }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_finger.pdf}\hspace {0.5mm}}}
+\newcommand {\egtho }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_lotus.pdf}\hspace {0.5mm}}}
+\newcommand {\eghun }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_scroll.pdf}\hspace {0.5mm}}}
+\newcommand {\egten }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_heel.pdf}\hspace {0.5mm}}}
+\newcommand {\egone }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_stroke.pdf}\hspace {0.5mm}}}
+\newcommand {\egyptify }[7]{ \multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_person.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#2}{\includegraphics [scale=.1]{egyptian/egypt_fish.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#3}{\includegraphics [scale=.1]{egyptian/egypt_finger.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#4}{\includegraphics [scale=.1]{egyptian/egypt_lotus.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#5}{\includegraphics [scale=.1]{egyptian/egypt_scroll.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#6}{\includegraphics [scale=.1]{egyptian/egypt_heel.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#7}{\includegraphics [scale=.1]{egyptian/egypt_stroke.pdf}\hspace {0.5mm}} \hspace {.5mm} }
+\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }
+\newcommand {\degree }[0]{\ensuremath {^\circ }}
+\newcommand {\celsius  }[0]{\ifmmode ^\circ \mathrm {C}\else $^\circ $C\fi }
+\newcommand {\ohm  }[0]{\ifmmode \Omega \else $\Omega $\fi }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </script><script type="text/javascript"> 
 </script> 
 </div>
 <div class="abstract">
 </div>   <div class="maketitle"></div>
-<!--l. 11--><p class="noindent">The first part of Chapter 8 details an unfortunate phase in the history of
-mathematics: the debate over who actually “invented” calculus. Part of the first
-reading will tell the story of this debate, while the second reading gives a concise
-comparison of the works of these two famous mathematicians. After looking
-through these readings, you should be able to form your own opinion on the
-matter!
+<!--l. 12--><p class="noindent">The first part of Chapter 8 details an unfortunate phase in the history of mathematics: the debate over who actually
+“invented” calculus. Part of the first reading will tell the story of this debate, while the second reading gives a
+concise comparison of the works of these two famous mathematicians. After looking through these readings, you
+should be able to form your own opinion on the matter!
 </p>
 <h3 class="sectionHead"><a id="x1-1000"></a>Readings</h3>
-<!--l. 17--><p class="noindent">First reading: Dunham, Chapter 8, pages 184 - 196
-</p><!--l. 19--><p class="noindent">Second reading: <a href="https://www.fitchburgstate.edu/uploads/files/Undergraduate_Research_Conference/Sample-Math-Poster.pdf">Newton and Leibniz: The Calculus Controversy</a>.
+<!--l. 18--><p class="noindent">First reading: Dunham, Chapter 8, pages 184 - 196
+</p><!--l. 20--><p class="noindent">Second reading: <a href="https://www.fitchburgstate.edu/uploads/files/Undergraduate_Research_Conference/Sample-Math-Poster.pdf">Newton and Leibniz: The Calculus Controversy</a>.
 </p>
 <h3 class="sectionHead"><a id="x1-2000"></a>Questions</h3>
-<div role="article" class="problem-environment question" id="problem1"><a id="x1-2001r1"></a> In what year (BC) do we find the first evidence of the ideas of calculus?
-<script type="math/tex">\answer [given]{1600}</script>
+<div role="article" class="problem-environment question" id="problem1"><a id="x1-2001r1"></a> In what year (BC) do we find the first evidence of the ideas of calculus? <script type="math/tex">\answer [given]{1600}</script>
 </div>
 <div role="article" class="problem-environment question" id="problem2"><a id="x1-2002r2"></a> In what country did Leibniz study law? <div class="multiple-choice" id="problem3"><span class="choice  " id="choice1">England</span> <span class="choice correct " id="choice2">Germany</span> <span class="choice  " id="choice3">Russia</span> <span class="choice  " id="choice4">Switzerland</span> </div>
 </div>
-<div role="article" class="problem-environment question" id="problem4"><a id="x1-2003r3"></a> What are the most important points from this reading? <div class="free-response" id="problem5"><a id="x1-2004r4"></a>
-</div>
-</div>
  
  
 
-                                                                  
-
-                                                                  
-                                                                  
+                                                                                         
+                                                                                         
+                                                                                         
 
 
 </body></html>

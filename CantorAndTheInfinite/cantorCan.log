@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.27)  1 DEC 2018 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.27)  2 DEC 2018 00:17
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1832,10 +1832,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
 Here is how much of TeX's memory you used:
  38879 strings out of 492983
  849724 string characters out of 6134921
- 1215972 words of memory out of 5000000
+ 1215970 words of memory out of 5000000
  41507 multiletter control sequences out of 15000+600000
  6187 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,5n,98p,1229b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cantorCan.dvi (3 pages, 11024 bytes).
+Output written on cantorCan.dvi (3 pages, 11048 bytes).

@@ -9,47 +9,70 @@
 <meta name="ximera" content="version 0.0.1"/> 
 <link href="https://ximera.osu.edu/public/stylesheets/standalone.css" rel="stylesheet" media="screen"/> 
 <script type="text/javascript" async="" src="https://ximera.osu.edu/public/javascripts/standalone.min.js"></script> 
-<meta name="dependency" content="595ff4bd317dc516b4cd513fdd46656f2ac949f5 BabylonianMathematics/BabylonianGeometry.tex"/></head><body> 
+<meta name="dependency" content="2c09358066920de714e1b6ee85c8b7d0a12a2f06 preamble.tex"/><meta name="dependency" content="006ccb0cebff2445c42fa516f9272dd1309c70e0 BabylonianMathematics/BabylonianGeometry.tex"/></head><body> 
 <div class="preamble"><script type="math/tex">\newenvironment {prompt}{}{}
 \newcommand {\ungraded }[0]{}
-\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }</script><script type="text/javascript"> 
+\newcommand {\celsius }[0]{}
+\newcommand {\degree }[0]{}
+\newcommand {\ohm }[0]{}
+\newcommand {\npnoround }[0]{\nprounddigits {-1}}
+\newcommand {\npnoroundexp }[0]{\nproundexpdigits {-1}}
+\newcommand {\npunitcommand }[1]{\ensuremath {\mathrm {#1}}}
+\newcommand {\tri }[0]{\triangle }
+\newcommand {\l }[0]{\ell }
+\newcommand {\P }[0]{\mathcal {P}}
+\newcommand {\R }[0]{\mathbb {R}}
+\newcommand {\Q }[0]{\mathbb {Q}}
+\newcommand {\Z }[0]{\mathbb Z}
+\newcommand {\N }[0]{\mathbb N}
+\newcommand {\ph }[0]{\varphi }
+\newcommand {\vec }[0]{\mathbf }
+\newcommand {\d }[0]{\,d}
+\newcommand {\egmil }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_person.pdf}\hspace {0.5mm}}}
+\newcommand {\eghuntho }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_fish.pdf}\hspace {0.5mm}}}
+\newcommand {\egtentho }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_finger.pdf}\hspace {0.5mm}}}
+\newcommand {\egtho }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_lotus.pdf}\hspace {0.5mm}}}
+\newcommand {\eghun }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_scroll.pdf}\hspace {0.5mm}}}
+\newcommand {\egten }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_heel.pdf}\hspace {0.5mm}}}
+\newcommand {\egone }[1]{\multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_stroke.pdf}\hspace {0.5mm}}}
+\newcommand {\egyptify }[7]{ \multido {\i =1+1}{#1}{\includegraphics [scale=.1]{egyptian/egypt_person.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#2}{\includegraphics [scale=.1]{egyptian/egypt_fish.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#3}{\includegraphics [scale=.1]{egyptian/egypt_finger.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#4}{\includegraphics [scale=.1]{egyptian/egypt_lotus.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#5}{\includegraphics [scale=.1]{egyptian/egypt_scroll.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#6}{\includegraphics [scale=.1]{egyptian/egypt_heel.pdf}\hspace {0.5mm}} \multido {\i =1+1}{#7}{\includegraphics [scale=.1]{egyptian/egypt_stroke.pdf}\hspace {0.5mm}} \hspace {.5mm} }
+\newcommand {\HyperFirstAtBeginDocument }[0]{\AtBeginDocument }
+\newcommand {\degree }[0]{\ensuremath {^\circ }}
+\newcommand {\celsius  }[0]{\ifmmode ^\circ \mathrm {C}\else $^\circ $C\fi }
+\newcommand {\ohm  }[0]{\ifmmode \Omega \else $\Omega $\fi }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </script><script type="text/javascript"> 
 </script> 
 </div>
 <div class="abstract">
 </div>   <div class="maketitle"></div>
-<!--l. 10--><p class="noindent">As we began to see in the previous section’s readings, the Babylonians could solve
-many different kinds of problems. In some ways, their methods were more advanced
-than the Egyptian methods. We would like to study (or look again at) the ways the
-Babylonians approximated square roots, how they solved quadratic equations, and
-several different kinds of geometry problems. Again, with material that is repeated in
-more than one place, it’s good to pay attention to the different opinions of different
+<!--l. 11--><p class="noindent">As we began to see in the previous section’s readings, the Babylonians could solve many different
+kinds of problems. In some ways, their methods were more advanced than the Egyptian methods. We
+would like to study (or look again at) the ways the Babylonians approximated square roots, how they
+solved quadratic equations, and several different kinds of geometry problems. Again, with material that
+is repeated in more than one place, it’s good to pay attention to the different opinions of different
 authors!
 </p>
 <h3 class="sectionHead"><a id="x1-1000"></a>Readings</h3>
-<!--l. 17--><p class="noindent">First Reading: <a href="http://www.jstor.org.proxy.lib.ohio-state.edu/stable/2686867">A Babylonian Geometrical Algebra</a>
-</p><!--l. 19--><p class="noindent">Second Reading: <a href="http://science.sciencemag.org.proxy.lib.ohio-state.edu/content/351/6272/482">Ancient Babylonian Astronomers Calculated Jupiter’s Position from
-the Area Under a Time-Velocity Graph</a>
-</p><!--l. 21--><p class="noindent">Third Reading: <a href="http://www-history.mcs.st-and.ac.uk/HistTopics/Babylonian_Pythagoras.html">Pythagoras’s Theorem in Babylonian Mathematics</a>
+<!--l. 18--><p class="noindent">First Reading: <a href="http://www.jstor.org.proxy.lib.ohio-state.edu/stable/2686867">A Babylonian Geometrical Algebra</a>
+</p><!--l. 20--><p class="noindent">Second Reading: <a href="http://science.sciencemag.org.proxy.lib.ohio-state.edu/content/351/6272/482">Ancient Babylonian Astronomers Calculated Jupiter’s Position from the Area Under a
+Time-Velocity Graph</a>
+</p><!--l. 22--><p class="noindent">Third Reading: <a href="http://www-history.mcs.st-and.ac.uk/HistTopics/Babylonian_Pythagoras.html">Pythagoras’s Theorem in Babylonian Mathematics</a>
 </p>
 <h3 class="sectionHead"><a id="x1-2000"></a>Questions</h3>
-<div role="article" class="problem-environment question" id="problem1"><a id="x1-2001r1"></a> The time interval over which the ancient Babylonians made observations about the
-position of Jupiter was how many days long? <script type="math/tex">\answer [given]{60}</script> days.
+<div role="article" class="problem-environment question" id="problem1"><a id="x1-2001r1"></a> The time interval over which the ancient Babylonians made observations about the position of Jupiter was how
+many days long? <script type="math/tex">\answer [given]{60}</script> days.
+                                                                                         
+                                                                                         
 </div>
-<div role="article" class="problem-environment question" id="problem2"><a id="x1-2002r2"></a> Which of the following is not a challenge when translating ancient Babylonian
-tablets? <div class="multiple-choice" id="problem3"><span class="choice correct " id="choice1">We do not know the ancient Babylonian language.</span> <span class="choice  " id="choice2">Some parts of the
-documents are broken off or missing.</span> <span class="choice  " id="choice3">Scribes occasionally made errors when
-copying documents.</span> <span class="choice  " id="choice4">Tables of numbers are not usually labeled with their purpose.</span> </div>
-</div>
-<div role="article" class="problem-environment question" id="problem4"><a id="x1-2003r3"></a> What are the most important points of this reading? <div class="free-response" id="problem5"><a id="x1-2004r4"></a>
-</div>
+<div role="article" class="problem-environment question" id="problem2"><a id="x1-2002r2"></a> Which of the following is not a challenge when translating ancient Babylonian tablets? <div class="multiple-choice" id="problem3"><span class="choice correct " id="choice1">We do not know the
+ancient Babylonian language.</span> <span class="choice  " id="choice2">Some parts of the documents are broken off or missing.</span> <span class="choice  " id="choice3">Scribes occasionally made
+errors when copying documents.</span> <span class="choice  " id="choice4">Tables of numbers are not usually labeled with their purpose.</span> </div>
 </div>
  
  
 
-                                                                  
-
-                                                                  
-                                                                  
+                                                                                         
+                                                                                         
+                                                                                         
 
 
 </body></html>
