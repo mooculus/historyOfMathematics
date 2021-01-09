@@ -1,0 +1,118 @@
+\documentclass[nooutcomes]{ximera}
+
+
+\title{The Fundamental Theorem of Algebra}
+
+\begin{document}
+\begin{abstract}
+    We investigate Gauss' first proof of the Fundamental Theorem of Algebra.
+\end{abstract}
+\maketitle
+
+\section*{Gauss' First Proof}
+
+In 1799, as his doctoral dissertation, Gauss gave this proof of the Fundamental Theorem of Algebra (FTA).
+
+\begin{question}
+    Remind me: what does the FTA say?
+\end{question}
+
+To work through this proof, we will need DeMoivre's Theorem, which says that
+\[
+(\cos(\theta) + i \sin(\theta))^n = \cos(n\theta) + i \sin(n\theta).
+\]
+\begin{question}
+    Explain why DeMoivre's Theorem tells us how to find the $n$-th roots of any complex number.
+\end{question}
+
+First, Gauss writes his general polynomial (with real coefficients) as
+\[
+X = x^m + A x^{m-1} + B x^{m-2} + \dots + L x + M.
+\]
+He is trying to show that $X$ has either a real factor $x-r$ or a complex factor $x^2 - 2xr\cos(\phi) + r^2$.
+
+\begin{question}
+    Why is the above statement the same as saying $X$ has $x=r(\cos(\phi) + i\sin(\phi))$ as a root?
+\end{question}
+
+Now, Gauss plugs $x=r(\cos(\phi) + i\sin(\phi))$ in to $X$ and separates his result into its real part and its imaginary part, getting
+\[
+U = r^m\cos(m\phi) + A r^{m-1} \cos((m-1)\phi) + \dots + L r \cos (\phi) + M
+\]
+and
+\[
+T = r^m\sin(m\phi) + A r^{m-1} \sin((m-1)\phi) + \dots + L r \sin (\phi).
+\]
+\begin{question}
+    How was DeMoivre's Theorem involved, here?  Which of $U$ and $T$ is the real part?  The imaginary part?
+\end{question}
+
+Gauss then proves directly that if $T=U=0$, then either $X$ is divisible by $x-r$ or $X$ is divisible by $x^2-2xr\cos(\phi) + r^2$.  We won't prove that here, but keep in mind that means we are trying to prove that the graphs of $T=0$ and $U=0$ have an intersection.
+
+Plot $T=0$, $U=0$ and a very large circle of radius $R$ on the polar axes (i.e. $r$ and $\phi$).  As $R\to \infty$, the curves $T=0$ and $U=0$ look more and more like $\text{Re}(x^m)$ and $\text{Im}(x^m)$.
+
+\begin{question}
+    Why is this last statement true?  What does it have to do with DeMoivre's Theorem?
+\end{question}
+
+The upshot of the last point is: if we draw a circle with large enough radius $R$, and look at the pieces (more technically ``branches'') of $T=0$ and $U=0$ behave inside our circle, we find that the intersections of the branches with the circle itself must alternate.
+
+\begin{question}
+    Why does the horizontal axis ($\phi = 0$ and $\phi = \pi$) have to be a branch of $T$?
+\end{question}
+
+On the circle below, sketch the horizontal axis and label it $T=0$.  Since each branch must both enter and leave the circle, label an even number of $U$-intersections, alternating with an even number of $T$-intersections.  Be sure to label which is which!
+
+\begin{center}
+    \begin{tikzpicture}
+        \draw[thick] (0,0) circle (1.2in);
+    \end{tikzpicture}
+\end{center}
+
+\begin{question}
+    Why are we now forced to have an intersection of one of the branches of $T$ with one of the branches of $U$? (It may help to use two different colors!)
+\end{question}
+
+That's it!
+
+\section*{d'Alembert's Proof}
+
+Here is a theorem now known as {\em d'Alembert's Lemma}:
+\begin{lemma}
+If $p(z)$ is a polynomial function with $p(z_0) \neq 0$ for some $z_0$, then any neighborhood of $z_0$ contains a point $z_1$ such that $\vert p(z_1) \vert < \vert p(z_0) \vert$.
+\end{lemma}
+
+\begin{question}
+    What is this lemma saying?
+\end{question}
+
+We'll also need the Extreme Value Theorem from calculus (sometimes called the Weierstrass Extreme Value Theorem).
+\begin{question}
+    Remind me: what does the Extreme Value Theorem say about a continuous function on a closed interval?
+\end{question}
+
+On to the proof of the FTA.  Step 1: We can find some radius $R$ so that for all $\vert z \vert \geq R$, $\vert p(z) \vert$ is an increasing function.
+
+\begin{question}
+    What is Step 1 saying?  Why is it true? (Hint: what does the graph of a degree-$m$ polynomial look like?  What about the absolute value of that polynomial?
+\end{question}
+
+Step 2: We know that $\vert p(z) \vert$ has to have an absolute minimum inside the circle.
+\begin{question}
+    What is Step 2 saying?  Why is it true?
+\end{question}
+
+Step 3: Suppose the minimum is strictly greater than zero.
+\begin{question}
+    If the minimum is strictly inside the circle, why does d'Alembert's lemma give us a contradiction?
+\end{question}
+
+\begin{question}
+    If the minimum is on the circle's boundary, why do we have a contradiction?
+\end{question}
+
+\begin{question}
+    Why have we now proven the FTA?
+\end{question}
+
+\end{document}
