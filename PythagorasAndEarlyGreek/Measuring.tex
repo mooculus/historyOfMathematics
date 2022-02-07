@@ -1,4 +1,5 @@
 \documentclass[nooutcomes]{ximera}
+\input{preamble}
 
 
 \title{Measuring}
@@ -51,6 +52,23 @@ What is this definition saying? Express the ratio using modern mathematical symb
 
 \begin{question}
 Can you find any examples of extreme and mean ratio in the diagram of a regular pentagon? Prove your claim!
+\begin{center}
+\begin{tikzpicture}
+	\node[regular polygon, 
+	draw,
+	minimum size=4cm] (p) at (0,0) {};
+	\foreach \x in {1,2,...,5}
+  		\fill (p.corner \x) circle[radius=2pt];
+	\node[above] (g) at (p.north) {$G$};
+	\node[above right] at (p.18) {$F$};
+	\node[right] (e) at (p.306) {$E$};
+	\node[left] at (p.234) {$D$};
+	\node[above left] at (p.162) {$H$};
+	\path[draw, name path=L1] (p.90)--(p.306);
+	\path[draw, name path=L2] (p.18)--(p.234);
+	\draw[name intersections = {of = L1 and L2, by = x}][fill] (x) circle (2pt) node[above left, outer sep=0pt] {$A$};
+\end{tikzpicture}
+\end{center}
 %\begin{center} \includegraphics[scale=0.8]{./PythagorasAndEarlyGreek/pentagon.png} \end{center}
 \end{question}
 

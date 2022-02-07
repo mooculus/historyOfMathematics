@@ -52,16 +52,19 @@ angle is greater than each of the internal and opposite angles.
 \coordinate (F) at (9,2);
 \draw (A)--(B)--(C)--cycle;
 \draw (C)--(F);
-\tkzLabelPoints[above](B)
-\tkzLabelPoints[below](A,C)
-\tkzMarkAngle[size=0.5cm,thin](F,C,B)
-\tkzLabelAngle[pos = 0.25](F,C,B){$\epsilon$}
+\tkzLabelPoints[above](B);
+\tkzLabelPoints[below](A,C);
+%\tkzMarkAngle[size=0.5cm,thin](F,C,B);
+%\tkzLabelAngle[pos = 0.25](F,C,B){$\epsilon$};
+\node at (0.4, 2.2) {$\alpha$};
+\node at (2, 4.7){$\beta$};
+\node at (6.6, 2.2){$\epsilon$};
 
-\tkzMarkAngle[size=0.6cm,thin](A,B,C)
-\tkzLabelAngle[pos = 0.35](A,B,C){$\beta$}
+%\tkzMarkAngle[size=0.6cm,thin](A,B,C);
+%\tkzLabelAngle[pos = 0.35](A,B,C){$\beta$};
 
-\tkzMarkAngle[size=0.6cm,thin](C,A,B)
-\tkzLabelAngle[pos = 0.35](C,A,B){$\alpha$}
+%\tkzMarkAngle[size=0.6cm,thin](C,A,B);
+%\tkzLabelAngle[pos = 0.35](C,A,B){$\alpha$};
 
 %\draw[step=.5cm] (0,0) grid (10,5);
 \end{tikzpicture}
