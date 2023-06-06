@@ -1,0 +1,60 @@
+\documentclass[handout,nooutcomes]{ximera}
+\input{../preamble}
+
+\title{Twentieth Century Mathematicians}
+
+
+
+\begin{document}
+\begin{abstract}
+    
+\end{abstract}
+\maketitle
+
+Your goal for today is to learn about some more recent mathematicians. For each 
+of your mathematicians, write down the following information.
+\begin{itemize}
+\item When they live(d)
+\item Where they live(d)
+\item What they study or studied (you don't have to understand their topic!)
+\item An interesting fact about them
+\end{itemize}
+
+After some work time, each group will present. If there are $N$ people in your group, 
+I'd like to see you talk about at least $N$ mathematicians.
+
+At the end of class, we'll fill out a participation assignment where you'll write the 
+names of two mathematicians: one who has something similar to you, and one who has 
+something different from you. The similarities and differences are up to you!
+
+Any mathematician born after the year 1900 is valid for this exercise. I'll list some 
+names below if you need some ideas to get started, but I encourage you to also find people 
+who are not on this list!
+	
+  \begin{itemize}
+\item Artur Avila
+\item David Blackwell
+\item Ron Buckmeyer
+\item James Donaldson
+\item Joan Clarke
+\item Paul Erd\H{o}s
+\item Etta Zuber Falconer
+\item Kurt G\"{o}del
+\item Jes\'{u}s De Loera Herrera
+\item June Huh
+\item Katherine Johnson
+\item Beno\^{i}t Mandelbrot
+\item Maryam Mirzakhani
+\item Katherine Okikiolu
+\item Grigori Perelman
+\item Emily Riehl
+\item Julia Robinson
+\item Jean Springer
+\item Thomas Storer (b. 1938)
+\item Hortensia Soto
+\item Terrence Tao
+\item Alan Turing
+\item John Urschel
+\end{itemize}
+
+\end{document}
