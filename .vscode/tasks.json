@@ -2,26 +2,22 @@
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
     "version": "2.0.0",
+    "type": "shell",
+    "command": "xmlatex",
+    "windows": {
+        "command": ".\\xmScripts\\xmlatex.bat"
+    },    
+    "problemMatcher": [],
     "tasks": [
         {
-            "type": "shell",
             "label": "PDF",
-            "command": "./scripts/xmlatex",
-            "windows": {
-                "command": ".\\scripts\\xmlatex.bat"
-              },            
             "args": [
                 "compilePdf",
                 "${relativeFile}"
             ],
         },
         {
-            "type": "shell",
             "label": "HTML",
-            "command": "./scripts/xmlatex",
-            "windows": {
-                "command": ".\\scripts\\xmlatex.bat"
-              },             
             "args": [
                 "--",
                 "--skip-mathjax",
@@ -30,52 +26,84 @@
             ],
         },
         {
-            "type": "shell",
             "label": "Bake",
-            "command": "./scripts/xmlatex",
-            "windows": {
-                "command": ".\\scripts\\xmlatex.bat"
-              }, 
             "args": [
                 "--",
                 "--skip-mathjax",
-                "bake",
+                "bake"
             ],
         },
         {
-            "type": "shell",
-            "label": "XimerServer",
-            "command": "./scripts/xmlatex",
-            "windows": {
-                "command": ".\\scripts\\xmlatex.bat"
-              }, 
+            "label": "All",
             "args": [
-                "ximeraserver",
+                "-d", "all"
             ],
         },
         {
-            "type": "shell",
             "label": "Serve",
-            "command": "./scripts/xmlatex",
-            "windows": {
-                "command": ".\\scripts\\xmlatex.bat"
-              }, 
             "args": [
-                "serve",
+                "serve"
             ],
-            // // NOT IMPLEMENTED YET //
-            // "problemMatcher": {
-            //     "owner": "xxxx",
-            //     "fileLocation": [
-            //         "relative",
-            //         "${workspaceFolder}"
-            //     ],
-            //     "pattern": {
-            //         "regexp": "^\\[\\d+-\\d+-\\d+\\]\\[\\d+:\\d+:\\d+\\]\\[[^\\]]*\\]\\[(ERROR)\\](.*)$",
-            //         "severity": 1,
-            //         "message": 2
-            //     }
-            // }
+        },        
+        {
+            "label": "Start Ximera Server",
+            "args": [
+                "ximeraserver"
+            ],
         },
-    ]
+        {
+                "label": "Preview in Simple Browser",
+                "command": "${input:openSimpleBrowser}",
+        },
+        {
+            "label": "Bake standard",
+            "args": [
+                "bakestandaard"
+            ],
+        },
+        {
+            "label": "Bake handout",
+            "args": [
+                "bakehandout"
+            ],
+        },
+        {
+            "label": "Delete standard",
+            "args": [
+                "cleanstandaard"
+            ],
+        },
+        {
+            "label": "Delete handout",
+            "args": [
+                "cleanhandout"
+            ],
+        },
+        {
+            "label": "Delete all",
+            "args": [
+                "clean"
+            ],
+        },
+        {
+            "label": "Update DevEnv",
+            "args": [
+                "updateDevEnv"
+            ],
+        },
+    ],
+    "inputs": [
+        {
+          "id": "openSimpleBrowser",
+          "type": "command",
+          "command": "simpleBrowser.show",
+          "args": [ "http://localhost:2000/repositories" ],
+
+        }
+    ],
+    "options": {
+        "env": {
+          "PATH": "${env:PATH}:./xmScripts"  
+        }
+      },    
 }
