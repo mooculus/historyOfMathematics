@@ -21,9 +21,9 @@ YOUR_EMAIL=""
 # !! DO NEVER SAVE THE KEYS THEMSELVE IN THIS FILE   !!
 #
 
-## : "${XIMERA_NAME:=myreponame}"
+ : "${XIMERA_NAME:=history}"
 ## : "${XIMERA_URL:=http://localhost:2000/}"
-## : "${XIMERA_URL:=https://ximera.osu.edu}"
+ : "${XIMERA_URL:=https://ximera.osu.edu}"
 ## : "${XIMERA_URL:=https://set-p-dsb-zomercursus-latest.cloud-ext.icts.kuleuven.be/}"
 ## : "${XIMERA_URL:=https://set.kuleuven.be/voorkennis/}"
 
