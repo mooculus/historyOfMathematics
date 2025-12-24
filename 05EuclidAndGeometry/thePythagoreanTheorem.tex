@@ -3,6 +3,7 @@
 \input{../preamble.tex}
 
 \title{The Pythagorean Theorem}
+
 \begin{document}
 \begin{abstract}
 In this activity we will prove the most famous theorem of
@@ -25,7 +26,25 @@ does it assert?
 What would one need to prove about the following diagram to prove the
 Pythagorean Theorem?
 \begin{image}
-\includegraphics{05EuclidAndGeometry/PythEuclid.png}
+\begin{tikzpicture}%[alt={Squares drawn on the edges of right triangle ABC.}]
+\draw[very thick] (0,0) -- (5,0)--(1.8, 2.4) -- (0,0);
+\draw[thick] (0,0) rectangle (5,-5);
+\draw[thick] (0,0) -- (-2.4, 1.8) -- (-0.6, 4.2) -- (1.8, 2.4)--(0,0);
+\draw[thick] (5,0) --(1.8, 2.4)-- (4.2, 5.6) -- (7.4 , 3.2) -- (5,0);
+
+\node[below left] at (0,0) {$A$};
+\node[below right] at (5,0) {$B$};
+\node[above] at (1.8, 2.4) {$C$};
+
+\node[left] at (0,-5) {$A''$};
+\node[right] at (5,-5) {$B''$};
+
+\node[above] at (4.2, 5.6) {$C''$};
+\node[right] at (7.4, 3.2) {$B'$};
+
+\node[above] at (-0.6, 4.2) {$C'$};
+\node[left] at (-2.4, 1.8) {$A'$};
+\end{tikzpicture}
 \end{image}
 \end{question}
 
