@@ -1,0 +1,223 @@
+\newenvironment {prompt}{}{}
+\newcommand {\DeclareMathOperator }[2]{\@OldDeclareMathOperator {##1}{##2}\immediate \write \myfile {\unexpanded {\DeclareMathOperator }{\unexpanded {##1}}{\unexpanded {##2}}}}
+\newcommand {\accordion }[0]{}
+\newcommand {\ungraded }[0]{}
+\newcommand {\clearEnv }[1]{ \expandafter \let \csname ##1\endcsname \relax \expandafter \let \csname end##1\endcsname \relax \expandafter \let \csname c@##1\endcsname \relax }
+\newcommand {\xmDefaultPreamble }[0]{xmPreamble.tex}
+\newcommand {\xmDefaultPrintstyle }[0]{xmPrintstyle.sty}
+\newcommand {\skip@preamble }[0]{\let \document \relax \let \enddocument \relax \newenvironment {document}{\let \input \otherinput }{}\renewcommand {\documentclass }[2][subfiles]{}}
+\newcommand {\maketitle }[0]{ \pagestyle {empty} \begin {center} ~\\ \vskip .25\textheight \hrulefill \\ \vskip 1em \bfseries {\Huge \@title } \\ \hrulefill \\ \vskip 3em {\Large \@author } \vskip 2em {\large \@date } \end {center} \clearpage \ifnotoc \else \tableofcontents \clearpage \clearpage \fi \pagestyle {main} \let \maketitle \othermaketitle }
+\newcommand {\l@section }[0]{\@dottedtocline {1}{1.5em}{4.2em}}
+\newcommand {\l@subsection }[0]{\@dottedtocline {2}{3.8em}{4.2em}}
+\newcommand {\logo }[1]{\ifx \@onlypreamble \@notprerr \ClassError {xourse}{logo can only be used in the preamble} {Move your logo command to the preamble} \else \IfFileExists {##1}{\gdef \xourse@logo {##1}}{\ClassError {xourse}{logo file does not exist} {To use logo, make sure that the referenced image file exists}}\fi }
+\newcommand {\graded }[1]{}
+\newcommand {\celsius }[0]{}
+\newcommand {\degree }[0]{}
+\newcommand {\ohm }[0]{}
+\newcommand {\vb@xt@ }[0]{\vbox to}
+\newcommand {\Gm@vrules@mpi }[0]{\hb@xt@ \@tempdima {\llap {\Gm@vrule }\ignorespaces \hskip \textwidth \Gm@vrule \hskip \marginparsep \llap {\Gm@vrule }\hfil \Gm@vrule }}
+\newcommand {\Gm@vrules@mpii }[0]{\hb@xt@ \@tempdima {\hskip -\marginparwidth \hskip -\marginparsep \llap {\Gm@vrule }\ignorespaces \hskip \marginparwidth \rlap {\Gm@vrule }\hskip \marginparsep \llap {\Gm@vrule }\hskip \textwidth \rlap {\Gm@vrule }\hss }}
+\newcommand {\Gm@pageframes }[0]{\vb@xt@ \z@ {\ifGm@showcrop \vb@xt@ \z@ {\vskip -1\Gm@truedimen in\vskip \Gm@layoutvoffset \hb@xt@ \z@ {\hskip -1\Gm@truedimen in\hskip \Gm@layouthoffset \vb@xt@ \Gm@layoutheight {\let \protect \relax \hb@xt@ \Gm@layoutwidth {\Gm@cropmark (-1,1,-3,3)\hfil \Gm@cropmark (1,1,3,3)}\vfil \hb@xt@ \Gm@layoutwidth {\Gm@cropmark (-1,-1,-3,-3)\hfil \Gm@cropmark (1,-1,3,-3)}}\hss }\vss }\fi \ifGm@showframe \if@twoside \ifodd \count \z@ \let \@themargin \oddsidemargin \else \let \@themargin \evensidemargin \fi \fi \moveright \@themargin \vb@xt@ \z@ {\vskip \topmargin \vb@xt@ \z@ {\vss \Gm@hrule }\vskip \headheight \vb@xt@ \z@ {\vss \Gm@hruled }\vskip \headsep \vb@xt@ \z@ {\vss \Gm@hrule }\@tempdima \textwidth \advance \@tempdima by \marginparsep \advance \@tempdima by \marginparwidth \if@mparswitch \ifodd \count \z@ \Gm@vrules@mpi \else \Gm@vrules@mpii \fi \else \Gm@vrules@mpi \fi \vb@xt@ \z@ {\vss \Gm@hrule }\vskip \footskip \vb@xt@ \z@ {\vss \Gm@hruled }\vss }\fi }}
+\newcommand {\geometry }[1]{\Gm@clean \setkeys {Gm}{##1}\Gm@process }
+\newcommand {\Gm@changelayout  }[0]{\setlength {\@colht }{\textheight } \setlength {\@colroom }{\textheight }\setlength {\vsize }{\textheight } \setlength {\columnwidth }{\textwidth }\if@twocolumn \advance \columnwidth -\columnsep \divide \columnwidth \tw@ \@firstcolumntrue \fi \setlength {\hsize }{\columnwidth }\setlength {\linewidth }{\hsize }}
+\newcommand {\newgeometry }[1]{\clearpage \Gm@restore@org \Gm@initnewgm \Gm@newgmtrue \setkeys {Gm}{##1}\Gm@newgmfalse \Gm@process \ifnum \mag =\@m \else \Gm@magtooffset \fi \Gm@changelayout \Gm@showparams {newgeometry}}
+\newcommand {\restoregeometry }[0]{\clearpage \Gm@restore@pkg \Gm@changelayout }
+\newcommand {\savegeometry }[1]{\Gm@save \expandafter \edef \csname Gm@restore@@##1\endcsname {\Gm@restore }}
+\newcommand {\loadgeometry }[1]{\clearpage \@ifundefined {Gm@restore@@##1}{\PackageError {geometry}{\string \loadgeometry : name `##1' undefined}{The name `##1' should be predefined with \string \savegeometry }}{\@nameuse {Gm@restore@@##1}\Gm@changelayout }}
+\newcommand {\tkz@getdecimal }[1]{\expandafter \@getdecimal ##1.\@nil }
+\newcommand {\CountToken }[1]{\c@pgfmath@countb 0 \expandafter \C@untToken ##1\@nil }
+\newcommand {\C@untToken }[0]{\afterassignment \C@untT@ken \let \CurrT@ken = }
+\newcommand {\C@untT@ken }[0]{\ifx \CurrT@ken \@nil \else \advance \c@pgfmath@countb by1 \expandafter \C@untToken \fi }
+\newcommand {\tkzgetinteger }[1]{\expandafter \tkz@getinteger ##1.\@nil }
+\newcommand {\tri }[0]{\triangle }
+\newcommand {\l }[0]{\ell }
+\newcommand {\P }[0]{\mathcal {P}}
+\newcommand {\R }[0]{\mathbb {R}}
+\newcommand {\Q }[0]{\mathbb {Q}}
+\newcommand {\Z }[0]{\mathbb Z}
+\newcommand {\N }[0]{\mathbb N}
+\newcommand {\ph }[0]{\varphi }
+\newcommand {\vec }[0]{\mathbf }
+\newcommand {\d }[0]{\,d}
+\newcommand {\egmil }[1]{\multido {\i =1+1}{##1}{\includegraphics [scale=.1]{egyptian/egypt_person.pdf}\hspace {0.5mm}}}
+\newcommand {\eghuntho }[1]{\multido {\i =1+1}{##1}{\includegraphics [scale=.1]{egyptian/egypt_fish.pdf}\hspace {0.5mm}}}
+\newcommand {\egtentho }[1]{\multido {\i =1+1}{##1}{\includegraphics [scale=.1]{egyptian/egypt_finger.pdf}\hspace {0.5mm}}}
+\newcommand {\egtho }[1]{\multido {\i =1+1}{##1}{\includegraphics [scale=.1]{egyptian/egypt_lotus.pdf}\hspace {0.5mm}}}
+\newcommand {\eghun }[1]{\multido {\i =1+1}{##1}{\includegraphics [scale=.1]{egyptian/egypt_scroll.pdf}\hspace {0.5mm}}}
+\newcommand {\egten }[1]{\multido {\i =1+1}{##1}{\includegraphics [scale=.1]{egyptian/egypt_heel.pdf}\hspace {0.5mm}}}
+\newcommand {\egone }[1]{\multido {\i =1+1}{##1}{\includegraphics [scale=.1]{egyptian/egypt_stroke.pdf}\hspace {0.5mm}}}
+\newcommand {\egyptify }[7]{ \multido {\i =1+1}{##1}{\includegraphics [scale=.1]{egyptian/egypt_person.pdf}\hspace {0.5mm}} \multido {\i =1+1}{##2}{\includegraphics [scale=.1]{egyptian/egypt_fish.pdf}\hspace {0.5mm}} \multido {\i =1+1}{##3}{\includegraphics [scale=.1]{egyptian/egypt_finger.pdf}\hspace {0.5mm}} \multido {\i =1+1}{##4}{\includegraphics [scale=.1]{egyptian/egypt_lotus.pdf}\hspace {0.5mm}} \multido {\i =1+1}{##5}{\includegraphics [scale=.1]{egyptian/egypt_scroll.pdf}\hspace {0.5mm}} \multido {\i =1+1}{##6}{\includegraphics [scale=.1]{egyptian/egypt_heel.pdf}\hspace {0.5mm}} \multido {\i =1+1}{##7}{\includegraphics [scale=.1]{egyptian/egypt_stroke.pdf}\hspace {0.5mm}} \hspace {.5mm} }
+\newcommand {\_  }[0]{\ifmmode \mathunderscore \else \textunderscore \fi }
+\newcommand {\reserved@a }[0]{TU}
+\newcommand {\TU\textquotesingle }[0]{\remove@tlig {"0027}}
+\newcommand {\TU\textasciigrave }[0]{\remove@tlig {"0060}}
+\newcommand {\TU\textquotedbl }[0]{\remove@tlig {"0022}}
+\newcommand {\TU\textnonbreakinghyphen }[0]{\iffontchar \font "2011 \char "2011 \else \mbox {-}\nobreak \hskip \z@ \fi }
+\newcommand {\TU\textfiguredash }[0]{\iffontchar \font "2012 \char "2012 \else \char "2013 \fi }
+\newcommand {\TU\texthorizontalbar }[0]{\iffontchar \font "2015 \char "2015 \else \char "2014 \fi }
+\newcommand {\TU\textasteriskcentered }[0]{\iffontchar \font "2217 \char "2217 \else \begingroup \fontsize {\the \dimexpr 1.3\dimexpr \f@size pt\relax }{\f@baselineskip }\selectfont \raisebox {-0.7ex}[\dimexpr \height -0.7ex][0pt]{*}\endgroup \fi }
+\newcommand {\TU\` }[0]{\add@unicode@accent {"0300}}
+\newcommand {\TU\' }[0]{\add@unicode@accent {"0301}}
+\newcommand {\TU\^ }[0]{\add@unicode@accent {"0302}}
+\newcommand {\TU\~ }[0]{\add@unicode@accent {"0303}}
+\newcommand {\TU\= }[0]{\add@unicode@accent {"0304}}
+\newcommand {\TU\u }[0]{\add@unicode@accent {"0306}}
+\newcommand {\TU\. }[0]{\add@unicode@accent {"0307}}
+\newcommand {\TU\" }[0]{\add@unicode@accent {"0308}}
+\newcommand {\TU\r }[0]{\add@unicode@accent {"030A}}
+\newcommand {\TU\H }[0]{\add@unicode@accent {"030B}}
+\newcommand {\TU\v }[0]{\add@unicode@accent {"030C}}
+\newcommand {\TU\b }[0]{\add@unicode@accent {"0332}}
+\newcommand {\TU\d }[0]{\add@unicode@accent {"0323}}
+\newcommand {\TU\c }[0]{\add@unicode@accent {"0327}}
+\newcommand {\TU\k }[0]{\add@unicode@accent {"0328}}
+\newcommand {\TU\textcommabelow }[1]{\hmode@bgroup \ooalign {\null ##1\crcr \hidewidth \raise -.31ex \hbox {\check@mathfonts \fontsize \ssf@size \z@ \math@fontsfalse \selectfont ,}\hidewidth }\egroup }
+\newcommand {\luacode@printdbg }[1]{texio.write_nl('log', '-- BEGIN luacode debug (on input line \the \inputlineno )') texio.write_nl('log', "\luatexluaescapestring {##1}") texio.write_nl('log', '-- END luacode debug (on input line \the \inputlineno )') }
+\newcommand {\luacode@dbg@exec }[1]{\directlua { \luacode@maybe@printdbg {##1} ##1 }}
+\newcommand {\luacode@execute }[1]{\begingroup \escapechar 92 \newlinechar 10 \edef \\{\string \\}\edef ~{\string ~}\let \%=\luacode@percentchar \let \#=\luacode@sharpchar \expandafter \expandafter \expandafter \endgroup \luacode@dbg@exec {##1}}
+\newcommand {\luacode@percentchar }[0]{%}
+\newcommand {\luacode@sharpchar }[0]{#}
+\newcommand {\luacode@begin }[1]{\begingroup \escapechar 92 \luatexcatcodetable ##1\relax \edef \luacode@endmark {\string \end {\@currenvir }}\expandafter \def \expandafter \luacode@endmark \expandafter {\luatexscantextokens \expandafter {\luacode@endmark }}\luacode@grab@body }
+\newcommand {\luacode@end }[0]{\edef \luacode@next {\noexpand \luacode@execute {\the \luacode@lines }\noexpand \end {\@currenvir }}\expandafter \endgroup \luacode@next }
+\newcommand {\luacode@addline }[1]{\luacode@lines \expandafter {\the \luacode@lines ##1
+}}
+\newcommand {\luacode@grab@body }[1]{\luacode@lines {}\endlinechar 10 \luacode@grab@lines }
+\newcommand {\luacode@spaceother }[0]{ }
+\newcommand {\luacode@strip@spaces }[0]{\expandafter \luacode@strip@sp@peek \luacode@curr \@nil }
+\newcommand {\luacode@strip@sp@peek }[0]{\futurelet \@let@token \luacode@strip@sp@look }
+\newcommand {\luacode@strip@sp@look }[0]{\expandafter \ifx \luacode@spaceother \@let@token \expandafter \@firstoftwo \else \expandafter \@secondoftwo \fi {\afterassignment \luacode@strip@sp@peek \let \@let@token = }{\luacode@strip@sp@def }}
+\newcommand {\LuaCodeDebugOn }[0]{\let \luacode@maybe@printdbg \luacode@printdbg }
+\newcommand {\LuaCodeDebugOff }[0]{\let \luacode@maybe@printdbg \@gobble }
+\newcommand {\luaexec }[1]{\luacode@execute {##1}}
+\newcommand {\luacode }[0]{\luacode@begin \luacode@table@soft }
+\newcommand {\luacode* }[0]{\luacode@begin \CatcodeTableOther }
+\newcommand {\luacodestar }[0]{\@nameuse {luacode*}}
+\newcommand {\luastring }[1]{"\luatexluaescapestring {##1}"}
+\newcommand {\luastringO }[1]{\luastring {\unexpanded \expandafter {##1}}}
+\newcommand {\luastringN }[1]{\luastring {\unexpanded {##1}}}
+\newcommand {\begin  }[1]{\csname @begin:##1\endcsname \choose:begin {\let \choose:begin \@firstoftwo \ifx \EndPicture \:Undef \PushStack \envn:list \n:list \SaveEverypar \fi \let \chk:pic \EndPicture \ifx \EndPicture \:UnDef \list:save \let \after:end \empty \csname before:begin##1\endcsname \fi \UseHook {env/##1/before}\@ifundefined {##1}{\def \reserved@a {\@latex@error {Environment ##1 undefined}\@eha }}{\def \reserved@a {\def \@currenvir {##1}\edef \@currenvline {\on@line }\ifx \EndPicture \:UnDef \ifx \this:listConfigure \empty \null:listConfigure \csname on##1:list\endcsname \fi \fi \@execute@begin@hook {##1}\csname ##1\endcsname }}\global \@ignorefalse \begingroup \@endpefalse \reserved@a }{\o:begin: {##1}}}
+\newcommand {\end  }[1]{\choose:begin {\ifvmode \ifx \EndPicture \:UnDef \def \:temp {\def \:temp {\def \:temp {\IgnorePar \ifx \:tempa \hline \expandafter \\\else \fi }\futurelet \:tempa \:temp }\expandafter \expandafter \expandafter \:temp }\expandafter \:temp \fi \fi \UseHook {env/##1/end}\csname end##1\endcsname \@checkend {##1}\aftergroup \recall:afterend \expandafter \endgroup \if@endpe \@doendpe \fi \UseHook {env/##1/after}\ifx \chk:pic \:UnDef \csname after:end\endcsname \expandafter \let \csname after:end\endcsname \:UnDef \PopStack \envn:list \:tempb \ifnum \:tempb =\n:list \else \def \:temp {##1}\def \:tempa {thebibliography}\ifx \:temp \:tempa \else \:warning {\string \SaveEverypar 's: \:tempb \space at \string \begin {##1} and \n:list \space \string \end {##1}}\fi \fi \list:recall \else \let \chk:pic \:UnDef \fi \if@ignore \global \@ignorefalse \ignorespaces \fi }{\o:end: {##1}}}
+\newcommand {\:tmspace  }[2]{\ifmmode \expandafter \csname a:##1\endcsname \else \leavevmode@ifvmode \kern ##2\fi \relax }
+\newcommand {\,  }[0]{\:tmspace {,}{.16667em}}
+\newcommand {\;  }[0]{\:tmspace ;{.2777em}}
+\newcommand {\!  }[0]{\:tmspace !{-.16667em}}
+\newcommand {\:  }[0]{\:tmspace {:}{.2222em}}
+\newcommand {\>  }[0]{\:tmspace ;{.2222em}}
+\newcommand {\:sbox  }[2]{\o:sbox: {##1}{{##2}}}
+\newcommand {\VerbMathToks }[2]{\a:MathjaxEnv \HCode {\string \begin {##2}}\alteqtoks {##1}\HCode {\string \end {##2}}\b:MathjaxEnv }
+\newcommand {\:savemathjaxenv }[1]{\seq_gput_right:Nn \:savedmathjaxenvs {##1}\expandafter \let \csname mathjax-##1\expandafter \endcsname \csname ##1\endcsname \expandafter \let \csname mathjax-end##1\expandafter \endcsname \csname end##1\endcsname }
+\newcommand {\:ignoretikzmatrix }[0]{\seq_remove_all:Nn \:savedmathjaxenvs {matrix}}
+\newcommand {\RestoreMathJaxEnvironment }[1]{\expandafter \let \csname ##1\expandafter \endcsname \csname mathjax-##1\endcsname \expandafter \let \csname end##1\expandafter \endcsname \csname mathjax-end##1\endcsname }
+\newcommand {\RestoreMathJaxEnvironments }[0]{\seq_map_function:NN \:savedmathjaxenvs \RestoreMathJaxEnvironment }
+\newcommand {\part }[1]{\stepcounter {ximera@part}\ifvmode \IgnorePar \fi \EndP \HCode {<h1 id="part\arabic {ximera@part}" class="card part">##1</h1>}\IgnoreIndent }
+\newcommand {\graded }[1]{\ifvmode \IgnorePar \fi \EndP \HCode {<div class="graded" data-weight="##1">}\IgnoreIndent }
+\newcommand {\youtube }[1]{\ifvmode \IgnorePar \fi \EndP \HCode {<a class="youtube" href="https://www.youtube.com/watch?v=##1">##1</a>}\IgnoreIndent }
+\newcommand {\DeclareMicrotypeVariants }[1]{}
+\newcommand {\DeclareMicrotypeAlias }[2]{}
+\newcommand {\LoadMicrotypeFile }[1]{}
+\newcommand {\DeclareMicrotypeFilePrefix }[1]{}
+\newcommand {\DeclareMicrotypeBabelHook }[2]{}
+\newcommand {\microtypesetup }[1]{}
+\newcommand {\microtypecontext }[1]{}
+\newcommand {\textmicrotypecontext }[2]{##2}
+\newcommand {\leftprotrusion }[1]{##1}
+\newcommand {\rightprotrusion }[1]{##1}
+\newcommand {\reserved@a }[0]{}
+\newcommand {\noprotrusionifhmode }[0]{}
+\newcommand {\lsstyle }[0]{}
+\newcommand {\lslig }[1]{##1}
+\newcommand {\DeclareMicroTypeAlias }[0]{\MT@error {\string \DeclareMicroTypeAlias  is deprecated. Please use\MessageBreak \string \DeclareMicrotypeAlias  instead}{As I said}\let \DeclareMicroTypeAlias \DeclareMicrotypeAlias \DeclareMicrotypeAlias }
+\newcommand {\DeclareMicroTypeSet }[0]{\MT@error {\string \DeclareMicroTypeSet  is deprecated. Please use\MessageBreak \string \DeclareMicrotypeSet  instead}{As I said}\let \DeclareMicroTypeSet \DeclareMicrotypeSet \DeclareMicrotypeSet }
+\newcommand {\UseMicroTypeSet }[0]{\MT@error {\string \UseMicroTypeSet  is deprecated. Please use\MessageBreak \string \UseMicrotypeSet  instead}{As I said}\let \UseMicroTypeSet \UseMicrotypeSet \UseMicrotypeSet }
+\newcommand {\LoadMicroTypeFile }[0]{\MT@error {\string \LoadMicroTypeFile  is deprecated. Please use\MessageBreak \string \LoadMicrotypeFile  instead}{As I said}\let \LoadMicroTypeFile \LoadMicrotypeFile \LoadMicrotypeFile }
+\newcommand {\reserved@a }[0]{\@ifl@t@r \fmtversion }
+\newcommand {\noprotrusionifhmode  }[0]{\relax \ifhmode \kern -\p@ \kern \p@ \fi }
+\newcommand {\leftprotrusion  }[0]{\MT@toks {}\MT@prot@toks {}\let \MT@prot@l \MT@prot@l@ \let \MT@prot@get@first@group \MT@prot@get@first@group@ \let \MT@maybe@textcmd \@firstofone \MT@prot@get@firstgroup }
+\newcommand {\rightprotrusion  }[0]{\MT@prot@r }
+\newcommand {\textls  }[0]{\@ifstar {\let \MT@ls@adjust@ \MT@ls@adjust@empty \MT@textls }{\let \MT@ls@adjust@ \MT@ls@adjust@relax \MT@textls }}
+\newcommand {\textmicrotypecontext  }[0]{\MT@begin@catcodes \MT@textmicrotypecontext }
+\newcommand {\MT@DeclareMicrotypeAlias }[2]{\def \@tempb {##2}\@onelevel@sanitize \@tempb \MT@ifdefined@n@T {MT@##1@alias}{\MT@warning {Alias font family `\@tempb ' will override alias `\@nameuse {MT@##1@alias}'\MessageBreak for font family `##1'}}\MT@xdef@n {MT@##1@alias}{\@tempb }\MT@ifdefined@c@T \MT@family {\MT@glet \MT@familyalias \@tempb }\MT@end@catcodes }
+\newcommand {\lsstyle  }[0]{\not@math@alphabet \lsstyle \textls \let \glb@currsize \@empty \MT@maybe@gobble@with@tikz {\aftergroup \glb@settings }\def \MT@feat {tr}\let \MT@tracking \MT@set@tr@codes \selectfont }
+\newcommand {\lslig  }[1]{{\MT@ifdefined@c@TF \MT@curr@ls {\escapechar \m@ne \xdef \font@name {\csname \curr@fontshape /\f@size \endcsname }\MT@get@ls@basefont \MT@outer@kern =\dimexpr \MT@curr@ls sp * \fontdimen 6\font@name /2000\relax \kern \MT@outer@kern \font@name ##1\kern \MT@outer@kern }{##1}}}
+\newcommand {\html }[0]{\expandafter \Collect@Body \csname env@html@parse\endcsname }
+\newcommand {\env@html@save@env }[0]{\expandafter \expandafter \expandafter \env@save \csname env@html@BODY\endcsname }
+\newcommand {\env@html@process }[0]{\HCode {\BODY }\env@ignore }
+\newcommand {\abstract }[0]{\expandafter \Collect@Body \csname env@abstract@parse\endcsname }
+\newcommand {\env@abstract@save@env }[0]{\expandafter \expandafter \expandafter \env@save \csname env@abstract@BODY\endcsname }
+\newcommand {\env@abstract@process }[0]{\BODY \env@ignore }
+\newcommand {\maketitle }[0]{}
+\newcommand {\ConfigureQuestionEnv }[2]{\renewenvironment {##1}{ } { }\ConfigureEnv {##1} { \def \problemNumDisp {}\stepcounter {identification} \ifvmode \IgnorePar \fi \EndP \HCode {<div role="article" class="problem-environment ##1" id="problem\arabic {identification}" numbered=" \problemNumDisp " titletext=" \GetTranslation {##2}">} } { \stepcounter {problem@Depth} \ifcsname c@depth\Roman {problem@Depth}Count\endcsname \expandafter \ifnum \expandafter \value {depth\Roman {problem@Depth}Count}>0 \expandafter \setcounter {depth\Roman {problem@Depth}Count}{0} \fi \fi \addtocounter {problem@Depth}{-2}\ifvmode \IgnorePar \fi \EndP \HCode {</div>}\IgnoreIndent }{}{}}
+\newcommand {\problem }[0]{ }
+\newcommand {\exercise }[0]{ }
+\newcommand {\question }[0]{ }
+\newcommand {\exploration }[0]{ }
+\newcommand {\ConfigureTheoremEnv }[1]{\renewenvironment {##1}[1][]{\refstepcounter {problem}\ifthenelse {\equal {####1}{}}{}{\HCode {<span class="theorem-like-title">}####1\HCode {</span>}}}{} \ConfigureEnv {##1}{\stepcounter {identification}\ifvmode \IgnorePar \fi \EndP \HCode {<div class="theorem-like problem-environment ##1" id="problem\arabic {identification}" titletext=" \GetTranslation {##1}">}}{\ifvmode \IgnorePar \fi \EndP \HCode {</div>}\IgnoreIndent }{}{}}
+\newcommand {\alt }[1]{\HCode {<div style="display: none;" id="image-alt-\arabic {imagealt}">}##1\HCode {</div>}}
+\newcommand {\reserved@a }[3]{}
+\newcommand {\dialogue }[0]{\begin {description}}
+\newcommand {\foldable }[0]{\stepcounter {identification}\ifvmode \IgnorePar \fi \EndP \HCode {<div id="foldable\arabic {identification}" class="foldable">}}
+\newcommand {\unfoldable }[1]{\HCode {<span class="unfoldable">}##1\HCode {</span>}}
+\newcommand {\youtube }[1]{\ifvmode \IgnorePar \fi \EndP \HCode {<iframe class="xmyoutube" src="https://www.youtube-nocookie.com/embed/##1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>}}
+\newcommand {\xkcd }[1]{\ifvmode \IgnorePar \fi \EndP \HCode {<img src="https://imgs.xkcd.com/comics/##1.png">}}
+\newcommand {\multipleChoice@ }[0]{\refstepcounter {problem}}
+\newcommand {\selectAll }[0]{\refstepcounter {problem}}
+\newcommand {\freeResponse }[0]{\refstepcounter {problem}}
+\newcommand {\javascript }[0]{\NoFonts }
+\newcommand {\desmos }[3]{\HCode {<iframe src="https://www.desmos.com/calculator/##1" width="100%" height="##3px" style="border: 1px solid \#ccc" frameborder=0>This browser does not support embedded elements.</iframe>}}
+\newcommand {\desmosThreeD }[3]{\HCode {<iframe src="https://www.desmos.com/3d/##1" width="##2px" height="##3px" style="border: 1px solid \#ccc" frameborder=0>This browser does not support embedded elements.</iframe>}}
+\newcommand {\googleSheet }[5]{\ifthenelse {\equal {##4}{}}{\HCode {<iframe width="##2px" height="##3px" src="https://docs.google.com/spreadsheets/d/##1/htmlembed?widget=true">This browser does not support embedded elements.</iframe>}}{\ifthenelse {\equal {##5}{}}{\HCode {<iframe width="##2px" height="##3px" src="https://docs.google.com/spreadsheets/d/##1/htmlembed?single=true&amp;gid=##4&amp;widget=false">This browser does not support embedded elements.</iframe>}}{\HCode {<iframe width="##2px" height="##3px" src="https://docs.google.com/spreadsheets/d/##1/htmlembed?single=true&amp;gid=##4&amp;range=##5&amp;widget=false">This browser does not support embedded elements.</iframe>}}}}
+\newcommand {\leash }[1]{\ifvmode \IgnorePar \fi \EndP \HCode {<div style="overflow: auto; height: ##1px">}}
+\newcommand {\label }[1]{\oldlabel {##1}\HCode {<a class="ximera-label" id="##1"></a>}}
+\newcommand {\ref }[1]{\HCode {<a class="reference" href="\###1">##1</a>}}
+\newcommand {\sageCell }[0]{\NoFonts }
+\newcommand {\sageOutput }[0]{\NoFonts }
+\newcommand {\sagesilent }[0]{\NoFonts }
+\newcommand {\ungraded }[0]{\ifvmode \IgnorePar \fi \EndP \HCode {<div class="ungraded">}\IgnoreIndent }
+\newcommand {\footnote }[1]{\ifvmode \ShowPar \fi \stepcounter {footnoteNum}\HCode { <script type="text/javascript"> function footnotefun(ID) { var x = document.getElementById(ID); if (x.style.display === "none") { x.style.color = "blue"; x.style.display = "inline"; } else { x.style.display = "none"; } }} \HCode {</script>} \expandafter \HCode { <span style="position=relative; vertical-align=baseline;"> <button onclick='footnotefun("footnote\roman {footnoteNum}")' style= "background:none!important; color:inherit; border:none; padding:0!important; font: inherit; cursor: pointer;" > <sup>}[\arabic {footnoteNum}] \HCode {</sup></button>} \expandafter \HCode { <span id="footnote\roman {footnoteNum}" style= "display:none; min-width:20em; position:relative; left:2px; padding:5px; color:blue; word-wrap:break-word; z-index=9999; overflow=auto;" > } \textcolor {fncolor}{(##1)}\HCode {</span></span>} }
+\newcommand {\accordion }[0]{\ifvmode \IgnorePar \fi \EndP \HCode {<div class="accordion">} }
+\newcommand {\hint }[0]{\expandafter \Collect@Body \csname env@hint@parse\endcsname }
+\newcommand {\env@hint@save@env }[0]{\expandafter \expandafter \expandafter \env@save \csname env@hint@BODY\endcsname }
+\newcommand {\env@hint@process }[0]{\begin {expandable}{xmhint}{}\BODY \end {expandable}\env@ignore }
+\newcommand {\expandable }[2]{\stepcounter {identification}\ifvmode \IgnorePar \fi \EndP \HCode {<div class="accordion">\Hnewline }\HCode {<h3 class="##1">}##2\HCode {</h3>\Hnewline }\HCode {<div id="accordion-item\arabic {identification}" class="accordion-item ##1-content">\Hnewline } }
+\newcommand {\autoref  }[0]{\@ifstar {\HyRef@autoref \@gobbletwo }{\HyRef@autoref \hyper@@link }}
+\newcommand {\autopageref  }[0]{\@ifstar {\HyRef@autopagerefname \pageref *}\HyRef@autopageref }
+\newcommand {\reserved@a }[0]{\equationautorefname }
+\newcommand {\reserved@a }[0]{\footnoteautorefname }
+\newcommand {\reserved@a }[0]{\itemautorefname }
+\newcommand {\reserved@a }[0]{item}
+\newcommand {\reserved@a }[0]{Equation}
+\newcommand {\reserved@a }[0]{footnote}
+\newcommand {\reserved@a }[0]{item}
+\newcommand {\reserved@a }[0]{Figure}
+\newcommand {\reserved@a }[0]{Table}
+\newcommand {\reserved@a }[0]{Part}
+\newcommand {\reserved@a }[0]{Appendix}
+\newcommand {\reserved@a }[0]{chapter}
+\newcommand {\reserved@a }[0]{section}
+\newcommand {\reserved@a }[0]{subsection}
+\newcommand {\reserved@a }[0]{subsubsection}
+\newcommand {\reserved@a }[0]{paragraph}
+\newcommand {\reserved@a }[0]{subparagraph}
+\newcommand {\reserved@a }[0]{line}
+\newcommand {\reserved@a }[0]{Theorem}
+\newcommand {\reserved@a }[0]{page}
+\newcommand {\Gm@pageframes }[0]{}
+\newcommand {\paragraph }[1]{\HCode {<span class="paragraphHead">}##1\HCode {</span>}\par \IgnorePar }
+\newcommand {\subparagraph }[1]{\HCode {<span class="subparagraphHead">}##1\HCode {</span>}\par \IgnorePar }
+\newcommand {\outcome }[1]{ \Configure {@HEAD}{\HCode {<meta name="learning-outcome" content="##1"/>\Hnewline }} }
+\newcommand {\outcome }[1]{\HCode {<span class="learning-outcome">##1</span>} }
+\newcommand {\textcolor }[2]{\extractcolorspec {##1}{\tsf@color }\expandafter \convertcolorspec \tsf@color {HTML}\tsf@color \oldtextcolor {##1}{##2}}
+\newcommand {\javascriptCode }[0]{\NoFonts }
+\newcommand {\GetTranslation }[1]{##1}
+\newcommand {\reserved@a }[2]{}
+\newcommand {\vnameref  }[1]{\unskip ~\nameref {##1} \@vpageref [\unskip ]{##1}}
+\newcommand {\ST@wsf }[1]{\immediate \write \ST@sf {##1}}
+\newcommand {\degree }[0]{\ensuremath {^\circ }}
+\newcommand {\celsius  }[0]{\ifmmode ^\circ \mathrm {C}\else $^\circ $C\fi }
+\newcommand {\ohm  }[0]{\ifmmode \Omega \else $\Omega $\fi }
+\newcommand {\microtypecontext  }[0]{\MT@begin@catcodes \MT@microtypecontext }
+\newcommand {\ref }[1]{\HCode {<a class="reference" href="\###1">##1</a>}}
+\newcommand {\thanks }[1]{}
+\newcommand {\thanksmark }[1]{}
+\newcommand {\thanksgap }[1]{}
+\newcommand {\reserved@a }[2]{}
